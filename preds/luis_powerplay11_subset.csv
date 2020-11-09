@@ -1,3 +1,1042 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ba236ca99fbefe9b93e89aa77ffcbacde3eb6954037c76a646157a0bc6f7094
-size 84278
+sentence,label,predicted_node,predicted_node_score
+Unable play,NO_NODES_DETECTED,HOW_TO_PLAY,0.0743981451
+I am unable to join any contest,NO_NODES_DETECTED,JOIN_CONTEST,0.642757356
+My team not creative way,NO_NODES_DETECTED,FAKE_TEAMS,0.0572629347
+Unable to create team and join,NO_NODES_DETECTED,JOIN_CONTEST,0.06467455
+I m playing from long time but but i m not able to join contest plz cleck the statud,NO_NODES_DETECTED,JOIN_CONTEST,0.2653157
+Not opend please help me,CAPABILITIES,CAPABILITIES,0.09436775
+My account under fair play or not,FAIRPLAY_VIOLATIONS,ACCOUNT_NOT_VERIFIED,0.08670044
+Sir I am not able to join contest,NO_NODES_DETECTED,JOIN_CONTEST,0.5432066
+No rummay,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0520403869
+I can't be join any contest?,NO_NODES_DETECTED,JOIN_CONTEST,0.769683957
+I am talk with your agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.962320864
+Xxx,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Unable to join?,NO_NODES_DETECTED,JOIN_CONTEST,0.144410208
+How to deactivate of my PowerPlay11 account,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.07885133
+Problem in joining any contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.213358134
+Dear Sir I Deposit 200 Rs But Not Credit In My Wallet,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.161957636
+Restricting me to join  contest,NO_NODES_DETECTED,JOIN_CONTEST,0.9265435
+"I try to join any contest but showing me unfortunately, PowerPlay11 stopped,
+Why this msg come in my screen",NO_NODES_DETECTED,JOIN_CONTEST,0.2566456
+Application is not responding during team joining,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0245980956
+"All contest can not join football, baseball, basketball etc.",NO_NODES_DETECTED,JOIN_CONTEST,0.281957179
+Join is not working,NO_NODES_DETECTED,JOIN_CONTEST,0.153358966
+Sir rummy me deal or tournament kab jayga.,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0159885511
+My team is not  add  with  contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.371285945
+Team not  add,NO_NODES_DETECTED,FAKE_TEAMS,0.298316658
+Actually this may not responding from yesterdy,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0233346745
+I am not able to join any contest. Can you check.,NO_NODES_DETECTED,JOIN_CONTEST,0.4977972
+My account under fair play violation or not please tell me,FAIRPLAY_VIOLATIONS,FAIRPLAY_VIOLATIONS,0.494054139
+Add case  bonus kob haige,NO_NODES_DETECTED,TYPES_BONUS,0.384875745
+"Good afternoon 
+My app PowerPlay11 is not working 
+It shows the massage that PowerPlay11 unfortunately stopped",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0563626848
+Thats not working,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0357258
+No cas contast,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0178163555
+App is not working properly,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0459242538
+Highest rank he,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+Why my current basketball teams being shown??,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0276259631
+Unfortunately app not working,NO_NODES_DETECTED,UPDATE_APP,0.043094296
+I have joined 505 leages but today app is not woking,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.236716464
+Jju,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+I have already app,NO_NODES_DETECTED,UPDATE_APP,0.0788595
+Give me contact number,CONTACT_NUMBER,CONTACT_NUMBER,0.9555578
+Not working joining contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.335710049
+Application not working,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.042825833
+Application error mang raha hai,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.01824578
+Pan card is not verified,VERIFY_PAN,DELETE_PAN_CARD,0.425845981
+I have joined one contest till now it was not updated,CANNOT_SEE_JOINED_CONTESTS,CANNOT_SEE_JOINED_CONTESTS,0.8276372
+Some problem,NO_NODES_DETECTED,CRITICISM,0.0337355025
+Team are not jion today,NO_NODES_DETECTED,FAKE_TEAMS,0.0973397
+No contest join?,NO_NODES_DETECTED,JOIN_CONTEST,0.8884887
+Team join Nahin ho raha hai please help me,NO_NODES_DETECTED,JOIN_CONTEST,0.026270004
+Unable to join the contest,NO_NODES_DETECTED,JOIN_CONTEST,0.765418768
+Click on the join button in front of the specific contest,JOIN_CONTEST,JOIN_CONTEST,0.391194463
+Not able to join basketball contest,NO_NODES_DETECTED,JOIN_CONTEST,0.633731961
+I want rummy app,NO_NODES_DETECTED,UPDATE_APP,0.0486197472
+Withdrawal issue ?,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.249327108
+now match result,WHEN_SCORES_UPDATED,TEAM_DEADLINE,0.04148313
+Team join karne ke liye koshish karta hun joining Nahin Hota Hai Kyon,NO_NODES_DETECTED,WRONG_SCORES,0.02541817
+Redeem code,NO_NODES_DETECTED,CRITICISM,0.033747118
+Join to nahi ho rha,NO_NODES_DETECTED,JOIN_CONTEST,0.04200895
+my winning no my account,CHAT_WITH_AN_AGENT,ACCOUNT_NOT_VERIFIED,0.11751236
+No random code,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+Sir you are not replying to my mail,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.06319073
+Thanks i understand all and i am not play PowerPlay11,NO_NODES_DETECTED,HOW_TO_PLAY,0.09314676
+Sir I can't join any contest why,NO_NODES_DETECTED,JOIN_CONTEST,0.5924412
+Mera team kisi bhi match me join kyo nahi ho rha hai,NO_NODES_DETECTED,MATCH_ABANDONED,0.0260778014
+Plese help,CAPABILITIES,CAPABILITIES,0.109151855
+Why was not open my team rummy apk,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0272702537
+Win,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Password no verify,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.355570883
+My query is that how can I upload pan card,NO_NODES_DETECTED,DELETE_PAN_CARD,0.34078604
+Paisa add nahi ho raha hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0141313253
+But it is not uploaded by the problem of technical errors,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0663285553
+Any  contest,TYPES_CONTESTS,CANNOT_SEE_JOINED_CONTESTS,0.7355108
+Contest join nahi hota hai,NO_NODES_DETECTED,JOIN_CONTEST,0.316238165
+this PowerPlay11 seems unfortunately stoped  whenever I will open it why?,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0357216
+"But the teams which i have made 
+Thts not opening",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0374319144
+I want my deposit history....,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.475382745
+Ok tnq..,THANKS,NO_NODES_DETECTED,0.0156274214
+How remove my pan card,DELETE_PAN_CARD,DELETE_PAN_CARD,0.9040732
+Is Instant withdrawal on PowerPlay11,INSTANT_WITHDRAWAL,INSTANT_WITHDRAWAL,0.7139021
+1000 rupees winning not add,WHEN_WINNINGS_DISTRIBUTED,WINNINGS,0.116884194
+Have a bad day,NO_NODES_DETECTED,CAPABILITIES,0.020220127
+Very bad,CRITICISM,CRITICISM,0.033747118
+Jo kal t10 hai us ma mali ge,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.01560541
+Thank you😊,THANKS,THANKS,0.7751691
+Result of football match,WHEN_SCORES_UPDATED,TEAM_DEADLINE,0.0377814658
+Plz kya hindi m koi support mil sakta hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0173888318
+Manu kumar,NO_NODES_DETECTED,CRITICISM,0.033747118
+Match me money kyu nhi aaya,NO_NODES_DETECTED,MATCH_ABANDONED,0.0185041521
+I want to update my current  email address that is registered with you,CHANGE_PROFILE_TEAM_DETAILS,VERIFY_EMAIL,0.06564358
+PAN card already verified,NO_NODES_DETECTED,DELETE_PAN_CARD,0.378601462
+Sir mai pahele verify karke app ko uninstall kiya tha sir ab mera pan card verify deka raha hai,NO_NODES_DETECTED,VERIFY_PAN,0.341176927
+Yesterday I was joined football match.and I download pdf file of all teams.but when I check the name of number one rank team . there is not showing the team in pdf,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.135264635
+No trust on you,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0180911329
+I have been sending mails but I am not getting any proper response. I was told that I will be contacted by PowerPlay11 for this issue but no one has contacted me till now. Why are you playing with the customers money. Please be fair and don't do any kind of fraud,NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.384655446
+Help mee,NO_NODES_DETECTED,CAPABILITIES,0.150307372
+Chutiya team Nahin Laga Pa raha hun,NO_NODES_DETECTED,FAKE_TEAMS,0.011140937
+Please see my match point,WHEN_SCORES_UPDATED,CHAT_WITH_AN_AGENT,0.0436997637
+Real time quize is not working now..why?,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0328266732
+My app is not working properly?,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.07806908
+It is less than 2 mb,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.032737758
+If you are getting time out error while verifying PAN card then please make sure then your PAN card image is less then 2MB. I know,PAN_VERIFICATION_FAILED,PAN_VERIFICATION_FAILED,0.68580544
+Today's basketball match no. 1 rank team selection 104 total and your limit is 100 how can possible,NO_NODES_DETECTED,WRONG_SCORES,0.05888249
+My money not recived,CHAT_WITH_AN_AGENT,WINNINGS,0.252502143
+Sir for how long I have to wait to clear this multiple accounts issue,NO_NODES_DETECTED,WRONG_SCORES,0.0285172947
+App is not working,NO_NODES_DETECTED,UPDATE_APP,0.08211209
+Worst app,CRITICISM,CRITICISM,0.132229626
+This app always not properly working  when join any contest  then its app unfortunately has stopped,NO_NODES_DETECTED,JOIN_CONTEST,0.1489875
+Why did u take more time for announce winners,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03255612
+Kyon join Nahin ho raha hai hamara,NO_NODES_DETECTED,JOIN_CONTEST,0.0269550774
+my random code missing,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0204100776
+23 April Ka payment Nahi Aaya,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0119811315
+How to do logout,NO_NODES_DETECTED,UPDATE_APP,0.0228695627
+Sir mujhe pese chachiye,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01223564
+Sab kuch ok hai,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130615151
+Customer care executive,CONTACT_NUMBER,CONTACT_NUMBER,0.241041854
+Will lineup out for Taipei premier League?,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.03161292
+Un support PowerPlay11,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.0620476343
+PowerPlay11 rummy is freeze,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.05088916
+Sir all is updatef,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0198092032
+Hamata withdrawal kab take melga,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.18641898
+Editing option not working,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02766534
+Why i m not able to join contest,NO_NODES_DETECTED,JOIN_CONTEST,0.653727353
+"When I click on join now then application stoped.
+Please check your side",NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.0370601937
+Team 1 see jadaa create nahi ho rahahai,NO_NODES_DETECTED,NEW_TEAM_PATTERN,0.0190190319
+Join contest bt feld report bug,NO_NODES_DETECTED,JOIN_CONTEST,0.294145584
+I think your app is hanging in between,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0746964
+Please update my new mail di,CHANGE_PROFILE_TEAM_DETAILS,UPDATE_APP,0.0475585349
+Plz check i want to join contest,NO_NODES_DETECTED,JOIN_CONTEST,0.558579147
+When football game will finish,NO_NODES_DETECTED,WHEN_WINNINGS_DISTRIBUTED,0.0255336165
+Version new,NO_NODES_DETECTED,CRITICISM,0.033747118
+Asking to send a bug report,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.0161403734
+I could not join any contest from now.please help.,CHAT_WITH_AN_AGENT,JOIN_CONTEST,0.506838143
+Sir baseball Kya h,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130615151
+Contest no,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.840052068
+Unfortunately not support,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0306675564
+I m try but not jioned,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0462336428
+Can you check please,NO_NODES_DETECTED,CAPABILITIES,0.0567505546
+Dear sir plz  my contest nahe hota  Aaha,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.09153668
+I want to talk a agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.888526857
+PowerPlay11 rummy issue,CHAT_WITH_AN_AGENT,HOW_POINTS_CALCULATED,0.06199257
+Unfortunately PowerPlay11 stopped,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.0619828142
+How to install PowerPlay11 rummy,DOWNLOAD_POWERPLAY11,HOW_POINTS_CALCULATED,0.0533214547
+Sir tell,NO_NODES_DETECTED,CRITICISM,0.033747118
+Yes or no,NO_NODES_DETECTED,GREETINGS_DAY,0.410194129
+😂😂😂😂,NO_NODES_DETECTED,NO_NODES_DETECTED,0.9706604
+2 public contests,NO_NODES_DETECTED,TYPES_CONTESTS,0.341539085
+Not join contest,NO_NODES_DETECTED,JOIN_CONTEST,0.8965618
+Mail verification,VERIFY_EMAIL,WHY_VERIFY,0.2691098
+Not open game not Create my team wye,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0452540852
+No contest  silect,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.792505264
+Listn,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+Sir I will be satisfied once I got this issue cleared.,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0266497079
+Please check my PowerPlay11 app,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.136095136
+Any contest,TYPES_CONTESTS,CANNOT_SEE_JOINED_CONTESTS,0.7355108
+Sir Rummy game not working,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0252957288
+टीम ज्वाईन नही हो रहा,NO_NODES_DETECTED,WRONG_SCORES,0.030291643
+contest not join ed,NO_NODES_DETECTED,JOIN_CONTEST,0.763715863
+"Every thing is okey as you shows these option but leage is not joined by me it shows the massage that, unfortunately PowerPlay11 has stopped",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.08424794
+Sir main problem is i cannot create more than 1 team and cannot join the leagues contest,NO_NODES_DETECTED,JOIN_CONTEST,0.147746935
+Team creat nhi ho rha hair?,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.0132408366
+Why not join contest my team,NO_NODES_DETECTED,JOIN_CONTEST,0.681593
+Not working properly PowerPlay11 contests shown PowerPlay11 stop when contest any one,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.164368644
+Yesterday football match winnings still not credited,WHEN_WINNINGS_DISTRIBUTED,WHEN_WINNINGS_DISTRIBUTED,0.573834836
+How can do the update this aap,UPDATE_APP,UPDATE_APP,0.08817246
+I can create a team  but contest not join by my team,NO_NODES_DETECTED,JOIN_CONTEST,0.387219429
+Its app not supported,NO_NODES_DETECTED,UPDATE_APP,0.0506276563
+When can I withdraw ?,NO_NODES_DETECTED,WITHDRAWAL_INTRO,0.9440214
+You can't help me,NO_NODES_DETECTED,CAPABILITIES,0.7800614
+I can't use my initialised amout,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.795926034
+Iam requested on 19th april,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0119850738
+Baseball,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Never to win,NO_NODES_DETECTED,UPDATE_APP,0.0188362021
+sir mera fantasy legue me kaise samil nahi ho pa rahe hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0240478478
+I want start playing again my PowerPlay11,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.05412242
+Sorry bro you did not understand me,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.07653584
+"sir mera kisi contast me samil nahi  
+ho pa rahe hai kya karan hai",NO_NODES_DETECTED,WRONG_SCORES,0.0306566041
+Todays match is fixed,NO_NODES_DETECTED,TEAM_DEADLINE,0.0329647
+Actually yesterday it all happened,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0279298928
+unfortunately stopped likh raha hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0114718042
+I can't join contest properly,NO_NODES_DETECTED,JOIN_CONTEST,0.660665154
+Quiz not open,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03948498
+Its not woking,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03128459
+Basket ball,NO_NODES_DETECTED,CRITICISM,0.033747118
+Unfortunately league not join,NO_NODES_DETECTED,JOIN_CONTEST,0.0582279377
+Sir i have a win a contest and money will be come,WHEN_WINNINGS_DISTRIBUTED,CANNOT_SEE_JOINED_CONTESTS,0.109857373
+Any1 here,PRESENCE,NO_NODES_DETECTED,0.05771013
+Not supported by app,NO_NODES_DETECTED,UPDATE_APP,0.0551923364
+Sir mera contast join nahi ho raha hai,NO_NODES_DETECTED,JOIN_CONTEST,0.0286338031
+Google,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+But join nhi Ho rha plz help,NO_NODES_DETECTED,JOIN_CONTEST,0.02806513
+While joining it show stopped,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.0232051834
+Kindly include all matches per day of Taipei T10 league...it's only showing one instead of three matches in 25th,NO_NODES_DETECTED,WRONG_SCORES,0.08702687
+Your app is every time stop,NO_NODES_DETECTED,UPDATE_APP,0.0533234738
+Mubrak naik,NO_NODES_DETECTED,CRITICISM,0.03203582
+I am unable to join contest?,NO_NODES_DETECTED,JOIN_CONTEST,0.691777766
+No working this aap,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0166021
+Verification is all correct,NO_NODES_DETECTED,WHY_VERIFY,0.179362327
+but I can't verify my Pan with any other account,VERIFY_PAN,VERIFY_PAN,0.487445056
+but message soon your pan card already verified,NO_NODES_DETECTED,DELETE_PAN_CARD,0.216553509
+"Sir, I can't do this",NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.3830161
+"Sir,  thanks",THANKS,THANKS,0.118784763
+Why the resut this much delay..,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.01988485
+Rummy game deleted karo,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130615151
+I need some help,CAPABILITIES,CAPABILITIES,0.202933148
+Deactivate my profile,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.07680201
+I want to deactivate my account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.0822664052
+My money got debited,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.260640383
+After adding amount  ₹ 1000. I didn't get 50%off.,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.10254208
+Withdrawal declan,NO_NODES_DETECTED,INSTANT_WITHDRAWAL,0.140951321
+Why amount deducted from my account for reason tapping please answer,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.639083445
+why diclaned,NO_NODES_DETECTED,WHY_VERIFY,0.134364426
+why declaned,NO_NODES_DETECTED,WHY_VERIFY,0.134364426
+Ham quiz me abhi mony jita par wallet me nahi aya,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0264317412
+My quiz mein 7 rupaye cut gaye but game play nahi hua,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0315745361
+But introduction history I am looking for closing balance is 212 rupees,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.05339058
+Total deposited when I started to till date,NO_NODES_DETECTED,CHECK_DEPOSIT_STATUS,0.0258254539
+Mera total winning kitna?,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0310114082
+Cash bonus validity?,CASH_BONUS_EXPIRY,CASH_BONUS,0.2786195
+But this is wrong,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.6905582
+I want to talk to executive,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.0868462548
+How can i check my total earning till now,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02271003
+Plz tell my total loss or profit,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02475733
+Total loss profit kitna hua he,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0177213326
+Withdrawal mon,NO_NODES_DETECTED,INSTANT_WITHDRAWAL,0.228130013
+Iam playing rummy more amount price catch why,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0960508659
+My total profit,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0264321323
+Sir mujhe itna bataiye ki maine total add kitna kya hai or kitna withdraw kya hai,NO_NODES_DETECTED,WRONG_SCORES,0.0379923657
+I am carrying these all offers,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.376747072
+"हेल्लो सर मुझे मयटीम ११ के अकाउंट की पूरी जानकारी चाहिए, कितना डिपोजिट हुआ कितना निष्कासित हुआ है,क्युकी मुझे अब PowerPlay11 से जुड़े रहना है जिसके लिए ,, 
+हम पहले विस्तार से अपने डिपोजिट ओर निष्कासित का जीत ता हार की विवरण जानना है ,",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.754600167
+I want to delete my PowerPlay11 account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.0902039
+No email receive,NO_EMAIL_CONFIRMATION,CHAT_WITH_AN_AGENT,0.559402645
+211 depisit,NO_NODES_DETECTED,CRITICISM,0.0319251642
+Not credited,NO_NODES_DETECTED,WHEN_WINNINGS_DISTRIBUTED,0.5191139
+Total profit and loss,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.012964109
+Maine total amount kitna add kiya hai,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.04561427
+As deadline was showing still 4 min but when i chose cap nd vc then it shows time off,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.09078225
+Can u tell me my total deposit mony,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.447426856
+Sir mera pan card kisi aur id me submit hain plzz mujhe ye id change karni hain,NO_NODES_DETECTED,VERIFY_PAN,0.0777453855
+Sir india m cricket match ho raha hai,NO_NODES_DETECTED,MATCH_ABANDONED,0.0244644526
+Maine ek quiz khela magar,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.01456681
+Not update oponat team and c and vc baseball,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.03917414
+Oponat team captain vice captain not update and problem with comparison,NO_NODES_DETECTED,WRONG_SCORES,0.0234977435
+"Mere win kiye hue
+Paise mere account me nahi ja rahe hai
+Please help me",NO_NODES_DETECTED,BANK_VERIFICATION_DETAILS,0.0348711535
+Hindi me bataye,NO_NODES_DETECTED,CAPABILITIES,0.0236624479
+"Sab kuch verification kar liya tha
+Phir bhi paise wapas ho gaye why❓ sir please help me",NO_NODES_DETECTED,WRONG_SCORES,0.04740876
+You call me,CONTACT_NUMBER,CONTACT_NUMBER,0.400893182
+Sir ap online ha,NO_NODES_DETECTED,PRESENCE,0.0463663265
+No verify pan card,VERIFY_PAN,VERIFY_PAN,0.760812938
+Give cash bonus on depositing money to my account,NO_NODES_DETECTED,TYPES_BONUS,0.06928095
+I want my total earnings,NO_NODES_DETECTED,DELETE_PAN_CARD,0.0168629419
+PowerPlay11 paytm withdraw,INSTANT_WITHDRAWAL,WITHDRAWAL_INTRO,0.703645945
+What is promo code,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130510116
+Sir mera pan card kisi or I'd mein lg gya or m uss I'd ka password or mail dono bhool chuka hoo sim bhi gum ho gyi pls help,NO_NODES_DETECTED,VERIFY_PAN,0.141069323
+240 got debited my account,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.378566325
+I didnt join the contest,NO_NODES_DETECTED,JOIN_CONTEST,0.7196818
+I didnt join,NO_NODES_DETECTED,JOIN_CONTEST,0.117455669
+I don't get one contest amount,CHAT_WITH_AN_AGENT,CANNOT_SEE_JOINED_CONTESTS,0.172303915
+I want my full transaction details?,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.341376871
+Pan card verify kar do,NO_NODES_DETECTED,VERIFY_PAN,0.6373409
+Need helpline number,CONTACT_NUMBER,CONTACT_NUMBER,0.0797108859
+Withdrawals limit par day,WITHDRAWAL_INTRO,TAXES_ON_WINNINGS,0.07526298
+I want to talk about something else,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.0551407263
+May i know my total investment,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0215663034
+Is PowerPlay11 real,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.05999811
+I think it is fake,FAKE_TEAMS,FAKE_TEAMS,0.100142717
+How to edit my email,CHANGE_PROFILE_TEAM_DETAILS,VERIFY_EMAIL,0.1923157
+My full deposit till now,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.4288048
+My total transaction till date,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.3243301
+Kya aap bata sakte hai ab tak mujhe is app se Kitna profit ya loss hua hai,NO_NODES_DETECTED,WRONG_SCORES,0.0449743867
+My withdrawn money refunded,WITHDRAWAL_STATUS,WITHDRAWAL_STATUS,0.3649431
+Okk,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Same to you,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0423880555
+What is the minimum amount to withdraw,WITHDRAWAL_INTRO,WITHDRAWAL_INTRO,0.845515132
+Just sut up,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+Apna no,NO_NODES_DETECTED,CRITICISM,0.0335064679
+Amazon,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+No sir other problem,NO_NODES_DETECTED,CAPABILITIES,0.03479538
+I want to delete my PowerPlay11 account permanently ..,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.0579626933
+"Mujhe meri PowerPlay11 ki statement dekhni hai ?
+Deposit and withdrawal ki ?",NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.06883703
+My mobile number is 9999999999,VERIFY_MOBILE,CHANGE_MOBILE_NUMBER,0.9624808
+Match is end but winning case nhi mila,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.049139712
+Discount entry,NO_NODES_DETECTED,CRITICISM,0.033747118
+I want my lifetime record,NO_NODES_DETECTED,DELETE_PAN_CARD,0.0172221866
+Total deposit till date,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.2519738
+My winning amounts has been debited by yours system,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.07017188
+Kya quiz me hindi me question aate hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0230630357
+I want to know transaction history,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.368187964
+My winning amounts has been hacked,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0444563
+Sir mera ek problem ha,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0135744838
+I need to withdraw cash to paytm account,INSTANT_WITHDRAWAL,WITHDRAWAL_INTRO,0.180016816
+Mujhe full transaction details dijiye,NO_NODES_DETECTED,CHECK_DEPOSIT_STATUS,0.160968289
+My account got suspended,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.0886332
+Gudnt,GREETINGS_DAY,NO_NODES_DETECTED,0.982040763
+I want my total transaction of deposits,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.250666022
+I want to know that how much I have been deposited till now,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.0474159271
+T10 League,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.07158912
+Itna let se result kyu deta h football match,NO_NODES_DETECTED,MATCH_ABANDONED,0.0242671724
+Sir abandoned bata raha hai kyo,NO_NODES_DETECTED,MATCH_ABANDONED,0.07594953
+"Isloch vs   belshina 
+
+Belarus league",NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.0527684465
+Update it asap,NO_NODES_DETECTED,UPDATE_APP,0.08920652
+Aisq kyo,NO_NODES_DETECTED,CRITICISM,0.03204064
+Please update the current score on live baseball game between ul and fb,WHEN_SCORES_UPDATED,WHAT_IF_THERES_A_TIE,0.100180693
+I accidentally put 1000 rupees in PowerPlay11 which I have to back again.,NO_NODES_DETECTED,WRONG_SCORES,0.0251575988
+Reset status,NO_NODES_DETECTED,ACCOUNT_RESET,0.247884333
+Contest save nahi ho raha he,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.111933395
+Date of birth which we have updated is wrong. now we are not able to change it. can you please help how to change it.,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.1697503
+Am not getting the update on current baseball game yet,NO_NODES_DETECTED,UPDATE_APP,0.0358361453
+Sir my id has blocked,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02552215
+Player point is not correct,POINTS_NOT_UPDATED,CHAT_WITH_AN_AGENT,0.04406161
+My withdrawal request pending with you from last 2 days,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.429460675
+Aaj k match ka kya hua,NO_NODES_DETECTED,MATCH_ABANDONED,0.017201094
+"In PowerPlay11 ,it shows A yanukevich shot a goal ..but it's a own goal by belshina team wkt keeper",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.08274734
+There is froud here,FAKE_TEAMS,PRESENCE,0.07313481
+"I have no money to participate
+Please give me sign up bonus",SIGNUP_BONUS,TYPES_BONUS,0.225316271
+I did it,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.402133852
+update women basketball match points,WHEN_SCORES_UPDATED,POINTS_NOT_UPDATED,0.804740965
+Sir please i want free join,NO_NODES_DETECTED,JOIN_CONTEST,0.08514335
+chat with customer service agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.5065127
+I have no money current time,NO_NODES_DETECTED,WINNINGS,0.060671635
+Now I am uninstalled,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0175741613
+Free contest only one,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.426541567
+My live match  point's no updated,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.06433102
+Very bad PowerPlay11 fantasy app because football game play in cheated,NO_NODES_DETECTED,HOW_TO_PLAY,0.04574545
+Other people team dene content team points updated,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.245407373
+I think their is a error by the team as in Taipei T10 league(TDGvsHST) we can see the wicket of athula senadeera is taken by runout by (v rebel and p mandal) but I checked their points and they are not awarded any points for that .,NO_NODES_DETECTED,WRONG_SCORES,0.260377556
+Football match,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.0861078948
+Why you make delay to calculate winner🏆🎉🏆,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0216183662
+Plz reset my account,ACCOUNT_RESET,ACCOUNT_RESET,0.356141478
+Sir my wallet rummy se hua hai,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.0551466532
+Rumny,CHAT_WITH_AN_AGENT,NO_NODES_DETECTED,0.982040763
+Sir ye match banned ho gya hai magar balance vapis nahe aaya,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.0386399142
+dummy@gmail.com,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0130219385
+I need to transfer cash bonus,WITHDRAW_CASH_BONUS,TYPES_BONUS,0.3276392
+tie,NO_NODES_DETECTED,GREETINGS_DAY,0.117915183
+5 teams joined,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.6551453
+"Last football match my team and opponent team same ..My rank is 1 and opponent also rank 1.... Total Price is 5000.. Please call me
+..But refund is not",NO_NODES_DETECTED,WRONG_SCORES,0.167860433
+My wining Blanc e,CHECK_WALLET_BALANCE,CHAT_WITH_AN_AGENT,0.0227170754
+Hamen sirf 198 kahan per batao,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.009908959
+What is lowest amount which we can reedem,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.127760559
+My account balance got deducted,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.960270762
+Plz update correct points of basketball,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.204115286
+Point problem🙏🙏🙏,NO_NODES_DETECTED,NO_NODES_DETECTED,0.04083137
+Dyb vs din score not opening in live contest section,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.126562774
+"Tp-w vs ty-w basketball match;
+Wrong points updated, please check",NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.0871574
+"Tp-w vs ty-w basketball match;
+Wrong points updated",NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.12459404
+tp-w vs ty-w basketball match: tp-w player s rou points are not updated correctly please fix,NO_NODES_DETECTED,WRONG_SCORES,0.0584828258
+email id,NO_NODES_DETECTED,VERIFY_EMAIL,0.240266666
+Rummy go to lobby and active table where are,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.0285342559
+What about rummy,CHAT_WITH_AN_AGENT,WITHDRAW_CASH_BONUS,0.0185391027
+paytm,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Muzamil QURESHI,NO_NODES_DETECTED,CRITICISM,0.0321312919
+Match abounded but money not refund,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.08967877
+Why not add,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.08405445
+My friends account was Temparily suspended please help,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.03988477
+Ajj ke match me mere team ke captain ne 1 wicket liya hai use abhi points add nahi huye hai,NO_NODES_DETECTED,WRONG_SCORES,0.05296711
+MadhAchod salo ullu bnate ho,NO_NODES_DETECTED,NO_NODES_DETECTED,0.01763874
+Need an agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.8625626
+Is it a fair game,NO_NODES_DETECTED,FAIRPLAY_VIOLATIONS,0.0943866745
+It was a contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.678836465
+Please send your mail id,NO_NODES_DETECTED,APPRECIATION,0.0160165858
+What nonsense replys,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0177469384
+Slow internet of mine or yours,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0144036245
+Yours or mine,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+Prove the slow internet to me,NO_NODES_DETECTED,UPDATE_APP,0.0155400718
+With my question i said,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.08627554
+And dont reply to my last msg,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.023556916
+Again and again the same reply,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0334197842
+Yoy pls review the chat,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0292098336
+"Sir, rs 200 deposit in PowerPlay11, but not show correct balance",CHAT_WITH_AN_AGENT,CHECK_WALLET_BALANCE,0.165985018
+Sir I want to talk to an agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.7881992
+Sir help me,CAPABILITIES,CAPABILITIES,0.343983144
+मेरे अकाउंट मे पैसे नही जमा हुए,NO_NODES_DETECTED,WRONG_SCORES,0.06806186
+This is froud app,FAKE_TEAMS,UPDATE_APP,0.15776363
+Haw can we verify my account,ACCOUNT_NOT_VERIFIED,ACCOUNT_NOT_VERIFIED,0.5668163
+Please do your service fast.,NO_NODES_DETECTED,APPRECIATION,0.166244879
+Sir my point Sahi sa chak kara hamra sath farod hu ha,NO_NODES_DETECTED,WRONG_SCORES,0.0226761773
+My withdraw 24 hours,NO_NODES_DETECTED,WITHDRAWAL_INTRO,0.8079037
+Link not send my gamil,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0802082643
+I have won contest but money not deposited in my wallet,CHAT_WITH_AN_AGENT,CANNOT_SEE_JOINED_CONTESTS,0.0986004248
+Update let,NO_NODES_DETECTED,UPDATE_APP,0.237702817
+Koi hai,NO_NODES_DETECTED,CRITICISM,0.033747118
+Email ID change,CHANGE_PROFILE_TEAM_DETAILS,VERIFY_EMAIL,0.134144589
+it is not credited in my bank account,CHAT_WITH_AN_AGENT,WHEN_WINNINGS_DISTRIBUTED,0.270782948
+Wrong point update in current football match going on,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.101953991
+My withdrawal status,WITHDRAWAL_STATUS,WITHDRAWAL_STATUS,0.8888523
+Email edit nahi ho raha hai,NO_NODES_DETECTED,VERIFY_EMAIL,0.02371893
+Football match EBM vs DYB   has not completed now.,NO_NODES_DETECTED,WRONG_SCORES,0.08117895
+Mera weaning amount wrong dikha raha hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0506448224
+Shesh balence use kyun na ho raha,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0112631451
+Match point,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.08157459
+Can we change pan card,DELETE_PAN_CARD,DELETE_PAN_CARD,0.809268355
+Sir aj tak kitna amount add kiya h mene or kitna withdrawal kiya h. Please tell me,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.130450949
+Hamara 3rupees kat gaya hai,NO_NODES_DETECTED,UPDATE_APP,0.0101519367
+I fill up the contest of Rs 35 but after match start it's showing there is no contest filled,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.28924343
+Bad feedback,FEEDBACK,FEEDBACK,0.7914987
+my balance is deducted more than to entry please refund my balance,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.789553344
+Call me 9876543210,CONTACT_NUMBER,CONTACT_NUMBER,0.382863522
+Today match points not updated,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.9774169
+Result nhi aaya abhi,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0126188407
+Kal ka winning amount abhi tak bheja nahi h,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.147733465
+Tita huwa maich ka kais nhi mila hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0136816418
+when i will get my 3000 rs withdrawal,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.256992668
+Hello is anyone there???,PRESENCE,WHAT_IF_THERES_A_TIE,0.0261114221
+You speak Hindi,NO_NODES_DETECTED,CRITICISM,0.020179037
+NBA point,NO_NODES_DETECTED,CRITICISM,0.033747118
+You fraud,FAKE_TEAMS,FAKE_TEAMS,0.5735405
+Link send plz my gmail,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0237581413
+How delete this account,NO_NODES_DETECTED,ACCOUNT_RESET,0.158185557
+😂 😂 😂 😂,NO_NODES_DETECTED,NO_NODES_DETECTED,0.9706604
+When will the refund be given 200 rupees,NO_NODES_DETECTED,MATCH_ABANDONED,0.03269577
+Very bad experience,CRITICISM,WITHDRAW_CASH_BONUS,0.01874683
+Sir pahle aap mere balance bhej de dijiye plzz,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.05101515
+I have ₹85 in my wallet but I am unable to join any match,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.04994967
+Refer Kiya lakin bonus nhi mila,NO_NODES_DETECTED,TYPES_BONUS,0.07058514
+GAL VA MGK MATCH NOT POINT FOOTBALL TEAM,NO_NODES_DETECTED,MATCH_ABANDONED,0.02042956
+Not update,NO_NODES_DETECTED,UPDATE_APP,0.255966574
+Yes we connected,NO_NODES_DETECTED,GREETINGS_DAY,0.2311308
+Sir hindi me bataye,NO_NODES_DETECTED,CAPABILITIES,0.0155269168
+Thankyou,THANKS,GREETINGS_DAY,0.119083948
+Team 3 goining but 2 team Shaw,NO_NODES_DETECTED,FAKE_TEAMS,0.09927901
+"I played the match yesterday, but the results have not come yet?.",WHEN_SCORES_UPDATED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.05595023
+Paise jaldi bheja karo bhai,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0128618479
+Maine  2 friand  send Kiya h  kuch Mila nhi,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.016454421
+Yes 200 rupes,NO_NODES_DETECTED,GREETINGS_DAY,0.299578339
+Point worng,WRONG_SCORES,CRITICISM,0.03093042
+Adhar card verified this apps i recast plz,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.05299106
+Can you call me please,CONTACT_NUMBER,CAPABILITIES,0.147842631
+Taipei t10 luge Today 1st match now will on progress why not adde  one wicket points of shahjad Khan Muhammad,NO_NODES_DETECTED,WRONG_SCORES,0.0505526327
+i have a different issue,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0262779165
+Point add a  q  nahi hua hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0147035895
+Add me 1000 rupees but bonus kitna milga,NO_NODES_DETECTED,TYPES_BONUS,0.103962377
+Point calculation is wrong of current cricket match,WRONG_SCORES,CHAT_WITH_AN_AGENT,0.141032979
+Sir aap score points me garbari q kar dete hai.,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0311340168
+My team is on no. 1 position after finishing tha game after some time a new team is showing with higher points then my team this is pure cheating.,NO_NODES_DETECTED,WRONG_SCORES,0.178179488
+Withdraw 2time rejected,NO_NODES_DETECTED,WITHDRAWAL_INTRO,0.787230134
+Total amount add kitna kiya h,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0432318151
+Arun parappagoudar getting one wicke,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.01876219
+Sir point update nhi ho raha h,NO_NODES_DETECTED,UPDATE_APP,0.02744426
+I have another problem,NO_NODES_DETECTED,CAPABILITIES,0.0192947779
+Pan card hatana hai,NO_NODES_DETECTED,DELETE_PAN_CARD,0.320001245
+AParappugouder take 1 wicket in current  tdg fcf match but you not count th point please check,NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0543868542
+Check score asif,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0171326436
+Hlo ser,GREETINGS_DAY,CRITICISM,0.03171732
+Last fake,NO_NODES_DETECTED,FAKE_TEAMS,0.76518786
+How to add invets mony,NO_NODES_DETECTED,NO_NODES_DETECTED,0.054261405
+Sir I'm winner t10 league but but lost,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.0364273936
+I did the football match yesterday but the result has not come yet sir,POINTS_NOT_UPDATED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0435608
+When was my withdrawal,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.4911593
+Kisi se baat krvado,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0126392245
+Cal wala good roll Abhi Tak Nahin Aaya account mein,NO_NODES_DETECTED,BANK_VERIFICATION_DETAILS,0.0235235672
+"Bank account has been closed before 3-4 month and I have withdrawn money without checking bank details, so I will change my bank details but my money withdraw request cancel please",NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.6237372
+Multi entry rejection why,NO_NODES_DETECTED,FAKE_TEAMS,0.0162663832
+Kab tak Aa jayga,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0126438728
+Email veryfy kaise kare,NO_NODES_DETECTED,VERIFY_EMAIL,0.0413305573
+Teri maa ka bhosda,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0126153268
+I want to talk an assistant,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.122197688
+How many times take for PAN verification,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.342034221
+Froud app,FAKE_TEAMS,UPDATE_APP,0.38258788
+Suddenly balance gone,CHAT_WITH_AN_AGENT,CHECK_WALLET_BALANCE,0.0444669537
+"Tp-w vs ct-w basketball match;
+Wrong points updated, s rou points not updated",NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.315735936
+My withdrawal Date confrom,WITHDRAWAL_TIME,WITHDRAWAL_STATUS,0.475604236
+Ghanta ka safe app,NO_NODES_DETECTED,TEAM_DEADLINE,0.219845235
+Win money not receive,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.674423039
+Y the football team cesar Julio points not updated he scored a goal and assist,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.0503495932
+Old number 9876543210,CONTACT_NUMBER,CONTACT_NUMBER,0.273487478
+Dont be srry by earning the precoius money in your pocket,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.01845756
+Ludo game diya jaay,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0126179019
+Total money deposited and total money won,CHECK_DEPOSIT_STATUS,CHECK_DEPOSIT_STATUS,0.0281800181
+Football result declared problem,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130615151
+For first deposit I didn’t received the cash bonus,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.144148827
+Is this really possible,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0191715639
+Just make money by making others fool,NO_NODES_DETECTED,WINNINGS,0.0135191772
+dummydummy@gmail.com,NO_NODES_DETECTED,UPDATE_APP,0.0102760922
+My question was about baseball leauge,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02195345
+Refund the my money 200 rupees,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.0314566121
+Point distribution is not correct Taiwan t10 match,WRONG_SCORES,CHAT_WITH_AN_AGENT,0.0266853757
+Regarding surprise bonus,TYPES_BONUS,TYPES_BONUS,0.719892859
+Spin and win,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01856739
+Hi today t10 league 5team selected but bonus 33 rupees not come,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.06874391
+Mobile number,NO_NODES_DETECTED,CHANGE_MOBILE_NUMBER,0.9646466
+Hello sir help me,CAPABILITIES,CAPABILITIES,0.218121231
+200 rupuye amaunt no add my wallet,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.2580892
+I join 5 team in Taipei t10 but bonus is not given yet,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.06621015
+Vijay kumar ko catch ka point nahi update kiya gya hai,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0219598729
+Contest cheat,FAKE_TEAMS,CANNOT_SEE_JOINED_CONTESTS,0.5573727
+Profile picture how to change,CHANGE_PROFILE_TEAM_DETAILS,CHANGE_PROFILE_TEAM_DETAILS,0.63003546
+Sir please my balance my account not withdrawal,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.318656385
+Score updated incorrect,WHEN_SCORES_UPDATED,CHAT_WITH_AN_AGENT,0.8456587
+Chnge krna hai bank,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.07364124
+I hate you,NO_NODES_DETECTED,APPRECIATION,0.031356547
+Please complete football game result,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.009709392
+pan card verifi no success,VERIFY_PAN,DELETE_PAN_CARD,0.5247838
+kk,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Sir Mera 100 Kat kyu gya hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0149864443
+7654321089,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+joined,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.9308311
+Sir please return my money,NO_NODES_DETECTED,WINNINGS,0.07534623
+tie in head to head,WHAT_IF_THERES_A_TIE,WHAT_IF_THERES_A_TIE,0.101912655
+मुझे 1000 हजार रुपये निकलने है निकल नही रहे,NO_NODES_DETECTED,WRONG_SCORES,0.08538396
+why winning amount is less in head to head match,LESS_WINNINGS_AMOUNT,LESS_WINNINGS_AMOUNT,0.630322337
+Last balance was 11800.. had won one  contest 150 is showimg as winning but not credited yet,CHAT_WITH_AN_AGENT,WHEN_WINNINGS_DISTRIBUTED,0.1282492
+Chat with agrnt,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.0449017771
+chat with customer service representative,CHAT_WITH_AN_AGENT,APPRECIATION,0.0424166061
+How can we know that you might cheat on us.,NO_NODES_DETECTED,HOW_TO_PLAY,0.0201330427
+T10 cricket match Charles Heyward Get 2 wickets But I will not get points,NO_NODES_DETECTED,MATCH_ABANDONED,0.05210399
+T10 match between TDCC and Titans points not updated correctly,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.298259616
+my delete account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.2700706
+Account suspended ho gaya,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.04074779
+Point kyon galat chadhaya 1match ma,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0110047944
+Urs new one game play quiz is fake Iam not misguided but how other person's guess Wright answer in equate time,NO_NODES_DETECTED,WRONG_SCORES,0.09011547
+withdraw drom paytm,INSTANT_WITHDRAWAL,WITHDRAWAL_INTRO,0.437942475
+My account verfiy,ACCOUNT_NOT_VERIFIED,ACCOUNT_NOT_VERIFIED,0.48433888
+Kindly give me point list,NO_NODES_DETECTED,CAPABILITIES,0.0133203436
+I want block my account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.123866811
+"Sir if you don't distribute yesterday winning amount. Then how can participate next tournament
+Which is about to start at 7 am today.",NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.3466988
+Football winning,WINNINGS,WINNINGS,0.621911645
+Hume jion   ka cash nahi mila hai,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.0453568958
+Belarus premier ka Paisa nahi aaya hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0130145205
+Shahzad Khan Muhamma 1 Wickets in current match Sir.  But Points not added.  Check it Sir,POINTS_NOT_UPDATED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.210476547
+You are a cheater,FAKE_TEAMS,PRESENCE,0.0444149077
+I have joined contest but not show my contest,CANNOT_SEE_JOINED_CONTESTS,CANNOT_SEE_JOINED_CONTESTS,0.9847873
+??,NO_NODES_DETECTED,CRITICISM,0.0316772051
+Payment extra cut entry fees,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0135744838
+Zero support,NO_NODES_DETECTED,CRITICISM,0.033747118
+Not active,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0403494835
+Mai kitni bar complain kru,NO_NODES_DETECTED,UPDATE_APP,0.010051324
+Very vad,NO_NODES_DETECTED,CRITICISM,0.033747118
+"I played the match yesterday, but the results have not come yet",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0398889147
+Cricket me kon team lagaye,NO_NODES_DETECTED,FAKE_TEAMS,0.0333287381
+My gmail not vrify,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.101955742
+"Hello sir,EBM vs DyB match ka result show nhi kar Raha h",NO_NODES_DETECTED,MATCH_ABANDONED,0.0337017551
+Sir plz my withdrawal confrom,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.187500134
+Its too late,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+Complaining,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+I have already registered,NO_NODES_DETECTED,CAPABILITIES,0.0162730925
+I loss in all contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.3446477
+Very leyt updeta all match way,NO_NODES_DETECTED,MATCH_ABANDONED,0.0215490554
+How to use signup bonus amount,SIGNUP_BONUS,SIGNUP_BONUS,0.282473028
+Basketball update Nahin ho raha hai bhai cal se,NO_NODES_DETECTED,UPDATE_APP,0.0203516316
+I want change my PAN CARD DETAILS,DELETE_PAN_CARD,DELETE_PAN_CARD,0.825336039
+Please remove,NO_NODES_DETECTED,WINNINGS,0.0448362231
+How to remove pan card,DELETE_PAN_CARD,DELETE_PAN_CARD,0.9050647
+For pan card,NO_NODES_DETECTED,DELETE_PAN_CARD,0.909396768
+how many points for a catch?,HOW_POINTS_CALCULATED,POINTS_NOT_UPDATED,0.317361534
+Please correct arun ponits in this match,NO_NODES_DETECTED,MATCH_ABANDONED,0.02617123
+The current points tally between FCF and TDG is not updated,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.277591676
+Sir you are giving wrong points in cricket,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.087803714
+A parappagoudar 1 wicket but not point updated please updated wicket point,POINTS_NOT_UPDATED,WHEN_SCORES_UPDATED,0.04512112
+Point was not update properly please check and update the live famr,POINTS_NOT_UPDATED,UPDATE_APP,0.0488119
+Sir not update point  my 2 cricketer,POINTS_NOT_UPDATED,CHAT_WITH_AN_AGENT,0.0498333
+Today wicke,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0878996849
+In today march between FCC AND TDCC..PLAYERS A LIU is in my team and he is playing well but his points are not updated,POINTS_NOT_UPDATED,WHAT_IF_THERES_A_TIE,0.249490634
+Kal ka maich football ka huwa tha jo wining ka kais nhi mila hai,NO_NODES_DETECTED,WRONG_SCORES,0.0307116918
+Give weekend Bonanza to my account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.060382802
+Please distribution the winning amount.,WHEN_WINNINGS_DISTRIBUTED,LESS_WINNINGS_AMOUNT,0.3879868
+I want deactivation my acount,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.0184213482
+"Yesterday I joined the contest in football, but the result was not announced yet",NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.677571535
+Yesterday me contest join but no results so far☺!??.,NO_NODES_DETECTED,JOIN_CONTEST,0.4052933
+ser mera win kiya huaa amount q nhi aara PowerPlay11 m,NO_NODES_DETECTED,WHEN_WINNINGS_DISTRIBUTED,0.06505658
+Where is asif tanoli's run out point?,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0234121438
+Potis are missing,NO_NODES_DETECTED,APPRECIATION,0.049128186
+PowerPlay11 is Best geme bat no pen card and withdrawal no veryindication,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.292950273
+With only bonus I can play contests,NO_NODES_DETECTED,TYPES_BONUS,0.11319112
+Withdraw fast my account,WITHDRAWAL_INTRO,WITHDRAWAL_INTRO,0.7559601
+There is unfair means GamePlay,NO_NODES_DETECTED,PRESENCE,0.0175819565
+I earn 214.But win 300,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.03405526
+Any kind of first deposit bonus offer is there or not,NO_NODES_DETECTED,CHECK_DEPOSIT_STATUS,0.138018623
+First deposit bonus,NO_NODES_DETECTED,TYPES_BONUS,0.219748944
+"Sir 
+Hamara paisa Whithraw nahi ho raha hai",NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0136150578
+I was joined  in open one leaguge,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.5912906
+I have withdrawn 300rs but in my wallet it shows success but in credit in my bank account,WITHDRAWAL_STATUS,WITHDRAWAL_STATUS,0.608012259
+My account main,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.210221618
+Public contests,TYPES_CONTESTS,TYPES_CONTESTS,0.475524426
+I want to caht with customer caee,CONTACT_NUMBER,CONTACT_NUMBER,0.04836123
+48497,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+No call me,CONTACT_NUMBER,CONTACT_NUMBER,0.235245541
+Why you are not declared result yesterday football match,NO_NODES_DETECTED,MATCH_ABANDONED,0.0256238971
+Where gone my balance,CHAT_WITH_AN_AGENT,CHECK_WALLET_BALANCE,0.287735373
+Internet connection of who,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0132853854
+Nonsense,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+What you will help me,CAPABILITIES,CAPABILITIES,0.751503944
+"When I am at rank 1 
+Directly I am switched to rank 10",NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.040256612
+Tell about me,NO_NODES_DETECTED,CAPABILITIES,0.0442002341
+My wallet me wining amount nahi aya,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.04988715
+Dont reply me the same formats,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0276947059
+You have no other replys,NO_NODES_DETECTED,CAPABILITIES,0.151654646
+Change emy,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.038916558
+Quiz hindi me kyo nhi aate h,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0189971887
+198 ka cash bonus kya hai,NO_NODES_DETECTED,TYPES_BONUS,0.08383836
+Didn't get bonus yet,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.2706776
+198 ka kya offer hai,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.0376546346
+Now instant withdrawal is working or not,INSTANT_WITHDRAWAL,INSTANT_WITHDRAWAL,0.49244228
+In T10 match TDCC and Daredevils for player c hakyed has taken 2 wickets but no points added,NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.08404487
+one of my player take 2 wickets i t10 match but he only get 8 points how ??,NO_NODES_DETECTED,MATCH_ABANDONED,0.07260824
+3rd class report for match finish i have 1 st rank and 4hour back i am in 2nd rand very 3rd class he is chit me on PowerPlay11 team,NO_NODES_DETECTED,WRONG_SCORES,0.09135267
+Why me add amount Amazon pay wallet but don't PowerPlay11 don't show wallet why,CHAT_WITH_AN_AGENT,CHECK_WALLET_BALANCE,0.405322939
+delete PowerPlay11,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.07824937
+Hi can I transfer cash bonus from one account to another,NO_NODES_DETECTED,TYPES_BONUS,0.181059465
+Can it is possible to transfer,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.08535062
+please,NO_NODES_DETECTED,WINNINGS,0.217669144
+my account permanent delete,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.09114088
+It is transfer,NO_NODES_DETECTED,WITHDRAWAL_TIME,0.186185166
+Cheating app,CRITICISM,FAKE_TEAMS,0.610388935
+Today 10 league I am 5 teams joined match completed 33 not add amount,CHAT_WITH_AN_AGENT,CANNOT_SEE_JOINED_CONTESTS,0.279210955
+A Khan taken a catch but point is still not updated,POINTS_NOT_UPDATED,CHAT_WITH_AN_AGENT,0.176449269
+Sir there is some fault in result,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0306163579
+Kab,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Yesterday I added Rs.100 amount but not added in PowerPlay11 wallet but deducted in my account kindly refund the amount.,DEDUCTED_AMOUNT_NOT_RECEIVED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.9746843
+M Rajendran got 2 wicket and point was given to manikandan,NO_NODES_DETECTED,NEW_TEAM_PATTERN,0.0384675562
+Team name change karna hai,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.255245566
+How I can switch my account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.139970109
+abounded,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+Aconut chnge krnaa hai bank da,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.0481771342
+my winning amount is less,LESS_WINNINGS_AMOUNT,LESS_WINNINGS_AMOUNT,0.689178467
+Mere account number konse add hai,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.04145424
+Email verify problem,VERIFY_EMAIL,VERIFY_EMAIL,0.5052496
+75 sign,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.04672528
+Mera meam name shaoo,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0120281614
+Mai football me team lagaya tha mera totl point 104 ho rha hai dikha rha 86 isaka kya mtalm hai,NO_NODES_DETECTED,WRONG_SCORES,0.0555354767
+How to change mobile no,CHANGE_MOBILE_NUMBER,CHANGE_MOBILE_NUMBER,0.809928656
+Withdrawal cansolna,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.523340762
+Yogesh rajput point not updated on latest match,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.02997694
+D. barshilia take one wkt you do not give point,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03413686
+Bonas kae se uj kre,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0116588334
+Winning amount sir,WHEN_WINNINGS_DISTRIBUTED,WINNINGS,0.588516653
+24hours,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+I had notice one thing in PowerPlay11,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.0324351043
+When will come my invited amount,WHEN_WINNINGS_DISTRIBUTED,WHEN_WINNINGS_DISTRIBUTED,0.223132417
+You are giving wrong points and not declaring points last 24hrs finally you are changing the points and positions thankyou,NO_NODES_DETECTED,WRONG_SCORES,0.08308406
+Review money football,NO_NODES_DETECTED,WINNINGS,0.2561426
+why r u last t10 match not give wicket point properly???,NO_NODES_DETECTED,MATCH_ABANDONED,0.04299394
+D barshila,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0382141843
+Bonus I have not received,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.267122418
+Explain shortly,NO_NODES_DETECTED,CRITICISM,0.033747118
+Account verify kitne der mein ho jata hai,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.270575643
+please clear the last football match i need to play next matches,NO_NODES_DETECTED,MATCH_ABANDONED,0.04088715
+Please all game line up watch,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0150246955
+Refrer code kaha dale,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.012584853
+5 team join and 33 rupees and cashback 198,NO_NODES_DETECTED,JOIN_CONTEST,0.02806964
+Iam new user ?,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130251059
+No you not give sign up bonus,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.488381445
+Please give me your contect number,CONTACT_NUMBER,CONTACT_NUMBER,0.309221476
+Call Nehi jaraha hay,NO_NODES_DETECTED,CONTACT_NUMBER,0.0352801867
+Not my account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.5412998
+I added 200 rupees in my wallet but i can't withdrawl that,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.148888186
+So where is amount,WITHDRAWAL_INTRO,LESS_WINNINGS_AMOUNT,0.1826752
+Take my suggestion please,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0251631662
+Rummy apk is not working,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.04255479
+My point no updates live cricket match,POINTS_NOT_UPDATED,MATCH_ABANDONED,0.02611093
+Showing invalid iser information while entering team,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0226454139
+Not claim bones,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0338655524
+3 may withdrawl,NO_NODES_DETECTED,FAKE_TEAMS,0.0244730879
+I want add another amazon account because the amazon account i added not working,NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.173038945
+My team not seeing,CANNOT_SEE_JOINED_CONTESTS,FAKE_TEAMS,0.109683171
+Sir mane abhi t10 bala 89 content join kiya tha,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.02000155
+I join a contacts match live but not show live score card,NO_NODES_DETECTED,JOIN_CONTEST,0.0449568667
+i wanted to change the email id of my PowerPlay11 but it didnt work out,CHANGE_PROFILE_TEAM_DETAILS,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0398468077
+"Bank of baroda
+Kashiadanga west bengal
+Md kabir reja
+BARB0KASHIA",NO_NODES_DETECTED,BANK_VERIFICATION_DETAILS,0.02716807
+My account is under instant withdrawal,INSTANT_WITHDRAWAL,INSTANT_WITHDRAWAL,0.440882325
+I've won first t10 contest today.. but still not get d winning money,CHAT_WITH_AN_AGENT,LESS_WINNINGS_AMOUNT,0.0764410347
+Sir I will,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0178725552
+why not points update,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.903951168
+Pan verify not,VERIFY_PAN,VERIFY_PAN,0.7081528
+I can help you,NO_NODES_DETECTED,CAPABILITIES,0.8555514
+Sir point not updated tomorrow football match,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.08145153
+Match complete ho gaya abhi tak Paisa nahin aaya kyo,NO_NODES_DETECTED,MATCH_ABANDONED,0.02295604
+8765432190 call me,NO_NODES_DETECTED,CONTACT_NUMBER,0.382863522
+I want to update my DOB,NO_NODES_DETECTED,UPDATE_APP,0.05495858
+Iam team not point jeevan wiket,NO_NODES_DETECTED,FAKE_TEAMS,0.0233342182
+Jeveen point not credit my team,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.04653291
+I don't withdrawal my money,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.4986546
+My wallet reload,CHECK_WALLET_BALANCE,CHECK_WALLET_BALANCE,0.3144425
+My wallet amount reload,CHECK_WALLET_BALANCE,CHECK_WALLET_BALANCE,0.17729108
+Why can't receive any cash bonus on deposit 200 rupee,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.7435852
+I am a old member,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0279516149
+Cash bonus kya he abhi,NO_NODES_DETECTED,CASH_BONUS,0.1351754
+v,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Please give cash bonous,CASH_BONUS,REFUND_OF_ADDED_CASH,0.487537742
+kB free league milegi,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.0419861525
+How much time it takes to verify pan card,VERIFY_PAN,VERIFY_PAN,0.7161396
+Ok thanx,THANKS,CRITICISM,0.033747118
+Sir abhi tak cahs bonus nhi mila,NO_NODES_DETECTED,TYPES_BONUS,0.06193711
+"You are good agent , good behavior, good for all everything..",APPRECIATION,CHAT_WITH_AN_AGENT,0.160806283
+Upi,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+Sir pont,NO_NODES_DETECTED,CRITICISM,0.033747118
+I've joined the 1st t10 contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.798386931
+Match Taipei,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.0556501523
+Fairplay violation..what I do,FAIRPLAY_VIOLATIONS,FAIRPLAY_VIOLATIONS,0.803711653
+Duplicate email,NO_NODES_DETECTED,VERIFY_EMAIL,0.135365412
+Good morning sir,GREETINGS_DAY,GREETINGS_DAY,0.392459
+I've not credited the winnings amount,CHAT_WITH_AN_AGENT,WHEN_WINNINGS_DISTRIBUTED,0.9507276
+Sir mera 198 cash bonus nhi aaya,NO_NODES_DETECTED,TYPES_BONUS,0.0795780644
+How points calculated,HOW_POINTS_CALCULATED,HOW_POINTS_CALCULATED,0.65350163
+Last t10match point problem with,NO_NODES_DETECTED,FAKE_TEAMS,0.0167073812
+I have unutilized bonus,UNUTILIZED_MONEY,TYPES_BONUS,0.684085
+Any offers to my account,NO_NODES_DETECTED,OFFERS_AND_REFERRALS,0.669395447
+why,NO_NODES_DETECTED,FAKE_TEAMS,0.296588272
+I have submitted my bank account details but till now it not verify,BANK_VERIFICATION_DETAILS,ACCOUNT_NOT_VERIFIED,0.1659952
+Scorecard are not right,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0275217034
+"Screen ke upar jo rummy ka sign aa rha hai, use remove kro ji, very iritatic hai...",NO_NODES_DETECTED,WRONG_SCORES,0.06805728
+Rummy is not working,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.0525593534
+Yesterday foodball results not declared,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0205483437
+My account is under instant withdraw l,INSTANT_WITHDRAWAL,WITHDRAWAL_INTRO,0.255178
+Sir my points are 44 by calculating player points but showing only 38 y,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.09302542
+Is it for first 3 add amount or thereafter too?,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.173671469
+Company ka mail,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+मैंने कल अपने पैसे ₹200 बैंक में ट्रांसफर किए अभी तक नहीं आए,NO_NODES_DETECTED,WRONG_SCORES,0.165268317
+Ac. Balance lost,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.07470301
+Not received cashback 5 more team join why,NO_NODES_DETECTED,WITHDRAWAL_TIME,0.0433585122
+Review my money football,NO_NODES_DETECTED,WINNINGS,0.127470568
+Ohkie,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+"I appreciate , thanks",THANKS,THANKS,0.0553142428
+Withdrawal ME kitna time lagta he,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.229208529
+Balance automatically deducted from my account,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.948407531
+please complete last football match of korean leaug,NO_NODES_DETECTED,MATCH_ABANDONED,0.03017498
+cash bonus offers,CASH_BONUS,CASH_BONUS,0.463511676
+my registered number is dead so I can't get into can I add my new number,CHANGE_MOBILE_NUMBER,CHAT_WITH_AN_AGENT,0.317343861
+"On joining a contest, the account balance from your wallet is deducted as per the below cycle 👇
+*Unutilized ➡ Cash Bonus ➡  Winnings*",ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.7046323
+My account not verified,ACCOUNT_NOT_VERIFIED,ACCOUNT_NOT_VERIFIED,0.8773018
+Email id,NO_NODES_DETECTED,VERIFY_EMAIL,0.240266666
+Why my withdrawal was not still complete,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.23976256
+Pan card not veryfy,VERIFY_PAN,DELETE_PAN_CARD,0.8524304
+There was 371 wining amount is less,LESS_WINNINGS_AMOUNT,LESS_WINNINGS_AMOUNT,0.08521951
+Not connect,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.5335553
+Call unavailable bolrahe,NO_NODES_DETECTED,CONTACT_NUMBER,0.04610417
+Why payment failed,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.07194037
+Now cash bonus offer,CASH_BONUS,CASH_BONUS,0.374450117
+How to remove fairplay violation,FAIRPLAY_VIOLATIONS,FAIRPLAY_VIOLATIONS,0.777081549
+Taipay t 10 league ka winning money ab v 100rs mere account me Nehi ayaa,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.066385366
+Please give me sign up bonus,CHAT_WITH_AN_AGENT,TYPES_BONUS,0.580984354
+"H fan shan,w w lin two players wrong points updat2",NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.148079261
+Pending  withdraw money statu,WITHDRAWAL_STATUS,WITHDRAWAL_INTRO,0.699062645
+Didn't understand,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.617926061
+Send my winnings as early as possible,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.06729012
+Rupaye ka recharge Kiya Fir Bhi Mujhe Koi bonus nahin mila,NO_NODES_DETECTED,TYPES_BONUS,0.0392772742
+Mujh free league chaiye,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.0499023646
+Mera pen card venrfy ny ho rah,NO_NODES_DETECTED,PAN_VERIFICATION_FAILED,0.0197194442
+Server iss plese,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01874683
+My name dheerendrakumar nmy team,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.671465755
+Refer not cash,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.55263865
+Long time taking to football results,WHEN_SCORES_UPDATED,UPDATE_APP,0.0127570229
+Why are you distributing money too late,NO_NODES_DETECTED,PRESENCE,0.0161712188
+I want join a more contest but I haven't money.,NO_NODES_DETECTED,JOIN_CONTEST,0.451404363
+Maximum withdrawal  amount,WITHDRAWAL_INTRO,WITHDRAWAL_TIME,0.5173313
+Why my withdrawal amount is refund,NO_NODES_DETECTED,WITHDRAWAL_TIME,0.324283183
+How to delete PowerPlay11 account,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.1773386
+Not entering,NO_NODES_DETECTED,FAKE_TEAMS,0.0366722345
+Your point is not correct in cricket,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0483464859
+I can't recieve my cashbacks for T-10,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.4549806
+My  mobile number 9876556789 call me,VERIFY_MOBILE,CHANGE_MOBILE_NUMBER,0.911701858
+Cash bonus plz sir,CASH_BONUS,CASH_BONUS,0.24500604
+"D. Barshilia in taipei t10 live match gets a wicket , but his point not updated here",WHEN_SCORES_UPDATED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0480360948
+Ol,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+jeevan k point kyo nhi badaye,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0122647295
+Winningmoney kab tak aayega,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0123413457
+Sir t10 league match is complete why too late the winnigs,NO_NODES_DETECTED,MATCH_ABANDONED,0.0310510639
+Hii PowerPlay11 in the Taiwan t10 leuge icct smasher vs swinger last match in a your team point system in appreciate nitish nair are all rounder please make all rounder vise point upgrade not bowler dream 11 also all round vise point upgrade on nitish nair and make strike point -1 please you make all rounder vise point upgrade and -1 on nitish nair and his strike rate 94.87 please solve the problem,NO_NODES_DETECTED,NEW_TEAM_PATTERN,0.441178083
+Darling,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Plz check yesterday's withdrawal and support me,CAPABILITIES,WITHDRAWAL_STATUS,0.558206558
+Case bonus 198 how,NO_NODES_DETECTED,TYPES_BONUS,0.1594706
+Give me bonus,TYPES_BONUS,TYPES_BONUS,0.651756465
+Enthasepu,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+Taipei cs vs pu last over run out m,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0173888318
+Mail I'd send me,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0247582868
+D bharshila,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0382141843
+Thanks for all,THANKS,THANKS,0.23480998
+Why show my duplicate account,NO_NODES_DETECTED,WHY_VERIFY,0.109910972
+"Tp-w vs cl-w match wrong points updated,you cheating",FAKE_TEAMS,POINTS_NOT_UPDATED,0.108399794
+I won 8 rupees but the account balance is showing 2 rupees.,CHAT_WITH_AN_AGENT,ACCOUNT_BALANCE_DEDUCTED,0.192170143
+Kam,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+"For withdraw money, bank account and pan card link necessary",NO_NODES_DETECTED,DELETE_PAN_CARD,0.09833394
+O,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Hi PowerPlay11,GREETINGS_DAY,HOW_POINTS_CALCULATED,0.0783074349
+why 999rs contest from cricket removed?,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.15743947
+I joined 4 contests in regular play in match Dragons vs Titans but now it is showing in safe play,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.319757223
+"On joining a contest, the account balance from your wallet is deducted as per the below cycle 👇
+My account balance is lost",ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.9480928
+Cashback 5team join,NO_NODES_DETECTED,JOIN_CONTEST,0.0864591748
+Money offers,OFFERS_AND_REFERRALS,OFFERS_AND_REFERRALS,0.686643362
+Yesterday withdrawal not added yet,NO_NODES_DETECTED,WITHDRAWAL_TIME,0.123757
+"Taipai t10 leauge ke aaj third match{swinger vs pcct} ke point update kaise nahi ho rahe
+Usme pcct ki team se last over me mohammad mujahid ne 2 wicket liye hain lekin match close hua 15 minutes ho gaya point update nahi hua",NO_NODES_DETECTED,WRONG_SCORES,0.218160838
+Today last match t10 player  muhammad mujahid has 2wicket 16 runs you give 45 points,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.052485697
+Remove fairplay violation,NO_NODES_DETECTED,FAIRPLAY_VIOLATIONS,0.782962263
+Insatant or paytm ka option show nhi ho rha h only withdraw ka bs h ap chalu kr dijiye,NO_NODES_DETECTED,WRONG_SCORES,0.0505247749
+Call lag nahi raha number par,NO_NODES_DETECTED,CONTACT_NUMBER,0.0449538566
+Taipei mach last over run out,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0125438618
+How to check bank details,NO_NODES_DETECTED,BANK_VERIFICATION_DETAILS,0.173780426
+Hi good evng review money football,NO_NODES_DETECTED,WINNINGS,0.0379952379
+Match realeted,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.164328009
+Hey i want to change my bank account,CHANGE_BANK_ACCOUNT,CHANGE_BANK_ACCOUNT,0.571947157
+Match kab Tak khatam hoga,NO_NODES_DETECTED,MATCH_ABANDONED,0.0142127629
+My wallet reload amount 49rs,CHECK_WALLET_BALANCE,CHECK_WALLET_BALANCE,0.17202
+Kya 200 add Karne se cash bonus Kitna aaiyega,NO_NODES_DETECTED,TYPES_BONUS,0.06540818
+Connect an agent,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.9322056
+Today I'm wining 21 rs,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0253154449
+Why yesterday football match slk v ebm pending results,WHEN_SCORES_UPDATED,POINTS_NOT_UPDATED,0.06585792
+It is only 1st deposit,NO_NODES_DETECTED,CHECK_DEPOSIT_STATUS,0.4668427
+What is regular and safe contest,TEAM_DEADLINE,TEAM_DEADLINE,0.828648746
+What is 100% off,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0163921937
+My Cash bonus not received to me,NO_NODES_DETECTED,REFUND_OF_ADDED_CASH,0.202000126
+What's happened basketball match is not complete,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03983167
+My diposit money less why,NO_NODES_DETECTED,WINNINGS,0.0443678536
+please help i add 125 but my wallet credited 25,CAPABILITIES,WHEN_WINNINGS_DISTRIBUTED,0.07925497
+Tor vs gra fottbal leadboard kab khtam hoga tumhara,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.015267997
+Match is abandoned but amount is not get back in my wallet,MATCH_ABANDONED,MATCH_ABANDONED,0.4223172
+But still it is not refunded,REFUND_OF_ADDED_CASH,CHAT_WITH_AN_AGENT,0.534297049
+Sir in basketball can you return the money if can't update the scorecard we are waiting since tomorrow,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.155385762
+Not add wining balance,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.03311537
+Please check basketball mach ka refand nehi aya he,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.0150327934
+पुराना id नहीं खुल रहा है,NO_NODES_DETECTED,WRONG_SCORES,0.043276716
+10 win not 4 win,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.03845759
+Hi I am Mohit,GREETINGS_DAY,CHAT_WITH_AN_AGENT,0.0271835811
+My,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.346790373
+My balc was missing,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.01621991
+I create team so my winning amount send,WHEN_WINNINGS_DISTRIBUTED,LESS_WINNINGS_AMOUNT,0.446041644
+Regular,NO_NODES_DETECTED,TEAM_DEADLINE,0.76036495
+mujhe pure paise wapas nahi mile hai,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.011704593
+We already sent a mail,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0117226457
+cricket suspended match?,NO_NODES_DETECTED,TEAM_DEADLINE,0.0266961176
+suspended match?,NO_NODES_DETECTED,TEAM_DEADLINE,0.03798907
+Who will win toss of t10 league match of thi vs fcf,NO_NODES_DETECTED,MATCH_ABANDONED,0.03711514
+Tum log Jaan bujh kar kisi Ko jitne nahin jaate Ho khud winner ban jaate Ho,NO_NODES_DETECTED,WRONG_SCORES,0.0384659879
+Debit card,NO_NODES_DETECTED,CRITICISM,0.03295275
+My winning amount has not reflected in the wallet amount,WHEN_WINNINGS_DISTRIBUTED,LESS_WINNINGS_AMOUNT,0.444144458
+But u complete the distribution too,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0147620877
+I sir deposited 26 and 12 but not showing on my wallet yet,CHAT_WITH_AN_AGENT,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0590939559
+"Hi guys, I previously have acount with u I forgot and registered with another number now i m not able to open my previous acount as well this acount shows already register with the PAN card please advice I am just builing a page about uh and have to provide referral
+Link",NO_NODES_DETECTED,WRONG_SCORES,0.302681446
+Last t10 match Cancelled please refund my money,NO_NODES_DETECTED,MATCH_ABANDONED,0.05158734
+Time mistek for contest,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.626843452
+Please complete the match,NO_NODES_DETECTED,TEAM_DEADLINE,0.0397744067
+Match abandoned but Money will not credited to my account,WINNINGS,MATCH_ABANDONED,0.3138083
+withdrawl not received,WITHDRAWAL_TIME,WITHDRAWAL_TIME,0.124081336
+Can I do instant Widhraw ?,INSTANT_WITHDRAWAL,INSTANT_WITHDRAWAL,0.104371212
+If pen will verification is complete then I will get my amount,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.113232583
+TDs certificate,NO_NODES_DETECTED,CRITICISM,0.033747118
+Imai very fai nahi ho raha h,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0128987907
+how to deactivate,NO_NODES_DETECTED,UPDATE_APP,0.0286580753
+How many days will take ...,NO_NODES_DETECTED,NEW_TEAM_PATTERN,0.03172632
+Amount is debited from my bank account,ACCOUNT_BALANCE_DEDUCTED,ACCOUNT_BALANCE_DEDUCTED,0.569275856
+I am change my mobile no .,CHANGE_MOBILE_NUMBER,CHANGE_MOBILE_NUMBER,0.820575655
+Just now i deposit 1222 amount ....but not shown in my wallet,CHAT_WITH_AN_AGENT,DEDUCTED_AMOUNT_NOT_RECEIVED,0.289779216
+Cheng the Mobil no,CHANGE_MOBILE_NUMBER,CHAT_WITH_AN_AGENT,0.0181842
+6 sex all rounder not interest,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02693599
+"Where previously it was 👇
+
+*3-5 Batters
+3-5 Bowlers
+1-3 All-Rounders
+1 Wicket Keeper*",NO_NODES_DETECTED,NEW_TEAM_PATTERN,0.100781232
+Frod fake,FAKE_TEAMS,FAKE_TEAMS,0.478734285
+"Tp-w vs ty-w basketball match;
+Wrong points updated, s rou not updated",POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.127122462
+Muje team name change karna haj sir,NO_NODES_DETECTED,CHANGE_PROFILE_TEAM_DETAILS,0.07698802
+How to turn off notifications??,NO_NODES_DETECTED,UPDATE_APP,0.0176857673
+My account not opned,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.460103869
+fairplay issue,NO_NODES_DETECTED,CRITICISM,0.0314253233
+My email notification winning ke bad,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.0579766929
+hello@ymail.com,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0117526175
+Ok ty.. Can i call this time,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0276718829
+Change to email how you,CHANGE_PROFILE_TEAM_DETAILS,VERIFY_EMAIL,0.278636873
+Reaturn to mony in my wallet,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.851730764
+No sr,NO_NODES_DETECTED,CRITICISM,0.0334699228
+Sks slm volleyball match results not matched results,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.0236764662
+सर Belarus premier league का wining zone अपडेट क्यु नहीं ho रहा कृपया बताए,NO_NODES_DETECTED,WRONG_SCORES,0.103177413
+Next game starts at 7am but you didn't pay yesterday winner money.,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.111887366
+Sir why you are giving this type match whose score updates not have you,POINTS_NOT_UPDATED,WHAT_IF_THERES_A_TIE,0.0431794338
+The 20 rupi was also winning amount,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.41486
+My money return please,NO_NODES_DETECTED,WINNINGS,0.2221596
+dummyemail@hotmail.com,NO_NODES_DETECTED,UPDATE_APP,0.0102945818
+My winning amount not added in my wallet,CHAT_WITH_AN_AGENT,LESS_WINNINGS_AMOUNT,0.3755808
+But not verify,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.5786348
+Hi I added 3000 by mistake,REFUND_OF_WRONG_AMOUNT,REFUND_OF_WRONG_AMOUNT,0.4884107
+Wallet added but why not wining ad money,NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.137202755
+Basketball match Abadand amuont not riciving sir,NO_NODES_DETECTED,MATCH_ABANDONED,0.0280203875
+Sir yesterday i joined food ball match,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.2603126
+सर दो दिन हो गए contest का कोई अपडेटेड नहीं आया कृप्या बताए,NO_NODES_DETECTED,WRONG_SCORES,0.13979435
+Unka result late ku krte ho,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0120979464
+सर Nicaragua फुटबाल लीग का 2 दिन हो गए contest लगाए हुए कोई अपडेटेड नहीं आया है कृपया बताए अभी तक अपडेट क्यु नहीं आया,NO_NODES_DETECTED,WRONG_SCORES,0.350857735
+Winning money not add in account,WINNINGS,WINNINGS,0.63756007
+Where is g clopper point,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.01649281
+Why my withdrawal is rejected,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.216225937
+Ngv,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+Mere sat same team Q he?,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.024288971
+We already sent a screen shot,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0131913666
+Match finisher yesterday what not transfer my money this time,CHAT_WITH_AN_AGENT,WITHDRAWAL_TIME,0.0592589155
+Football match ka amount add kar do,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.06344771
+My winning has not reflected in the wallet,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.300701
+100% off means,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.0130615151
+We are,NO_NODES_DETECTED,PRESENCE,0.14904511
+I was winning in points but Final score was not correct You cheated me,FAKE_TEAMS,LESS_WINNINGS_AMOUNT,0.06269401
+Mera point kam hai q,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0135744838
+1222 ka,NO_NODES_DETECTED,CRITICISM,0.03156429
+Taipe T10 today 2nd match ka winning amount kab milega,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.185931161
+Football match results,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.238417879
+Match money,NO_NODES_DETECTED,WINNINGS,0.5616727
+Transection related,CHECK_DEPOSIT_STATUS,CRITICISM,0.0315182619
+3456789012,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+How much tax include for 8877887654,TAXES_ON_WINNINGS,TAXES_ON_WINNINGS,0.665863335
+Taipe T10 aaj subah ke match ka winning amount kab milega,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.136817485
+This is my last game on your platform,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.02160416
+I had joined a match today,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.531960964
+My PAN card bank account verification please,VERIFY_PAN,PAN_VERIFICATION_FAILED,0.438582361
+Nt refunded yet,REFUND_OF_ADDED_CASH,REFUND_OF_ADDED_CASH,0.0793980956
+I want update my bank details,CHANGE_PROFILE_TEAM_DETAILS,BANK_VERIFICATION_DETAILS,0.149911776
+Another account,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.2534463
+Pls check my account and wallet,CHECK_WALLET_BALANCE,CHECK_WALLET_BALANCE,0.152024284
+Dear update Bank account details,CHANGE_BANK_ACCOUNT,BANK_VERIFICATION_DETAILS,0.1865351
+"Dear Sir, 
+
+            I am added Rs. 33 each two time, i.e Rs. 66 through paytm as on 6545678877 at 02:12 am. But my cash wallet show on Rs. 29 only. 
+
+           So, please credited the balance amount immediately. 
+
+            Thanking you, 
+
+              With regards
+
+SANJIB MUKHERJEE",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.5320431
+"Dear Sir, 
+
+            I am added Rs. 33 each two time, i.e Rs. 66 through paytm as on 4444555522 at 02:12 am. But my cash wallet show on Rs. 29 only. 
+
+           So, please credited the balance amount immediately. 
+
+            Thanking you, 
+
+              With regards
+
+SANJIB MUKHERJEE",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.5320431
+Pan card not verify...,VERIFY_PAN,VERIFY_PAN,0.7864215
+8899009900 no. Se nhi khul rhi h id,NO_NODES_DETECTED,WHAT_IF_THERES_A_TIE,0.0147009259
+Recently added,NO_NODES_DETECTED,REFUND_OF_WRONG_AMOUNT,0.1942271
+I win 30rs in a league,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.110579751
+My winning balance is 30 rupees but,NO_NODES_DETECTED,ACCOUNT_BALANCE_DEDUCTED,0.07882129
+Bank account no jud rha,NO_NODES_DETECTED,CHANGE_BANK_ACCOUNT,0.09483339
+How much time take to declare the winner after match finished,NO_NODES_DETECTED,MATCH_ABANDONED,0.0341469534
+Now I add but cash not show in wallet,CHAT_WITH_AN_AGENT,REFUND_OF_ADDED_CASH,0.3085542
+4 all rounder select,NEW_TEAM_PATTERN,NEW_TEAM_PATTERN,0.705082059
+What the hell,CRITICISM,UPDATE_APP,0.01913908
+PowerPlay11 chor h,NO_NODES_DETECTED,HOW_POINTS_CALCULATED,0.06198512
+Ghanta ka good day,NO_NODES_DETECTED,GREETINGS_DAY,0.143263087
+I need agent for helo,CHAT_WITH_AN_AGENT,CHAT_WITH_AN_AGENT,0.482412636
+Weekend bonanza is not good this time please improve it,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0468844324
+Wrong caliculations,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.797668636
+I have withdrawn very time sr,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.369461477
+I poor man,NO_NODES_DETECTED,WITHDRAW_CASH_BONUS,0.01843827
+Bonus give me sir,TYPES_BONUS,TYPES_BONUS,0.347930431
+I want deposits from last 1 year,NO_NODES_DETECTED,DELETE_PAN_CARD,0.011071492
+Request 1Day withdrawal,NO_NODES_DETECTED,WITHDRAWAL_STATUS,0.245307833
+Instant withdrawal option is available now??,INSTANT_WITHDRAWAL,INSTANT_WITHDRAWAL,0.6526911
+Results should done immediately,NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.015610232
+Previous match result,NO_NODES_DETECTED,TEAM_DEADLINE,0.0308321
+Money not add basketbal abounded jui Vs bon yesterday match,NO_NODES_DETECTED,MATCH_ABANDONED,0.0306161381
+is not add 1740 only 740 pls chech,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.033742588
+my wallet balance is 25,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.9027595
+i added 125 rupees but utilised balance shown 25 only please help me,CHAT_WITH_AN_AGENT,DEDUCTED_AMOUNT_NOT_RECEIVED,0.06857682
+Tomorrow match complete but not add the money,WINNINGS,DEDUCTED_AMOUNT_NOT_RECEIVED,0.0285415575
+बोनस राशि का उपयोग नहीं कर पा रहे हैं,NO_NODES_DETECTED,WRONG_SCORES,0.07362848
+Please help me🙏🏻🙏🏻🙏🏻,CAPABILITIES,CAPABILITIES,0.177424923
+Not work🙏🏻🙏🏻,NO_NODES_DETECTED,NO_NODES_DETECTED,0.154307023
+Football winning are not declared,NO_NODES_DETECTED,WINNINGS,0.0406720862
+Amount,NO_NODES_DETECTED,WINNINGS,0.5492587
+Please tranfer the winning money,WINNINGS,WINNINGS,0.4356191
+if match suspended,MATCH_ABANDONED,MATCH_ABANDONED,0.0462183431
+Sir jo football ki match h,NO_NODES_DETECTED,MATCH_ABANDONED,0.02067381
+Hi just completed t10 match one of my player get two wickets name,NO_NODES_DETECTED,WRONG_SCORES,0.110914715
+"get lost then, bcoz u didn't understand u allways writing sorry i couldn't understand",NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.5228408
+पेसे  निकाले कैसे,NO_NODES_DETECTED,WRONG_SCORES,0.0311730262
+Cal night ke football match ke paise to dal do,NO_NODES_DETECTED,MATCH_ABANDONED,0.0278358515
+Cal night ke paise toda football match,NO_NODES_DETECTED,MATCH_ABANDONED,0.0218532272
+Sir I added 26 and 12 but it 0,NO_NODES_DETECTED,REFUND_OF_WRONG_AMOUNT,0.0877882
+200 ad hone par 400 Milega kya,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.01285449
+200+200 =400,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0135744838
+"I received a SMS today -- PowerPlay11's exclusive treat for you. Grab your 222 CB reward on adding 1222. Hurry limited time offer for exclusive users. Add now / 
+Is it true ?",NO_NODES_DETECTED,DEDUCTED_AMOUNT_NOT_RECEIVED,0.228139877
+Sir mere no 8768768769 se h wo number change kerne h plz help me,NO_NODES_DETECTED,CHANGE_MOBILE_NUMBER,0.06124469
+great@gmail.com,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0129400352
+TaipeT103rd match cancel match ka joining amount jaldi de,NO_NODES_DETECTED,LESS_WINNINGS_AMOUNT,0.07336264
+125 rupees transaction not siccess,NO_NODES_DETECTED,CHECK_DEPOSIT_STATUS,0.256049722
+My points for basketball ball game is not been updated .. kindly sort the problem,POINTS_NOT_UPDATED,POINTS_NOT_UPDATED,0.07833815
+How withdrawal,WITHDRAWAL_INTRO,WITHDRAWAL_STATUS,0.504678965
+I won 100rupees but yet that has not come in my winning amount,WINNINGS,LESS_WINNINGS_AMOUNT,0.458933562
+8765487654 update krna h,NO_NODES_DETECTED,UPDATE_APP,0.1112141
+Please give me 100 wallet balance,NO_NODES_DETECTED,CHECK_WALLET_BALANCE,0.6947281
+its say timeout ata the time on kyc update,NO_NODES_DETECTED,UPDATE_APP,0.0270621516
+What is safe contest?,TEAM_DEADLINE,CANNOT_SEE_JOINED_CONTESTS,0.4103986
+I want tds certificate,NO_NODES_DETECTED,WINNINGS,0.0137020247
+Game Play  with PowerPlay11,HOW_TO_PLAY,HOW_TO_PLAY,0.439462841
+Hey everyday match are abonden what is the reason,NO_NODES_DETECTED,MATCH_ABANDONED,0.043568518
+Basketball Result,NO_NODES_DETECTED,CRITICISM,0.033747118
+Account deletion,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.08479629
+Yes thanks,THANKS,GREETINGS_DAY,0.642165661
+fair play complaints,NO_NODES_DETECTED,FAIRPLAY_VIOLATIONS,0.06189067
+I want to change my mobile number as my contact number is permanently out of service,CHANGE_PROFILE_TEAM_DETAILS,CHANGE_MOBILE_NUMBER,0.6525694
+Nice,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+Call un avill bt raha h,NO_NODES_DETECTED,CONTACT_NUMBER,0.0130714467
+Sawag ki maa ki chut,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0115858186
+Mc sara rupaya kha go,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0110684782
+Gando,NO_NODES_DETECTED,NO_NODES_DETECTED,0.982040763
+You marked the conversation complete,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0144797871
+My team account has not opned  he has temporarily   please open my account  7654765432,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.0583450049
+I all ready account he  has been temporarily  stoped,NO_NODES_DETECTED,BANK_VERIFICATION_DETAILS,0.025680691
+Result,NO_NODES_DETECTED,GREETINGS_DAY,0.119083948
+"Dbr vs ktr baseball match;
+Wrong points updated",NO_NODES_DETECTED,POINTS_NOT_UPDATED,0.5417091
+My account activet yes/no,NO_NODES_DETECTED,ACCOUNT_NOT_VERIFIED,0.098947
+Contest is t10 leage,NO_NODES_DETECTED,CANNOT_SEE_JOINED_CONTESTS,0.138945013
+पैसा नही आया मेच नही हुआ अ,NO_NODES_DETECTED,WRONG_SCORES,0.0426821075
+We are making since yesterday but it not getting success,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0350453332
+My pan card and bank account is uploaded but it is not getting confirmed,NO_NODES_DETECTED,DELETE_PAN_CARD,0.119277708
+Abe asli aadmi bhejo yaar not virtual assistant,NO_NODES_DETECTED,CHAT_WITH_AN_AGENT,0.0230317265
+Surprise bonus use,TYPES_BONUS,TYPES_BONUS,0.85363555
+"Please distribute the money. 
+I want to participate the next tournament. 
+But I don't get my winner🏆🎉🏆 amount.",CHAT_WITH_AN_AGENT,LESS_WINNINGS_AMOUNT,0.154024437

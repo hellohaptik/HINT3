@@ -1,3 +1,329 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3bd4c7f2cc5282a1f6f86217fb574f4bc35794f28e14c76196d26daa664fddd4
-size 24888
+sentence,label,answer
+You guys provide EMI option?,EMI,Here are some of the *EMI* options for you
+Do you offer Zero Percent EMI payment options?,EMI,Here are some of the *EMI* options for you
+0% EMI.,EMI,Here are some of the *EMI* options for you
+EMI,EMI,Here are some of the *EMI* options for you
+I want in installment,EMI,Here are some of the *EMI* options for you
+I want it on 0% interest,EMI,Here are some of the *EMI* options for you
+How to get in EMI,EMI,Here are some of the *EMI* options for you
+what about emi options,EMI,Here are some of the *EMI* options for you
+I need emi payment. ,EMI,Here are some of the *EMI* options for you
+How to EMI,EMI,Here are some of the *EMI* options for you
+I want to buy on EMI,EMI,Here are some of the *EMI* options for you
+I want to buy this in installments,EMI,Here are some of the *EMI* options for you
+0% Emi,EMI,Here are some of the *EMI* options for you
+Down payments,EMI,Here are some of the *EMI* options for you
+Installments,EMI,Here are some of the *EMI* options for you
+How about Paisa finance,EMI,Here are some of the *EMI* options for you
+Paisa finance service available,EMI,Here are some of the *EMI* options for you
+What is minimum down payment,EMI,Here are some of the *EMI* options for you
+Paisa Finance is available,EMI,Here are some of the *EMI* options for you
+Do you accept Paisa EMI card,EMI,Here are some of the *EMI* options for you
+Can we buy through Paisa finance,EMI,Here are some of the *EMI* options for you
+EMI Option,EMI,Here are some of the *EMI* options for you
+Paisa Finance,EMI,Here are some of the *EMI* options for you
+No cost EMI is available?,EMI,Here are some of the *EMI* options for you
+Is EMI available,EMI,Here are some of the *EMI* options for you
+COD option is availble?,COD,We do provide *COD* to our customers
+Do you offer COD to my pincode?,COD,We do provide *COD* to our customers
+Can I do COD?,COD,We do provide *COD* to our customers
+COD,COD,We do provide *COD* to our customers
+Is it possible to COD,COD,We do provide *COD* to our customers
+Cash on delivery is acceptable?,COD,We do provide *COD* to our customers
+Can pay later on delivery ,COD,We do provide *COD* to our customers
+DO you have COD option,COD,We do provide *COD* to our customers
+Can it deliver by COD,COD,We do provide *COD* to our customers
+Is COD option available,COD,We do provide *COD* to our customers
+Can I get COD option?,COD,We do provide *COD* to our customers
+Cash on delivery is available,COD,We do provide *COD* to our customers
+Features of Ortho mattress,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+What are the key features of the SOF Ortho mattress,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+SOF ortho,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Ortho mattress,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Ortho features,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+ortho,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Tell me about SOF Ortho mattress,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Have a back problem,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+I have back pain issue,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Back Pain,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Is it orthopaedic,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Neck pain and back pain,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+back ache issue,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+I m looking mattress for slip disc problem,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Do we have anything for backache,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+I am cervical and Lombard section problem,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+Is there orthopedic mattress available,ORTHO_FEATURES,*ORTHO_FEATURES* are mentioned here
+What are the key features of the SOF Ergo mattress,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Features of Ergo mattress,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+SOF ergo,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Ergo mattress,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Ergo features,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Ergo,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Tell me about SOF Ergo mattress,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+What about ergo,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+What is responsive foam,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+SOF ergo features,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+Does this have ergonomic support?,ERGO_FEATURES,*ERGO_FEATURES* are listed here
+What is the difference between the Ergo & Ortho variants,COMPARISON,Find your *COMPARISON* here
+Difference between Ergo & Ortho Mattress,COMPARISON,Find your *COMPARISON* here
+Difference between the products,COMPARISON,Find your *COMPARISON* here
+Compare the 2 mattresses,COMPARISON,Find your *COMPARISON* here
+Product comparison,COMPARISON,Find your *COMPARISON* here
+ Comparison,COMPARISON,Find your *COMPARISON* here
+Which mattress to buy?,COMPARISON,Find your *COMPARISON* here
+Is the mattress good for my back,COMPARISON,Find your *COMPARISON* here
+Mattress comparison,COMPARISON,Find your *COMPARISON* here
+Compare ergo & ortho variants,COMPARISON,Find your *COMPARISON* here
+I wanna know the difference,COMPARISON,Find your *COMPARISON* here
+What is the warranty period?,WARRANTY,*WARRANTY* related information is available here
+Warranty,WARRANTY,*WARRANTY* related information is available here
+Does mattress cover is included in warranty,WARRANTY,*WARRANTY* related information is available here
+How long is the warranty you offer on your mattresses and what does it cover,WARRANTY,*WARRANTY* related information is available here
+Do you offer warranty ,WARRANTY,*WARRANTY* related information is available here
+Tell me about the product warranty,WARRANTY,*WARRANTY* related information is available here
+Share warranty information,WARRANTY,*WARRANTY* related information is available here
+Need to know the warranty details,WARRANTY,*WARRANTY* related information is available here
+Want to know about warranty,WARRANTY,*WARRANTY* related information is available here
+would interested in warranty details,WARRANTY,*WARRANTY* related information is available here
+How does the 100 night trial work,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+What is the 100-night offer,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Trial details,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+How to enroll for trial,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+100 night trial,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Is the 100 night return trial applicable for custom size as well,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+100 night,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Trial offer on customisation,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+do you provide exchange,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Can I try a mattress first,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+I want to check offers,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+What is 100 Night trial offer,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Need 100 days trial,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+100 days trial,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+Can I get free trial,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+100 Nights trial version,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+ Can you give me 100 night trial ,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+100 free Nights,100_NIGHT_TRIAL_OFFER,Things you need to know about *100 NIGHT TRIAL OFFER*
+I want to change the size of the mattress.,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Need some help in changing size of the mattress,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+How can I order a custom sized mattress,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Custom size,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Customise size ,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Customisation is possible?,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Will I get an option to Customise the size,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Can mattress size be customised?,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Mattress size change,SIZE_CUSTOMIZATION,We provide *SIZE_CUSTOMIZATION*
+Can you help with the size?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+How do I know what size to order?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+How do I know the size of my bed?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Inches,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Length,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Feet,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+6*3,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Help me with the size chart,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+What are the available sizes?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Can I please have the size chart?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Share the size structure,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+What are the sizes available?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Want to know the custom size chart,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Mattress size,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+ What size to order?,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Show me all available sizes,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+What are the sizes,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+What are the available mattress sizes,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+King Size,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Inches,WHAT_SIZE_TO_ORDER,Don't you worry if you don't know *WHAT SIZE TO ORDER*
+Get in Touch,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Want to talk to an live agent,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+ Please call me,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Do you have Live agent,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Want to get in touch,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+ Schedule a callback ,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+ Arrange a call back ,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+How to get in touch?,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Interested in buying,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+I want to buy this,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+How to buy?,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+How to order,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+I want to order,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Connect to an agent,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Get In Touch,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+I want a call back,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+I need a call back,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Please call me back,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Call me now,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+I want to buy,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Need a call from your representative,LEAD_GEN,Sure! We will contact you through our *LEAD_GEN*
+Do you deliver to my pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Check pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Is delivery possible on this pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Will you be able to deliver here,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Can you make delivery on this pin code?,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Can you deliver on my pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Do you deliver to,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Can you please deliver on my pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Need a delivery on this pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Can I get delivery on this pincode,CHECK_PINCODE,Do *CHECK_PINCODE* if you have any doubts
+Do you have any showrooms in Delhi state,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Do you have any distributors in Mumbai city,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Do you have any retailers in Pune city,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+ Where can I see the product before I buy,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Distributors ,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Distributors/Retailers/Showrooms,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Where is your showroom,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Do you have a showroom,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Can I visit SOF mattress showroom,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Where is your showroom,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Nearby Show room,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Do you have Showroom,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Need store,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Need Nearby Store,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Nearest shop,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Demo store,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Is there any offline stores ,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Head office,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Shops nearby,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Where was this shop,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Offline stores,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Do you have store,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Where is the shop ,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Is it available in shops,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+You have any branch,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Store in,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+We want dealer ship,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Any shop that I can visit,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Dealership,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Shop near by,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Need dealership,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Outlet,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Store near me,DISTRIBUTORS,Here's a list of *DISTRIBUTORS*
+Price of mattress,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Mattress cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Cost of mattress,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+How much does a SOF mattress cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Custom size cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+What does the mattress cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+I need price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Price Range,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Mattress price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Price of Mattress,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Want to know the price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+How Much Cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Rate,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+MRP,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Low price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+What will be the price,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Cost of Bed,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Cost of Mattress,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+Mattress cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+What is the cost,MATTRESS_COST,Our *MATTRESS_COST* is mentioned here
+What are the product variants,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Product Variants,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Help me with different products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+What are the mattress variants,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+I want to check products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+What are the SOF mattress products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Show me products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Which product is best,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+ Which mattress is best,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+I want to buy a mattress,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+View products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Type of foam used,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Mattress variants,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Mattress Features,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+I am looking the mattress,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Type of mattress,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Show more mattress,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+What are the mattress features,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+What are your products,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+Tell me about SOF mattress features,PRODUCT_VARIANTS,View all our *PRODUCT_VARIANTS*
+How is SOF different from other mattress brands,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+Why SOF mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+About SOF Mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+What is SOF mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+Tell me about SOF mattresses,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+Who are SOF mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+What is SOF,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+How is SOF mattress different from,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+Tell me about SOF Mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+Tell me about company,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+ Who is SOF mattress,ABOUT_SOF_MATTRESS,You are at the right place if you want to know *ABOUT SOF MATTRESS*
+It's been a month,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+Why so long?,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+I did not receive my order yet,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+Why so many days,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+It's delayed,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+Almost 1 month over,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+ It's been 30 days my product haven't received,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+It's been so many days,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+It's already one month,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+Delivery is delayed,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+It's too late to get delivered,DELAY_IN_DELIVERY,We apologize for the *DELAY IN DELIVERY*
+Order Status,ORDER_STATUS,Find your *ORDER_STATUS* here
+What is my order status?,ORDER_STATUS,Find your *ORDER_STATUS* here
+Order related,ORDER_STATUS,Find your *ORDER_STATUS* here
+Status of my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+What about my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+My order Number,ORDER_STATUS,Find your *ORDER_STATUS* here
+Where is my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+Order #,ORDER_STATUS,Find your *ORDER_STATUS* here
+Track order,ORDER_STATUS,Find your *ORDER_STATUS* here
+I want updates of my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+ I need my order status,ORDER_STATUS,Find your *ORDER_STATUS* here
+Status of my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+State of this order,ORDER_STATUS,Find your *ORDER_STATUS* here
+Order status,ORDER_STATUS,Find your *ORDER_STATUS* here
+Present status,ORDER_STATUS,Find your *ORDER_STATUS* here
+What is the status?,ORDER_STATUS,Find your *ORDER_STATUS* here
+Current state of my order,ORDER_STATUS,Find your *ORDER_STATUS* here
+What is the order status?,ORDER_STATUS,Find your *ORDER_STATUS* here
+Where is my product,ORDER_STATUS,Find your *ORDER_STATUS* here
+When will the order be delivered to me?,ORDER_STATUS,Find your *ORDER_STATUS* here
+When can we expect,ORDER_STATUS,Find your *ORDER_STATUS* here
+Need my money back,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+I want refund,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Refund,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Not happy with the product please help me to return,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Help me with exchange process,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+How do I return it,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+I want to return my mattress,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Exchange,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Looking to exchange,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+How can I replace the mattress.,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+How do I return It,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Return,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Return my product,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+Replacement policy,RETURN_EXCHANGE,All you need to know about *RETURN_EXCHANGE*
+I want to cancel my order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+How can I cancel my order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Cancel order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Cancellation status,CANCEL_ORDER,Process to *CANCEL_ORDER*
+I want cancel my order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Cancel the order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Cancel my order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Need to cancel my order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Process of cancelling order,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Can I cancel my order here,CANCEL_ORDER,Process to *CANCEL_ORDER*
+Can I get pillows?,PILLOWS,You will find your *PILLOWS* here
+Do you sell pillows?,PILLOWS,You will find your *PILLOWS* here
+Pillows,PILLOWS,You will find your *PILLOWS* here
+I want to buy pillows,PILLOWS,You will find your *PILLOWS* here
+Are Pillows available,PILLOWS,You will find your *PILLOWS* here
+Need pair of Pillows,PILLOWS,You will find your *PILLOWS* here
+Can I buy pillows from here,PILLOWS,You will find your *PILLOWS* here
+Do you have cushions,PILLOWS,You will find your *PILLOWS* here
+Can I also have pillows,PILLOWS,You will find your *PILLOWS* here
+Is pillows available,PILLOWS,You will find your *PILLOWS* here
+Offers,OFFERS,Best *OFFERS* only for you
+What are the available offers,OFFERS,Best *OFFERS* only for you
+Give me some discount,OFFERS,Best *OFFERS* only for you
+Any discounts,OFFERS,Best *OFFERS* only for you
+Discount,OFFERS,Best *OFFERS* only for you
+May I please know about the offers,OFFERS,Best *OFFERS* only for you
+Available offers,OFFERS,Best *OFFERS* only for you
+Is offer available,OFFERS,Best *OFFERS* only for you
+Want to know the discount ,OFFERS,Best *OFFERS* only for you
+Tell me about the latest offers,OFFERS,Best *OFFERS* only for you

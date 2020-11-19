@@ -1,3 +1,262 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c3c131b69e5cba7188ba758909aef73024dc494f4f2babfd488c25ce2595efa2
-size 12964
+sentence,label
+I added wrong amount and want refund,REFUND_OF_WRONG_AMOUNT
+I added amount by mistake,REFUND_OF_WRONG_AMOUNT
+Want to know how my Account Balance can get Deducted,ACCOUNT_BALANCE_DEDUCTED
+Account balance deducted from my wallet after joining the contest,ACCOUNT_BALANCE_DEDUCTED
+Account Balance deducted would you describe the reason,ACCOUNT_BALANCE_DEDUCTED
+Why money is debited from my account?,ACCOUNT_BALANCE_DEDUCTED
+When PowerPlay11 go for account balance deduction,ACCOUNT_BALANCE_DEDUCTED
+Amount  balance deducted but when,ACCOUNT_BALANCE_DEDUCTED
+How to Verify my email address,VERIFY_EMAIL
+Email not verified,VERIFY_EMAIL
+You are horrible,CRITICISM
+You are dumb,CRITICISM
+Waste app,CRITICISM
+What details I need to provide for bank account,BANK_VERIFICATION_DETAILS
+I don't remember some time ago once I signed up this app I have deposited some money but i didn't palyed it show how much money I have deposited,CHECK_DEPOSIT_STATUS
+ My status was not updated can you show me the deposit status now ,CHECK_DEPOSIT_STATUS
+" I was bored, let me check my deposit transaction",CHECK_DEPOSIT_STATUS
+Show me the status of deposit,CHECK_DEPOSIT_STATUS
+What are my deposit status,CHECK_DEPOSIT_STATUS
+Recent deposit status,CHECK_DEPOSIT_STATUS
+Show my transaction,CHECK_DEPOSIT_STATUS
+Getting error while verifying PAN Card,PAN_VERIFICATION_FAILED
+PAN Card verification failed ,PAN_VERIFICATION_FAILED
+I am unable to verify my account,ACCOUNT_NOT_VERIFIED
+How to Verify my Account?,ACCOUNT_NOT_VERIFIED
+Account Not Verified,ACCOUNT_NOT_VERIFIED
+Can I get the refund of my added cash,REFUND_OF_ADDED_CASH
+Is my addded cash is refundable,REFUND_OF_ADDED_CASH
+I want my cash back,REFUND_OF_ADDED_CASH
+Not refunded,REFUND_OF_ADDED_CASH
+Yes Can you help,GREETINGS_DAY
+Good afternoon,GREETINGS_DAY
+Good Morning,GREETINGS_DAY
+Good night,GREETINGS_DAY
+Good evening,GREETINGS_DAY
+Good day,GREETINGS_DAY
+Hey,GREETINGS_DAY
+Hello,GREETINGS_DAY
+"What is difference between Cash Bonus, signup bonus, surprise bonus, winnings",TYPES_BONUS
+What is the difference between sign-up bonus and cash bonus,TYPES_BONUS
+I want to know about bonus,TYPES_BONUS
+Types of Bonus,TYPES_BONUS
+Daily Bonus,TYPES_BONUS
+Surprise bonus,TYPES_BONUS
+Since last year I did not played any game on this however I have 2000 balance in my account now it is showing 998 would you show me the withdrawal transactions,WITHDRAWAL_STATUS
+I was travelling I dont have cash I need to withdraw some money from app would you tell me withdrawal status,WITHDRAWAL_STATUS
+I have withdrawn some money four days back from the wallet how do I check the amount I have withdrawn,WITHDRAWAL_STATUS
+My status was not updated can you show me the withdrawal status now,WITHDRAWAL_STATUS
+I want to view my withdrawal status,WITHDRAWAL_STATUS
+Withdrawn status for my account,WITHDRAWAL_STATUS
+List all the withdrawal ,WITHDRAWAL_STATUS
+Check withdrawal status ,WITHDRAWAL_STATUS
+Check Earlier withdrawal,WITHDRAWAL_STATUS
+Please give my winning money,WINNINGS
+Winning amount cant add,WINNINGS
+I want money,WINNINGS
+Winning amount,WINNINGS
+I like your service,APPRECIATION
+You are the best,APPRECIATION
+You are amazing,APPRECIATION
+Good job,APPRECIATION
+My money was deducted from my account but not showing the amount added. What should I do?,DEDUCTED_AMOUNT_NOT_RECEIVED
+What if amount is debited from account but not added on PowerPlay11?,DEDUCTED_AMOUNT_NOT_RECEIVED
+Money got debited from bank account but not added to the wallet?,DEDUCTED_AMOUNT_NOT_RECEIVED
+Amount debited from my account but not added to my wallet,DEDUCTED_AMOUNT_NOT_RECEIVED
+ Deducted Amount But Not Received,DEDUCTED_AMOUNT_NOT_RECEIVED
+I want to give feedback,FEEDBACK
+Feedback,FEEDBACK
+How much time it takes to withdraw my amount,WITHDRAWAL_TIME
+I didn't get my withdrawal amount yet,WITHDRAWAL_TIME
+When can I expect my withdrawal amount,WITHDRAWAL_TIME
+Withdrawal approved but not received money,WITHDRAWAL_TIME
+I havent received the winning amount,WITHDRAWAL_TIME
+My withdrawal not received,WITHDRAWAL_TIME
+Min time to withdraw,WITHDRAWAL_TIME
+Please transfer winnings fast,WITHDRAWAL_TIME
+Withdrawal amount duration,WITHDRAWAL_TIME
+Cash Bonus Expiry,CASH_BONUS_EXPIRY
+What is the deadline to edit team in safe play ,TEAM_DEADLINE
+What is the deadline for a match on PowerPlay11?,TEAM_DEADLINE
+What is Safe Play & Regular Play,TEAM_DEADLINE
+Can I edit team in safe play,TEAM_DEADLINE
+What is the regular play,TEAM_DEADLINE
+Team Deadline for Match,TEAM_DEADLINE
+How many playing mode,TEAM_DEADLINE
+Benefit of safe play,TEAM_DEADLINE
+Safe mode editing ,TEAM_DEADLINE
+Playing Mode,TEAM_DEADLINE
+match deadline,TEAM_DEADLINE
+Unutilized Amount,UNUTILIZED_MONEY
+I want to delete my pan card,DELETE_PAN_CARD
+I want to change my PAN,DELETE_PAN_CARD
+Pan card remove,DELETE_PAN_CARD
+What's the process to verify PAN card,VERIFY_PAN
+How do I verify my PAN,VERIFY_PAN
+Help me to edit my mobile number,CHANGE_MOBILE_NUMBER
+Help me with changing my mobile number,CHANGE_MOBILE_NUMBER
+How can I Change my mobile number,CHANGE_MOBILE_NUMBER
+I want to change my number,CHANGE_MOBILE_NUMBER
+My mobile no. change,CHANGE_MOBILE_NUMBER
+Modify mobile number,CHANGE_MOBILE_NUMBER
+Are You Online,PRESENCE
+Are you there,PRESENCE
+Why do I Need to Verify my Account,WHY_VERIFY
+What is the use of account verification,WHY_VERIFY
+Why should I verify,WHY_VERIFY
+Fast withdrawalIs there fast withdrawal,INSTANT_WITHDRAWAL
+Instant withdrawal is available,INSTANT_WITHDRAWAL
+Instant withdrawal Not available,INSTANT_WITHDRAWAL
+I referred to one of my friend he got all necessary step done but then also it not showing in the referral,CHAT_WITH_AN_AGENT
+I ask a number of question to the bot but the query is not answered can you connect to Agent,CHAT_WITH_AN_AGENT
+I am still waiting for my deposit money to get reflected in my wallet,CHAT_WITH_AN_AGENT
+It seems the wallet still not updated,CHAT_WITH_AN_AGENT
+I am facing issue connect to agent,CHAT_WITH_AN_AGENT
+Did not receive my sign up amount,CHAT_WITH_AN_AGENT
+Need to connect with an agent,CHAT_WITH_AN_AGENT
+My sign up bonus is incorrect,CHAT_WITH_AN_AGENT
+Why it is showing wrong balance,CHAT_WITH_AN_AGENT
+I do not need chat agent,CHAT_WITH_AN_AGENT
+Didn't receive money with my referrals,CHAT_WITH_AN_AGENT
+Can I talk to you,CHAT_WITH_AN_AGENT
+My referral amount is incorrect,CHAT_WITH_AN_AGENT
+I can't see my withdrawal,CHAT_WITH_AN_AGENT
+My deposit is not visible,CHAT_WITH_AN_AGENT
+Did not receive my bonus,CHAT_WITH_AN_AGENT
+Did not receive my winnings,CHAT_WITH_AN_AGENT
+"No, I couldn't find",CHAT_WITH_AN_AGENT
+My bonus is wrong,CHAT_WITH_AN_AGENT
+My balance is incorrect,CHAT_WITH_AN_AGENT
+My winnings are incorrect,CHAT_WITH_AN_AGENT
+Nope,CHAT_WITH_AN_AGENT
+Couldn't,CHAT_WITH_AN_AGENT
+Didn't,CHAT_WITH_AN_AGENT
+Why I haven't received any email confirmation link,NO_EMAIL_CONFIRMATION
+Why I haven't received any email confirmation link,NO_EMAIL_CONFIRMATION
+When will I receive email confirmation,NO_EMAIL_CONFIRMATION
+Didn't get email confirmation,NO_EMAIL_CONFIRMATION
+No Email Confirmation,NO_EMAIL_CONFIRMATION
+What is considered as FairPlay Violation on PowerPlay11?,FAIRPLAY_VIOLATIONS
+How my play will be consider as fair,FAIRPLAY_VIOLATIONS
+Violation rules,FAIRPLAY_VIOLATIONS
+How to reset account,ACCOUNT_RESET
+Signup Bonus,SIGNUP_BONUS
+If match get abandoned will I get refund,MATCH_ABANDONED
+What if a match is abandoned?,MATCH_ABANDONED
+If there is a tie between two users in quiz,WHAT_IF_THERES_A_TIE
+What happens in case there is a tie,WHAT_IF_THERES_A_TIE
+Same score between two players ,WHAT_IF_THERES_A_TIE
+I want to know your contact number,CONTACT_NUMBER
+Help me with your contact number,CONTACT_NUMBER
+Can I get your contact number,CONTACT_NUMBER
+Call me back,CONTACT_NUMBER
+Customer care number,CONTACT_NUMBER
+Contact Details,CONTACT_NUMBER
+When Are the Winnings Distributed on PowerPlay11,WHEN_WINNINGS_DISTRIBUTED
+When will I get the winning amount,WHEN_WINNINGS_DISTRIBUTED
+When will I receiev my winning amount,WHEN_WINNINGS_DISTRIBUTED
+Why is my amount not credited,WHEN_WINNINGS_DISTRIBUTED
+Winnings amount not credited,WHEN_WINNINGS_DISTRIBUTED
+What if a game is completed with wrong scores?,WRONG_SCORES
+How to change Bank account,CHANGE_BANK_ACCOUNT
+When are the scores updated on PowerPlay11,WHEN_SCORES_UPDATED
+When Are the Scores Updated,WHEN_SCORES_UPDATED
+When will scores be updated,WHEN_SCORES_UPDATED
+Thanks a lot,THANKS
+Thank you,THANKS
+Tysm,THANKS
+How can I join a Contest on PowerPlay11?,JOIN_CONTEST
+What are the ways to join contest,JOIN_CONTEST
+Join a contest,JOIN_CONTEST
+Withdraw Cash Bonus,WITHDRAW_CASH_BONUS
+How to update the app,UPDATE_APP
+What is the meaning of C infront a league,CANNOT_SEE_JOINED_CONTESTS
+I joined a league but now it's not showing ,CANNOT_SEE_JOINED_CONTESTS
+Amount deducted but showing no league joined,CANNOT_SEE_JOINED_CONTESTS
+My contest does not show,CANNOT_SEE_JOINED_CONTESTS
+Cannot See Joined Contests,CANNOT_SEE_JOINED_CONTESTS
+C icon,CANNOT_SEE_JOINED_CONTESTS
+Contest Cancellation,CANNOT_SEE_JOINED_CONTESTS
+How to download app,DOWNLOAD_POWERPLAY11
+How to download PowerPlay11,DOWNLOAD_POWERPLAY11
+What is the steps to withdraw amount,WITHDRAWAL_INTRO
+What are the steps to withdraw money,WITHDRAWAL_INTRO
+How much winning can I withdraw,WITHDRAWAL_INTRO
+Minimum amount I can withdraw,WITHDRAWAL_INTRO
+Where is my withdraw,WITHDRAWAL_INTRO
+Limit of withdrawal,WITHDRAWAL_INTRO
+Why is my winning amount less than mentioned in Prize list for my rank?,LESS_WINNINGS_AMOUNT
+Why My Winning Amount is Low,LESS_WINNINGS_AMOUNT
+Points for Match name not updated,POINTS_NOT_UPDATED
+Points are not getting updated,POINTS_NOT_UPDATED
+Match name points not updated,POINTS_NOT_UPDATED
+Player name points not updated,POINTS_NOT_UPDATED
+Player points not updated,POINTS_NOT_UPDATED
+Please update match points,POINTS_NOT_UPDATED
+Match results still pending,POINTS_NOT_UPDATED
+Points not updated,POINTS_NOT_UPDATED
+Update points fast,POINTS_NOT_UPDATED
+Points Delay,POINTS_NOT_UPDATED
+I want to know about new team format,NEW_TEAM_PATTERN
+How many wicket keeper I can select,NEW_TEAM_PATTERN
+How many all rounder I can select,NEW_TEAM_PATTERN
+What is the new team format,NEW_TEAM_PATTERN
+How many bolwers I can select,NEW_TEAM_PATTERN
+How many all-rounder I can select,NEW_TEAM_PATTERN
+How many battsman I can select,NEW_TEAM_PATTERN
+How Can I Play on PowerPlay11,HOW_TO_PLAY
+I don't know how to play,HOW_TO_PLAY
+Can you help me to play,HOW_TO_PLAY
+Teach me to play,HOW_TO_PLAY
+How to Play,HOW_TO_PLAY
+Guidelines to play,HOW_TO_PLAY
+Do I need to pay tax for winning,TAXES_ON_WINNINGS
+Are there any taxes associated with withdrawals,TAXES_ON_WINNINGS
+How much tax will be deducted,TAXES_ON_WINNINGS
+Am I supposed to pay tax,TAXES_ON_WINNINGS
+How much tax to pay,TAXES_ON_WINNINGS
+Taxes on Winnings,TAXES_ON_WINNINGS
+Tax deduction,TAXES_ON_WINNINGS
+Liable tax,TAXES_ON_WINNINGS
+What should I do to verify my mobile number,VERIFY_MOBILE
+How do I verify mobile number,VERIFY_MOBILE
+Can you help me with something else,CAPABILITIES
+What can you do for me,CAPABILITIES
+I have other queries,CAPABILITIES
+Help me,CAPABILITIES
+You have your own team in the leagues,FAKE_TEAMS
+Why leagues get full in the last moment ,FAKE_TEAMS
+Why in last 2-3 minutes leagues get full,FAKE_TEAMS
+Office Own team,FAKE_TEAMS
+Fake teams,FAKE_TEAMS
+Not genuine,FAKE_TEAMS
+Fraud team,FAKE_TEAMS
+Cheating,FAKE_TEAMS
+How Are Points Calculated on PowerPlay11,HOW_POINTS_CALCULATED
+Types of Contests,TYPES_CONTESTS
+My friend was asking for referral code do I will get referral bonus,OFFERS_AND_REFERRALS
+I want to know about offers and referral programs,OFFERS_AND_REFERRALS
+Offers and referral program are active on the PowerPlay11,OFFERS_AND_REFERRALS
+What are new offer this week for me,OFFERS_AND_REFERRALS
+Do you have any referral offer for me,OFFERS_AND_REFERRALS
+Show me some offers and referrals program,OFFERS_AND_REFERRALS
+What is the refer and earn program,OFFERS_AND_REFERRALS
+What are active offers for me,OFFERS_AND_REFERRALS
+Show me new offers,OFFERS_AND_REFERRALS
+Back to offers,OFFERS_AND_REFERRALS
+I was surfing with the PowerPlay11 website now I thought I should play it would you let me know my balance,CHECK_WALLET_BALANCE
+How much amount are left in my wallet balance,CHECK_WALLET_BALANCE
+"I went england, I want to check my balance",CHECK_WALLET_BALANCE
+I want to see my wallet balance,CHECK_WALLET_BALANCE
+Money left in my wallet ,CHECK_WALLET_BALANCE
+Show my wallet balance,CHECK_WALLET_BALANCE
+Money in my wallet,CHECK_WALLET_BALANCE
+Show my bonus,CHECK_WALLET_BALANCE
+Cash Bonus,CASH_BONUS
+Can I Change my team name on PowerPlay11?,CHANGE_PROFILE_TEAM_DETAILS
+How can I change my team name,CHANGE_PROFILE_TEAM_DETAILS
+Change My Profile or Team Details,CHANGE_PROFILE_TEAM_DETAILS
+Can I change my profile name,CHANGE_PROFILE_TEAM_DETAILS
+How to change profile name?,CHANGE_PROFILE_TEAM_DETAILS
+Change My Team,CHANGE_PROFILE_TEAM_DETAILS

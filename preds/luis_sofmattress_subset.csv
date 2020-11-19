@@ -1,3 +1,398 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53d86a1b72232737624b60e6c5c7f1dd082720bb5fadcae828342d71a77772eb
-size 29126
+sentence,label,predicted_node,predicted_node_score
+There are only 2 models,NO_NODES_DETECTED,DISTRIBUTORS,0.0209055636
+Single,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+What's difference between ergo and ortho,COMPARISON,COMPARISON,0.733979
+Return order,RETURN_EXCHANGE,RETURN_EXCHANGE,0.510592759
+Hai not recieved my product,DELAY_IN_DELIVERY,ORDER_STATUS,0.0695794448
+Compare,COMPARISON,COMPARISON,0.131388918
+"Can you deliver this item to yadgir, Karnataka",CHECK_PINCODE,CHECK_PINCODE,0.19200626
+What is difference between ergo and ortho,COMPARISON,COMPARISON,0.7432926
+25 days are completed,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.04895306
+I Need A Mattress For Double Bed,PRODUCT_VARIANTS,PRODUCT_VARIANTS,0.104154348
+please send them after lockdown,NO_NODES_DETECTED,DISTRIBUTORS,0.02222169
+I have not recieved anything with regard to that.,NO_NODES_DETECTED,ORTHO_FEATURES,0.04884245
+I am planning to purchase SOF mattress,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,0.182416648
+Order over 1 month,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.448256969
+What about size,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,0.959602952
+Is there anybody? I want to purchase this SOF ergo 4ftX6ft. Will you send to Nipani 591237 safely without damage?,NO_NODES_DETECTED,ERGO_FEATURES,0.375249654
+No but i wann the product to be delivered as its mentioned in your website its pan india delivery and have heard a lot about your products but if delivery wont b possible i m sorry to say that would cut down many customer of this region who wanted SOF matteress,NO_NODES_DETECTED,COD,0.289158165
+Is it available in Lucknow?,NO_NODES_DETECTED,EMI,0.0452179573
+I need 78x60 cost,MATTRESS_COST,MATTRESS_COST,0.7461915
+cannot customize size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.48443082
+i i want to buy,LEAD_GEN,LEAD_GEN,0.521548569
+Buy,LEAD_GEN,LEAD_GEN,0.184528187
+Do you deliver anywhere?,CHECK_PINCODE,CHECK_PINCODE,0.199532852
+i am not able to order pillows,NO_NODES_DETECTED,PILLOWS,0.5183495
+How can i purchase this product in nepal?,NO_NODES_DETECTED,DISTRIBUTORS,0.0587060936
+I bough ergo mattress which pillow is comfortable for it,PILLOWS,ERGO_FEATURES,0.370987862
+i am not able order the pillow,NO_NODES_DETECTED,ORDER_STATUS,0.07418085
+In which matters there wont be any disturbance to the partner side if movement is made on one side,NO_NODES_DETECTED,DISTRIBUTORS,0.161447421
+What is the less price,MATTRESS_COST,MATTRESS_COST,0.6467313
+Which one is best for back pain,ORTHO_FEATURES,ORTHO_FEATURES,0.185557574
+i need 30 % discount,OFFERS,OFFERS,0.399667859
+20% discount their right now in face book,OFFERS,OFFERS,0.182845265
+Can you give me your mail to contact you,NO_NODES_DETECTED,DISTRIBUTORS,0.0468593352
+Round mattress?,NO_NODES_DETECTED,PRODUCT_VARIANTS,0.0868102759
+free trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,0.971212864
+Want pillow,PILLOWS,LEAD_GEN,0.118537389
+General issue,NO_NODES_DETECTED,ORTHO_FEATURES,0.06398843
+If I move out how to take the mattress,NO_NODES_DETECTED,COMPARISON,0.0662443861
+Now we want someone to check size according order can be placed.,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,0.09471255
+26 days are completed,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.04681699
+26 days are completed.,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.0524782129
+My weight is 100 kg which is good 6 or 8inch,NO_NODES_DETECTED,100_NIGHT_TRIAL_OFFER,0.108897515
+I want to what are the types of material is used in bed size of king 75*72 ortho variant,ORTHO_FEATURES,ORTHO_FEATURES,0.133980408
+Not abhle,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0318212
+Where is the option of custom size?,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.94907093
+I need additional discount,OFFERS,OFFERS,0.3831865
+I am belongs to nepal so how can i purchase your’s product in nepal,NO_NODES_DETECTED,DISTRIBUTORS,0.09846631
+If I take one extra support and one other kind how much it costs excluding the concession (pre order) in locking period?,NO_NODES_DETECTED,DISTRIBUTORS,0.163705781
+I am want 4 pillows ?,PILLOWS,PILLOWS,0.7925583
+Which one is comfortable,NO_NODES_DETECTED,COMPARISON,0.02163043
+I will go for ergo pillow,PILLOWS,ERGO_FEATURES,0.6636675
+Not able to buy often,NO_NODES_DETECTED,CHECK_PINCODE,0.04502528
+What is the difference between ergo and ortho,COMPARISON,COMPARISON,0.809218943
+Is it delivered in Lucknow?,CHECK_PINCODE,DELAY_IN_DELIVERY,0.119008079
+It's available in meerut,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0377813056
+Meerut,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+Hindi?,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.05650574
+My address is not deliverable by you 494001 jagdalpur chhattisgarh when will it become available,NO_NODES_DETECTED,DISTRIBUTORS,0.0496582054
+Difference between ergo amd ortho,COMPARISON,COMPARISON,0.6095613
+20% discount?,OFFERS,OFFERS,0.471164674
+delivery policy,NO_NODES_DETECTED,RETURN_EXCHANGE,0.215110809
+How can I get emi,EMI,EMI,0.9646599
+Company information,ABOUT_SOF_MATTRESS,ABOUT_SOF_MATTRESS,0.334075868
+I want some person to answer my query,NO_NODES_DETECTED,DISTRIBUTORS,0.0212787241
+how i cancel my ordr,CANCEL_ORDER,CANCEL_ORDER,0.755890667
+What is the difference between egro and ortho mattress,COMPARISON,COMPARISON,0.90886277
+Ergo or ortho,COMPARISON,ERGO_FEATURES,0.47068128
+Is it will come delivery in the lockdown period,NO_NODES_DETECTED,COD,0.134335771
+Unable to order from your website,NO_NODES_DETECTED,LEAD_GEN,0.1029189
+pin code 851133,CHECK_PINCODE,CHECK_PINCODE,0.399492949
+65,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+Do i need to prepare the pillow,PILLOWS,DISTRIBUTORS,0.04923569
+Bajaj emi is applicable?,EMI,EMI,0.6219279
+Hello .... I have confusion . Can you suggest me .. which mattress i should buy,PRODUCT_VARIANTS,COMPARISON,0.131618589
+pillow price ?,PILLOWS,MATTRESS_COST,0.613507748
+I don't know about mattress pls you help me my age 28 old. Ergo is good or ortho is good,COMPARISON,COMPARISON,0.298315048
+Ordered on 18 march,NO_NODES_DETECTED,DISTRIBUTORS,0.01856995
+cash on delivery option not showing,NO_NODES_DETECTED,COD,0.2958379
+Sorry it's not showing COD option,COD,COD,0.301469862
+Shipment,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+Hi you wil supply mattress for retailers. ?,DISTRIBUTORS,DISTRIBUTORS,0.125409916
+i want a pillow,PILLOWS,LEAD_GEN,0.108453564
+If I am not satisfied or want another version of the mattress can I return it and if yes then how do I return it?,RETURN_EXCHANGE,RETURN_EXCHANGE,0.3741522
+can i whatsapp u there,NO_NODES_DETECTED,DISTRIBUTORS,0.04013787
+I would like to cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.7685095
+cash on delivery available,EMI,COD,0.355366021
+COD option not showing,COD,COD,0.21413593
+that is not showing,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0276289266
+851133,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+can you arrange delivery for pin code 851133,CHECK_PINCODE,CHECK_PINCODE,0.392018437
+Pakistan may ye available hy,NO_NODES_DETECTED,OFFERS,0.02283932
+Call me,LEAD_GEN,LEAD_GEN,0.122887015
+Support one,NO_NODES_DETECTED,ERGO_FEATURES,0.0594781972
+6/६,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.07637272
+Wats ortho and vertho,COMPARISON,ORTHO_FEATURES,0.6912506
+I want to SOF ortho matterss,ORTHO_FEATURES,ORTHO_FEATURES,0.9178327
+I want cod,COD,COD,0.461646765
+I have a queen size bed. so pls assist me to buy a mattress,PRODUCT_VARIANTS,SIZE_CUSTOMIZATION,0.197938666
+"I am 32 years with slight back pain.currently using 20cm thick, doble pocketed spring bed.",ORTHO_FEATURES,ORTHO_FEATURES,0.0613900758
+There is cash on delivery option available??,EMI,COD,0.41670844
+Cancel,CANCEL_ORDER,CANCEL_ORDER,0.876838863
+unable to put extra support pillow in the cart,NO_NODES_DETECTED,DISTRIBUTORS,0.03828797
+Referral,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+As per described the mattress keep cool our body,NO_NODES_DETECTED,COMPARISON,0.04115375
+They are not respond,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0216257628
+I ordered SOF mattress on 27 Feb....,DELAY_IN_DELIVERY,ABOUT_SOF_MATTRESS,0.106632382
+Connect to agent,LEAD_GEN,LEAD_GEN,0.883230567
+72*72inch what size in foot,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.5570515
+shipping partners,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0205385424
+But now you are not giving call service know because pf covid-19,NO_NODES_DETECTED,DISTRIBUTORS,0.052043315
+pin 531163 service their,NO_NODES_DETECTED,CHECK_PINCODE,0.0648152
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+78 x 60 price,MATTRESS_COST,MATTRESS_COST,0.2538732
+Its showing 10459,NO_NODES_DETECTED,EMI,0.0146127325
+how can i go for EMI option,EMI,EMI,0.9260534
+Can I apply two discount??,NO_NODES_DETECTED,OFFERS,0.224962726
+Iam saying I want cash and delivery,EMI,COD,0.191174269
+Cost of mattress &two pillows,MATTRESS_COST,PILLOWS,0.26354146
+for back pain,ORTHO_FEATURES,ORTHO_FEATURES,0.37152952
+office,DISTRIBUTORS,WHAT_SIZE_TO_ORDER,0.03998373
+Si dubal bed me,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.017293673
+I need Ortho mattress which one is good,ORTHO_FEATURES,ORTHO_FEATURES,0.665138066
+",",NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+But due to lockdown not able to get product,NO_NODES_DETECTED,DISTRIBUTORS,0.0381887369
+Don't kbow the size of my bed,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,0.140530929
+I need custom size,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.9048805
+Nothing mentioned such thing lyk custom,NO_NODES_DETECTED,SIZE_CUSTOMIZATION,0.07602016
+Difference between ergo and ortho,COMPARISON,COMPARISON,0.7160281
+Tell me about franchise,NO_NODES_DETECTED,ABOUT_SOF_MATTRESS,0.0331442244
+If this not fit to my bed then what ?,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.03203707
+"How to Cancel my Order because it's too Delay, ",CANCEL_ORDER,CANCEL_ORDER,0.21091789
+Not able to add to cart,NO_NODES_DETECTED,CHECK_PINCODE,0.0460135
+Difference between ortho and the other,COMPARISON,COMPARISON,0.7501479
+505002 pincode,CHECK_PINCODE,CHECK_PINCODE,0.7155612
+Need custom size mattresses,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.3937492
+Cancel payment,CANCEL_ORDER,CANCEL_ORDER,0.338143557
+Nothing is there,NO_NODES_DETECTED,ORTHO_FEATURES,0.0191330388
+I have a bed of size 6.5 feet x 6 feet,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.125549957
+Can u deliver to mumbai,CHECK_PINCODE,CHECK_PINCODE,0.207895011
+can't able to buy,NO_NODES_DETECTED,CHECK_PINCODE,0.09103408
+4*6 bed what is the size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.952214956
+What should I do,NO_NODES_DETECTED,DISTRIBUTORS,0.020662643
+75*72,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.113104738
+Hi I placed an order by last 12 march,NO_NODES_DETECTED,DISTRIBUTORS,0.05528111
+How do you wash the SOF mattress cover?? Wash care label is missing.,NO_NODES_DETECTED,ABOUT_SOF_MATTRESS,0.08781108
+8 inch chaiye mujhr,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0164622776
+Unable to add products in cart,NO_NODES_DETECTED,PRODUCT_VARIANTS,0.144698352
+Don't have measure tape,NO_NODES_DETECTED,DISTRIBUTORS,0.0502149276
+Can I order an mattress but I am not sure about the size,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,0.3552281
+20% needed,NO_NODES_DETECTED,EMI,0.08782205
+Hi looking for orthopaedic heard mattress 78/72/6,ORTHO_FEATURES,DISTRIBUTORS,0.0501811653
+Price is so diffrent,NO_NODES_DETECTED,MATTRESS_COST,0.229476631
+what is top surface and bottom surface?,NO_NODES_DETECTED,DISTRIBUTORS,0.0275363866
+Has it been shipped,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.052823972
+queen size bed what size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.921915054
+Do u have delivery at kerala,CHECK_PINCODE,COD,0.120253861
+5*6 size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.984499931
+5*6 bed sizes,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.978493154
+Emo offers,NO_NODES_DETECTED,OFFERS,0.396032
+"If size is problem, v can return it",RETURN_EXCHANGE,RETURN_EXCHANGE,0.060019426
+Price of 5x6 matt,MATTRESS_COST,MATTRESS_COST,0.7583096
+How toh check my mattress size,WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,0.163856328
+Jst need information on thsi,NO_NODES_DETECTED,DISTRIBUTORS,0.030398393
+How to measure my bed. actually my bed length size when measure from the bed corner it's come. When i measure center of the bed it's came 78. Which length i need to choose,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,0.316639751
+I have bed size 6' x 6',SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.551120758
+We want 75*46.5 inches,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.104959533
+Any other offers,OFFERS,OFFERS,0.456022471
+20 % discount available on emi,OFFERS,EMI,0.928128064
+How many variant of SOF matters,PRODUCT_VARIANTS,ABOUT_SOF_MATTRESS,0.1659662
+My mattress not delivered,DELAY_IN_DELIVERY,ORDER_STATUS,0.0803625658
+before I buy it only 12000 rs but u don't send me and u upgrade 2000,NO_NODES_DETECTED,DISTRIBUTORS,0.256302923
+Please let me know after all offer CODE SEEP4IMMUNITY NET PRICE FOR 78/72/6 KING SIZE,NO_NODES_DETECTED,DISTRIBUTORS,0.05067503
+Covid19 how can you deliver,NO_NODES_DETECTED,CHECK_PINCODE,0.533414662
+When will ur company open,NO_NODES_DETECTED,ABOUT_SOF_MATTRESS,0.0601502731
+i'm looking for prices for queen size mattress,MATTRESS_COST,SIZE_CUSTOMIZATION,0.150021017
+Do u have delivery at Kerala,CHECK_PINCODE,COD,0.120253861
+During lock down can I get information from ur support team on working days,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0553111061
+any showroom available in tamilnadu,DISTRIBUTORS,DISTRIBUTORS,0.539840043
+is it deliver pakistan,CHECK_PINCODE,CHECK_PINCODE,0.182925165
+I wany to custimize the mattress is it possible,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.253087938
+i have purchased a king bed...thatz not yet delivered...which size should i order?,WHAT_SIZE_TO_ORDER,DELAY_IN_DELIVERY,0.175042346
+Are they delivering all over India at this time,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.0415817164
+Finesse facility avilable hai kya,NO_NODES_DETECTED,DISTRIBUTORS,0.0241804719
+78.72,NO_NODES_DETECTED,DISTRIBUTORS,0.0160775557
+Need pliiows,PILLOWS,RETURN_EXCHANGE,0.0552968755
+Does your store is there in Mangalore,DISTRIBUTORS,DISTRIBUTORS,0.0876307338
+I want to place an order,NO_NODES_DETECTED,LEAD_GEN,0.624523759
+??,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.244785532
+Do you exchange old mattresses,RETURN_EXCHANGE,COMPARISON,0.152507022
+600041 is my pincode Chennai is delivery available,CHECK_PINCODE,CHECK_PINCODE,0.48395595
+Cod option leda,COD,COD,0.104986958
+Are you doing online delivery?,NO_NODES_DETECTED,COD,0.234246239
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+my order no is 15487. i have ordered two pillows is there any issue for simulatenenous delivery of all products,NO_NODES_DETECTED,COD,0.10362152
+What is the price of mattress with size 75×70 inch?,MATTRESS_COST,SIZE_CUSTOMIZATION,0.121545427
+Do you exchange old mattresses?,RETURN_EXCHANGE,COMPARISON,0.244830623
+Exchange mattress,RETURN_EXCHANGE,PRODUCT_VARIANTS,0.223575
+500003,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Photos,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+Plz send us details on my whatsapp no 7021645199,NO_NODES_DETECTED,DISTRIBUTORS,0.0268049035
+Is it not available in 10 inch height,SIZE_CUSTOMIZATION,DELAY_IN_DELIVERY,0.03636544
+When will get  the order  now I booked,ORDER_STATUS,ORDER_STATUS,0.256219685
+Pls explain about verities like that  ergo  etc,ERGO_FEATURES,ERGO_FEATURES,0.33552596
+Are you deliver In bareilly Uttar Pradesh?,CHECK_PINCODE,CHECK_PINCODE,0.07010778
+you have emi for debitcard,EMI,EMI,0.961180568
+hi i need  queen size 5*6  inches mattress,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.7694692
+???,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.16610305
+Ok i am calling,LEAD_GEN,PRODUCT_VARIANTS,0.02889547
+It has been over 5 weeks now,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.18767792
+Cod is not showing,COD,COD,0.423593074
+Customer support languages,NO_NODES_DETECTED,ERGO_FEATURES,0.0217093173
+Hello sir. I need price of that matress,MATTRESS_COST,DISTRIBUTORS,0.06147733
+It's delivery available virudhunagar kariyapatti,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.2137828
+65 kg/m3,NO_NODES_DETECTED,DISTRIBUTORS,0.0349530838
+"Custom sizes are scaled down from the nearest bigger standard size, and are shipped uncompressed without a box.",SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.358884454
+There is one note return on your website,NO_NODES_DETECTED,RETURN_EXCHANGE,0.210276455
+"my age is 30,,so what use r matress",NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.105965339
+Order #14254,NO_NODES_DETECTED,ORDER_STATUS,0.437171131
+Is it available,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.152067214
+"I need to buy a mattress 72""×48""×12""",PRODUCT_VARIANTS,DISTRIBUTORS,0.06483279
+Do you have exchange policy.,RETURN_EXCHANGE,RETURN_EXCHANGE,0.524852633
+Cod option required,COD,COD,0.161618888
+Is there postpaid,NO_NODES_DETECTED,EMI,0.0135143176
+What is the prize of double bed,MATTRESS_COST,DISTRIBUTORS,0.0199311525
+What is the prize of single mattress,MATTRESS_COST,PRODUCT_VARIANTS,0.0584779158
+I need more discount,OFFERS,OFFERS,0.6441753
+Can I change the language?,NO_NODES_DETECTED,SIZE_CUSTOMIZATION,0.0427364223
+Cancellation,CANCEL_ORDER,CANCEL_ORDER,0.792963
+may i knw the dimensions,NO_NODES_DETECTED,DISTRIBUTORS,0.0179943182
+king size  7x6 how many prices?,MATTRESS_COST,WHAT_SIZE_TO_ORDER,0.4970538
+When my order will be shipped?,ORDER_STATUS,ORDER_STATUS,0.6868378
+Not showing when we are booking order,NO_NODES_DETECTED,ORDER_STATUS,0.3158551
+ergo and ortho variation,COMPARISON,ERGO_FEATURES,0.259335637
+Cod is available are not,COD,COD,0.368718743
+it is about payment issue,NO_NODES_DETECTED,EMI,0.141408116
+Can u mail me the catlouge on my mail id,NO_NODES_DETECTED,DISTRIBUTORS,0.0310831964
+Call me after 12.30 pm,LEAD_GEN,DISTRIBUTORS,0.024901
+Already send to mail they are nothing respond,NO_NODES_DETECTED,DISTRIBUTORS,0.0311188027
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Custom size mattress with length 6.5 inc and width6 inc,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.5883633
+r u guys delivering in lockdown,NO_NODES_DETECTED,DISTRIBUTORS,0.0342715457
+Is this Better for back pain people,ORTHO_FEATURES,ORTHO_FEATURES,0.189656511
+It has been almost a month since I ordered a mattress but till now the order status is not clear,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.331179738
+I have some queries regarding this mattress,NO_NODES_DETECTED,ORTHO_FEATURES,0.03550805
+Give me in free please,NO_NODES_DETECTED,OFFERS,0.0198036917
+Free 100 days trial,100_NIGHT_TRIAL_OFFER,100_NIGHT_TRIAL_OFFER,0.9939385
+I have orderd a mattress,ORDER_STATUS,PRODUCT_VARIANTS,0.403364331
+Call to my number,LEAD_GEN,LEAD_GEN,0.0479471534
+It's not working,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.278989
+About emi,EMI,EMI,0.9857699
+Available in Pakistan ?,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.119768247
+Availability Bangladesh,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0205385424
+I need try,NO_NODES_DETECTED,100_NIGHT_TRIAL_OFFER,0.346122682
+Arrange a call by your representative,LEAD_GEN,LEAD_GEN,0.45316872
+can i orderd SOF mattres from pakistan,NO_NODES_DETECTED,ABOUT_SOF_MATTRESS,0.194920868
+any customize is there,SIZE_CUSTOMIZATION,DISTRIBUTORS,0.131623924
+Fucking service,NO_NODES_DETECTED,EMI,0.0365836769
+Whatsapp,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+My bed size is 78*62 what's the cost,MATTRESS_COST,WHAT_SIZE_TO_ORDER,0.228446484
+Can you tell me your delivery is available in Bulandshahr 203001,CHECK_PINCODE,COD,0.216797814
+100 days free trail on custom size,100_NIGHT_TRIAL_OFFER,SIZE_CUSTOMIZATION,0.31120044
+500065,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Can we use on kand,NO_NODES_DETECTED,DISTRIBUTORS,0.04319018
+Sleep4immunity,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+What about 20% discount,OFFERS,OFFERS,0.6376225
+Eff,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+My name is paryankar,NO_NODES_DETECTED,ORDER_STATUS,0.07456762
+In Ergo Mattress what kind foam is used.,ERGO_FEATURES,ERGO_FEATURES,0.427936047
+U have outlets  in,DISTRIBUTORS,DISTRIBUTORS,0.0466289632
+Ergo vs ortho how to best old ages man,COMPARISON,ERGO_FEATURES,0.194128677
+Please call mi,LEAD_GEN,LEAD_GEN,0.0362881646
+aaronnyzil.dsouza401@gmail.com,NO_NODES_DETECTED,DISTRIBUTORS,0.02597632
+i need only mattreses,PRODUCT_VARIANTS,RETURN_EXCHANGE,0.0409959666
+How will u deliver with this LockDown in place ?,NO_NODES_DETECTED,CHECK_PINCODE,0.1709809
+My mother is having joint pain,NO_NODES_DETECTED,ORTHO_FEATURES,0.0278998762
+i want a mattress,PRODUCT_VARIANTS,PRODUCT_VARIANTS,0.7970358
+Is there any exchange,RETURN_EXCHANGE,DISTRIBUTORS,0.122568019
+Only 5%,NO_NODES_DETECTED,EMI,0.116407469
+Do u have aCoimbatore outlet to check which is suitable. Our present Mattress size is 6’4” x 5’ x 9”,DISTRIBUTORS,SIZE_CUSTOMIZATION,0.168569729
+I orderd SOF matresses but I not received yet,DELAY_IN_DELIVERY,DELAY_IN_DELIVERY,0.242497668
+if i order today when will i get my mattress,ORDER_STATUS,ORDER_STATUS,0.194729209
+No cost emi,EMI,EMI,0.965455
+where i have to check,NO_NODES_DETECTED,100_NIGHT_TRIAL_OFFER,0.13024801
+My mother is having joint pain issues,NO_NODES_DETECTED,ORTHO_FEATURES,0.0263835881
+How much this,NO_NODES_DETECTED,MATTRESS_COST,0.0692949444
+😳,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Call mi,LEAD_GEN,LEAD_GEN,0.06407676
+Would you be able to deliver if I place an order?,CHECK_PINCODE,CHECK_PINCODE,0.3770651
+75*57 size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.7469359
+I have recd many parcels thru At Your Service to my 641109 address but your system is not accepting this PIN Code for delivery,NO_NODES_DETECTED,COD,0.178752929
+how to convert in emi??,EMI,EMI,0.9375415
+i have back pain,ORTHO_FEATURES,ORTHO_FEATURES,0.656157732
+I want to have Ortho with sizes 84ich×60inch,ORTHO_FEATURES,ORTHO_FEATURES,0.367476821
+Wanted to know about the matress which is good for back pain,ORTHO_FEATURES,COMPARISON,0.274260253
+call me 7021645199 or 7021645199,LEAD_GEN,NO_NODES_DETECTED,0.0246230327
+Price range ortho,MATTRESS_COST,ORTHO_FEATURES,0.615198135
+My order is late,ORDER_STATUS,ORDER_STATUS,0.7264619
+"Am living Vijayawada, so where did it but? ",NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.152422518
+Double bad,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0205385424
+I require 75 inch ×57 inch. Is it available?,SIZE_CUSTOMIZATION,DISTRIBUTORS,0.0383428372
+I am from Odisha State can the mattress delivere,CHECK_PINCODE,PRODUCT_VARIANTS,0.0446289256
+If I put my mobile number can you please call,LEAD_GEN,DISTRIBUTORS,0.0473662876
+Can you contact me,LEAD_GEN,DISTRIBUTORS,0.03863798
+Can i order in Cash on delivery,COD,COD,0.4390362
+Wi-Fi network,NO_NODES_DETECTED,DISTRIBUTORS,0.021519769
+20%off,NO_NODES_DETECTED,EMI,0.121114329
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Which one is good for men's,NO_NODES_DETECTED,COMPARISON,0.2250206
+Do you deliver in pune,CHECK_PINCODE,CHECK_PINCODE,0.170590088
+Where are delar place in Vijayawada,NO_NODES_DETECTED,DISTRIBUTORS,0.0350467376
+I want request a customize of the mattress,SIZE_CUSTOMIZATION,PRODUCT_VARIANTS,0.139321089
+Along with size i want to customize some more things,SIZE_CUSTOMIZATION,SIZE_CUSTOMIZATION,0.07364035
+I am 22 years old which one i should buy,NO_NODES_DETECTED,DISTRIBUTORS,0.06485566
+How many cost the king size Ortho matterss,MATTRESS_COST,ORTHO_FEATURES,0.33848393
+412105,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+I want this  for trail,100_NIGHT_TRIAL_OFFER,LEAD_GEN,0.158059448
+Hostel mattresses,NO_NODES_DETECTED,COMPARISON,0.101777621
+Different between ergo and ortho,COMPARISON,ERGO_FEATURES,0.2425266
+EMI process,EMI,EMI,0.9414631
+Queen size,SIZE_CUSTOMIZATION,WHAT_SIZE_TO_ORDER,0.900045931
+If we orfer by emi.. can we return it,RETURN_EXCHANGE,EMI,0.681905866
+SOF mattress  rate,MATTRESS_COST,ABOUT_SOF_MATTRESS,0.459524125
+What is difference between ergo n ortho,COMPARISON,COMPARISON,0.7008466
+If orderd this time are you able to deliver it to me. I am from ghaziabad,CHECK_PINCODE,CHECK_PINCODE,0.31542486
+Dear team I need to know which type bed I've to take egro or otho I sit and work a lot hence I get back pain offen and because of my hard bed I feel shoulder pain when i sleep once side. Can you suggest which one is best for me,COMPARISON,SIZE_CUSTOMIZATION,0.190346152
+If I want to make an additional request for the mattress then how I can make,NO_NODES_DETECTED,SIZE_CUSTOMIZATION,0.0948745
+S surly,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0199752953
+What is difference between two types pillow,PILLOWS,COMPARISON,0.400487274
+Now lockdown time delivery possible,NO_NODES_DETECTED,COD,0.2358195
+My bed size is 6*6.5 foot. So what dimension is suitable for my mattress,WHAT_SIZE_TO_ORDER,SIZE_CUSTOMIZATION,0.201789081
+And what is the price of 6 inch mattress,MATTRESS_COST,MATTRESS_COST,0.1891956
+"22,989 For 8 inch is this nepali rs or indain ",NO_NODES_DETECTED,DISTRIBUTORS,0.04916118
+Ssup?,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0912291259
+how to return,RETURN_EXCHANGE,RETURN_EXCHANGE,0.9581005
+Other,NO_NODES_DETECTED,ABOUT_SOF_MATTRESS,0.0425283872
+Do you have any certifications,NO_NODES_DETECTED,DISTRIBUTORS,0.291821927
+emidetail,EMI,NO_NODES_DETECTED,0.8352795
+Hy,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+"if i purchase Rs.9,989 mattress, what be the rate after lockdown offer?",NO_NODES_DETECTED,SIZE_CUSTOMIZATION,0.06428551
+Which one is best either ergo or ortho,COMPARISON,ERGO_FEATURES,0.250888556
+I am getting Good discount and offers from other company.You can email me on aaronnyzil.dsouza401@gmail.com,NO_NODES_DETECTED,OFFERS,0.461726069
+Do you deliver in gbyohdhchch,CHECK_PINCODE,CHECK_PINCODE,0.390658855
+Showrooms,DISTRIBUTORS,DISTRIBUTORS,0.236856133
+Wats the cost for mattress,MATTRESS_COST,MATTRESS_COST,0.236282185
+Differences between orgo and ortho,COMPARISON,ORTHO_FEATURES,0.6016179
+500018,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+How sondo i refer to another per,NO_NODES_DETECTED,DISTRIBUTORS,0.0207968727
+referral pocess,NO_NODES_DETECTED,EMI,0.01616405
+What is check category,NO_NODES_DETECTED,100_NIGHT_TRIAL_OFFER,0.0517257452
+If I order now do i get 20% discount in lock down period,NO_NODES_DETECTED,OFFERS,0.08396544
+Wakefit,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+I want 75 x36size,SIZE_CUSTOMIZATION,LEAD_GEN,0.0565671362
+How do I know whether my pin code is serviceable or not,CHECK_PINCODE,CHECK_PINCODE,0.08899894
+Sizes and prices,MATTRESS_COST,WHAT_SIZE_TO_ORDER,0.8278206
+i have ordered  SOF Mattress adjustable pillow on 21 march order no. 98765 i want to know the status,ORDER_STATUS,DISTRIBUTORS,0.0826895
+My bed size is not matching in your options,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.09661619
+when will my order deliverd,ORDER_STATUS,ORDER_STATUS,0.957578361
+What about pillow,PILLOWS,ABOUT_SOF_MATTRESS,0.0172238946
+I want to book it now,LEAD_GEN,LEAD_GEN,0.09988257
+How to work in summer,NO_NODES_DETECTED,LEAD_GEN,0.0190274324
+Delivery available at Telangana Hyderabad Dilsukhnagar 500060,CHECK_PINCODE,COD,0.0710523
+What is the cost for 72 x 45,MATTRESS_COST,DISTRIBUTORS,0.06513668
+Want to buy also see more,LEAD_GEN,LEAD_GEN,0.08613032
+Bajaj card is accepted,EMI,DISTRIBUTORS,0.0183677822
+Ergo 72×72 inches price?,MATTRESS_COST,ERGO_FEATURES,0.20419991
+rate please,MATTRESS_COST,WHAT_SIZE_TO_ORDER,0.023974685
+We order last month 20 mar,DELAY_IN_DELIVERY,ORDER_STATUS,0.162411109
+hey  how can i report bug to you??,NO_NODES_DETECTED,DISTRIBUTORS,0.03979402
+preorderdiscoutgetforEMIpurchase,NO_NODES_DETECTED,NO_NODES_DETECTED,0.8352795
+Queen,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+Extra support pillow,PILLOWS,ERGO_FEATURES,0.019786045
+Ol,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.03998373
+what are the offers going on at present along with mattresses,OFFERS,OFFERS,0.118829831
+Not so hassle free,NO_NODES_DETECTED,DELAY_IN_DELIVERY,0.09007857
+Main menu,NO_NODES_DETECTED,WHAT_SIZE_TO_ORDER,0.0205385424
+Give me a call on 7021645199...,LEAD_GEN,COD,0.0224483721
+i can pay through EMI,EMI,EMI,0.940113246
+Mere ko 4× 7 ka metres chahiye,NO_NODES_DETECTED,DISTRIBUTORS,0.0411576852
+Need status,ORDER_STATUS,CANCEL_ORDER,0.113429554
+Do you deliver in Canada,CHECK_PINCODE,CHECK_PINCODE,0.247204468
+Difference between pillows,PILLOWS,PILLOWS,0.6946874
+Which is the best mattress,PRODUCT_VARIANTS,PRODUCT_VARIANTS,0.8371444
+Which to choose single or king or queen,NO_NODES_DETECTED,DISTRIBUTORS,0.028566869
+EMI option available ?,EMI,EMI,0.964437366
+Which is more better to use,NO_NODES_DETECTED,PRODUCT_VARIANTS,0.0762724951
+I want a emi details,EMI,EMI,0.9384299
+How many days we can get the mattress,DELAY_IN_DELIVERY,COMPARISON,0.0455556139
+Can we return,RETURN_EXCHANGE,RETURN_EXCHANGE,0.834450066
+If we order through emi can we return it after trial,RETURN_EXCHANGE,EMI,0.349663556
+Is cash on delivery available when sleep4immunity coupon applied,NO_NODES_DETECTED,COD,0.2780317
+When will I receive the mattress if i order today,NO_NODES_DETECTED,ORDER_STATUS,0.08181474
+"Also, my bed size queen",WHAT_SIZE_TO_ORDER,WHAT_SIZE_TO_ORDER,0.3442491
+Trail option are there,100_NIGHT_TRIAL_OFFER,EMI,0.02789474
+I want to buy SOF ergo mattress,ERGO_FEATURES,ERGO_FEATURES,0.8289454
+Pillow extra shoft and support difference?,PILLOWS,COMPARISON,0.226655573
+Extra support and extra shift difference?,NO_NODES_DETECTED,COMPARISON,0.166741043
+I am from nepal .you delivery your items in nepal,CHECK_PINCODE,COD,0.103880018

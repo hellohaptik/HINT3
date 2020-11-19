@@ -1,3 +1,994 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b73a16c8ab807a2ccd86b61a1e914e976b18c037336c695870b8588994574c71
-size 74376
+sentence,label,predicted_node,predicted_node_score
+Order my product,ORDER_TAKING,ORDER_TAKING,0.5751104
+Hy,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to order Wottle sensitive handwash refill,RECOMMEND_PRODUCT,ORDER_TAKING,0.5420818
+have u started C D provision for pin code 702164,CHECK_PINCODE,CHECK_PINCODE,0.45390263
+How do I know it will deliver in my place,NO_NODES_DETECTED,RESUME_DELIVERY,0.6850463
+Fuckoff,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi I'm trying to order some stuff but ut says it cannot be delivered to my pin code.,CHECK_PINCODE,CHECK_PINCODE,0.52644145
+why so,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi I want to know the price of tamron HEM 7120 BP apparatus,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.31246895
+Tamron BP monitor HEM 8712 available??,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.36392018
+I need Beginners hair multivitamin,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.71132624
+Age range,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Right now my weight is less, how much weight can I gain by taking it?",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.4103622
+Hii,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My previous orders of garcenia combogia,ORDER_STATUS,ORDER_STATUS,0.6793292
+Place an order,ORDER_TAKING,ORDER_TAKING,0.73833174
+CureKart immunity tablets,RECOMMEND_PRODUCT,IMMUNITY,0.62179714
+When should I get this Vobbi power loop,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Rs,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I got this product for Rs 500 two'months back why have you increased the prices,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What kind of gelatin you are using in omega 3. Is it halal?,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I need  fast delivery,NO_NODES_DETECTED,RESUME_DELIVERY,0.7547649
+Chat with an Agent,CHAT_WITH_AGENT,CHAT_WITH_AGENT,1.0
+Which is the best whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.67592674
+For getting an order,NO_NODES_DETECTED,ORDER_STATUS,0.47263074
+The order not yet delivery,DELAY_IN_PARCEL,RESUME_DELIVERY,0.69627404
+Yaa am already paid,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+". .,. u. ",NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How. Much. 5 kg prise,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i'm new user but them why not apply NEW250,NO_NODES_DETECTED,SIGN_UP,0.67361236
+i want to know about this product,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.41054353
+Where to sign up,SIGN_UP,SIGN_UP,0.7634797
+I have typed my mobile no wrong by mistake,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.5984679
+How to buy,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+What offer on 1199 whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6659703
+When can I get spectrazole delivered at home,DELAY_IN_PARCEL,ORDER_STATUS,0.6995874
+Fluoride toothpaste price pls,NO_NODES_DETECTED,CALL_CENTER,0.39115012
+This nutrition can take by age 15 girl,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need call back,NO_NODES_DETECTED,CALL_CENTER,0.70853436
+Any side effects,SIDE_EFFECT,SIDE_EFFECT,0.8179165
+Home gym 30 kg rubber weigh set available,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6284074
+Is it granules?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want rivamal 120 ml in asansol west bengal,CHECK_PINCODE,NO_NODES_DETECTED,0.0
+I want to add one more,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to cancel order,CANCEL_ORDER,CANCEL_ORDER,0.8159759
+Oder,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+No cancellation,NO_NODES_DETECTED,CANCEL_ORDER,0.70722276
+I want to buy this product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.44235197
+I had purchased on mass gainer,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.80119747
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi how can I purchase men’s viper sex tablets,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.61172384
+After consuming it,NO_NODES_DETECTED,CALL_CENTER,0.32062307
+Are you official distributor of now foods?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I get half kg,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.39573115
+Can I get half kg of dark chocolate peanut butter spread,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.37483224
+Sarir me kamjori h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Mene phle b use kiya pr koi result nhi mila,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to place order,NO_NODES_DETECTED,ORDER_TAKING,0.64733744
+Want to buy a product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.44614217
+Can you book this,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Order or Payment related query,PAYMENT_AND_BILL,ORDER_QUERY,0.64917344
+procedure of EMI,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Ok I need delivery tomorrow,DELAY_IN_PARCEL,RESUME_DELIVERY,0.7196189
+Pri work out k liye konsa product protin behatar hoga,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.58148843
+How do I know the expiration date of the product that I am going to purchase?,EXPIRY_DATE,EXPIRY_DATE,0.5592537
+Can we negotiate,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to purchase some gym equipment,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8651337
+I am looking for Dumbbells,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.59154034
+Sir may Apne boodi Ko Mota bnana chahte hai kya khaye Javan de,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How can i buy this product,RECOMMEND_PRODUCT,ORDER_TAKING,0.37720895
+Which is best whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.67584884
+I need the best whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,1.0
+How do i know if protein is original,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.70752615
+Can i get rivamal 120 ml at my home,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I am looking for dumble,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+But i dont want to take it,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to return myprotein product,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.836239
+Role of electrolytes powder,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want home delivery of ichpure protien 3 lb dutch chocolate,NO_NODES_DETECTED,RESUME_DELIVERY,0.60354084
+"How a product cost different , eg supreme nutrition prostar?",NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.39761943
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is it good for an 18 year old guy,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Him stp1a strips needed,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Payment is successful,NO_NODES_DETECTED,MODES_OF_PAYMENTS,0.54068774
+Is it help for sperm count,NO_NODES_DETECTED,REFER_EARN,0.40883213
+Do you deliver in vidisha (M.P.) 7021645199,CHECK_PINCODE,RESUME_DELIVERY,0.8179188
+No,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to gain weight what us best for me,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8060765
+What's the price of gold standard whey protein 10 lbs,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.70304245
+I need 10kg dumb bells,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.68364656
+"ok , pls call at 7021645199",NO_NODES_DETECTED,CALL_CENTER,0.7492883
+Ok and l want to by product,RECOMMEND_PRODUCT,ORIGINAL_PRODUCT,0.42078626
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Sir mango ka bhe flaver h kya,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2651417
+Please send me coupen code,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can you cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.86087036
+Can diabetic patient have it,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want vitozit,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.40624937
+Home delivery available ?,DELAY_IN_PARCEL,RESUME_DELIVERY,0.691083
+"Hi, looking for home gym combo",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.41158658
+Hlo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Same to uh,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need to the best plant based organic protein powder,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6509368
+"In west bengal, are you delivering the products in durgapur",RESUME_DELIVERY,RESUME_DELIVERY,0.7696617
+Shelf life of quoreez muesli?,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Is fish oil are be in different ways,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.40952525
+I just paid amount for some products but not visible in my orders,PAYMENT_AND_BILL,ORDER_TAKING,0.44436532
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+When these dumbles comes in stock,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.68610245
+How can i trust the authenticity,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.78964555
+Are all the supreme nutrition products genuine?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.663577
+I want to gain mass,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.70833236
+I need organic i ndia tea,RECOMMEND_PRODUCT,INTERNATIONAL_SHIPPING,0.46851057
+I want to return my last order,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.84663504
+Looking adjustable dumbbell,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5604605
+When can i get thr out of stock product,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.39482865
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How do I buy vitamin shoppe fish oil?,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.55143464
+Provide the acai berry price and quantity,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Age limit,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is this prduct available in Goa?,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.30323094
+Can't place order,NO_NODES_DETECTED,ORDER_TAKING,0.6844197
+I wanted to buy Home gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6794084
+Agar Main Omega 3 khareed tha Hun To Mujhe ismei ek packet ke sath Ek free hai kya,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+15 days replacement,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.7429486
+Is there are real products,ORIGINAL_PRODUCT,RECOMMEND_PRODUCT,0.6495094
+Powermaximus available or not,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.41857874
+Is there PNC biotin  5000 mcg available?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Expire date,EXPIRY_DATE,EXPIRY_DATE,0.9
+Best price sambroda muscle mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.74690604
+Home equipment,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.49574724
+Good afternoon sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I need a combo of gym equipment with dumbles and barbell,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7635929
+how weight gainer is differnt from mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.697444
+I want Power Nectar gel tablets,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+hi want to know about Protinix protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.57959867
+I am a diabetic,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Doing excessive to build muscle,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.60603803
+I want to buy Alivea home gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6778897
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Shipping is free?,NO_NODES_DETECTED,INTERNATIONAL_SHIPPING,0.5833763
+Is this safe for celiac affected persons,NO_NODES_DETECTED,WORK_FROM_HOME,0.34979638
+Hi. Just want to know if these products are 100% genuine,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.6355082
+How to know if it is genuine,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.6430733
+hello sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can i get delivery before 11am,DELAY_IN_PARCEL,RESUME_DELIVERY,0.7004951
+How to check the product is original,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.793253
+Cancel an order,CANCEL_ORDER,CANCEL_ORDER,0.8501448
+?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want sugar free protein whey,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6969197
+Jnhjkj,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+lopi ornage flavour,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+It is sure we can gain weight and muscles tight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7917393
+Authenticity,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,1.0
+My weight is 65kg .is it better to take mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.61199695
+I am trying to place order but it’s not happening,NO_NODES_DETECTED,ORDER_TAKING,0.5091933
+xhlo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is this platesare filed with sand or complete pvc,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hie,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Ye skin Ko whitening thigting glowing krta h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hello sir  I want to gain weight and muscular body is this powder helpful  ?,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8827152
+Anand me branch hay apki,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+hello This product useing a women,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.42105713
+diet and fitness advice,CONSULT_START,CONSULT_START,0.9135907
+What do mean by pet bottle,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want fixelet resistance tube,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.45746067
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Product Recommendations,RECOMMEND_PRODUCT,ORIGINAL_PRODUCT,0.40478063
+Can't find my order,NO_NODES_DETECTED,ORDER_TAKING,0.44854248
+my first protein by curekart is stock available now,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.60051036
+I'm look for 20kg dumbels,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.63762265
+Become a seller,FRANCHISE,FRANCHISE,0.7752687
+Vvvvv,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Silver creatine kaisa yous karn,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+We got the message product is delivered but it is not delivered,DELAY_IN_PARCEL,ORDER_STATUS,0.5162139
+Is there any discount on 4-5 kgs,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to buy ich sensation 93.. but how will I know that what I am buying is not a fake product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.62614876
+And asking if there is any discount,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+H,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How I return my order delivery?,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.69631934
+I want buy now your product but this is not working,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.44149762
+I want 50kg Crossethon kit,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.4520807
+cancel product,CANCEL_ORDER,CANCEL_ORDER,0.8242798
+How to book,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What the fuck you are 24/7 available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.46727175
+sir 1 Creatine,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Plzzz cancelled my order,CANCEL_ORDER,ORDER_TAKING,0.64230394
+hloo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+CureKart biotin,RECOMMEND_PRODUCT,SIGN_UP,0.47250038
+What is pet bottle,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+When will this product come again?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5101919
+J. Y,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+what if the product is resealed,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.5503631
+What if the product you delivered is duplicate,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.52177346
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Wei8 nutrition lean mass 35g,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5410317
+Show products for Lean,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.63026613
+I want 2 track my order,ORDER_STATUS,ORDER_STATUS,0.82070744
+Wigzin 270 I would like to buy,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Need unflavoured,NO_NODES_DETECTED,ORDER_TAKING,0.27001488
+I am diabetic is it better or not,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can you please send me two bottles of Sorjio powder on COD basis ?,NO_NODES_DETECTED,ORDER_TAKING,0.5688908
+Do you have Product Affiliate Programs?,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.45159665
+I want chocolate quoreez peanut butter,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.20732097
+Bulk,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.55756783
+expiry of product,EXPIRY_DATE,EXPIRY_DATE,0.8068443
+How we know is this original??,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.79179645
+Can we gave this of 15 year child,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I WANT TO SELL PRODUCTS IN CUREKART,FRANCHISE,RECOMMEND_PRODUCT,0.54874635
+I want a weight gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7147501
+Affiliate,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I just want to know about return policy,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.81857556
+silkrete shampoo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I am 17 year old can I take protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.57005715
+Why service is not available in my pin code no 7021645199,CHECK_PINCODE,CHAT_WITH_AGENT,0.56709594
+How much it takes to gain mass in good quantity,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.50372404
+"Body Gainz 50Kg Rubber Weight Plates Home Gym Fitness Package 4 Rods Gym Bag and Gym Accessories
+",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8274282
+FLT10047PNNB,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What is vencil,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Immunity plus when will ot be available,NO_NODES_DETECTED,IMMUNITY,0.6744329
+Want to see the review of True G-Blothomine tablet,RECOMMEND_PRODUCT,PORTAL_ISSUE,0.32617027
+cancel oder,CANCEL_ORDER,CANCEL_ORDER,0.7651303
+My age is 40. Need suppliment for mussels,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.408395
+May i know when it will be dilivered,DELAY_IN_PARCEL,ORDER_STATUS,0.6436443
+I can’t use a coupon on a product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.34344807
+Your products to much costs,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.6361227
+How much types of laiser tab,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to grow my body,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.72743815
+Which one is better musclebuild biozyme or musclebuild bold,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5103897
+Ho many cups we take Daly,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is contain steroids,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+other info,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I bought BT preworkout ripped on 19th june from Aaron D'souza curekart brach,NO_NODES_DETECTED,SIGN_UP,0.37936574
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+It's better for men,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+is any any introductory coupon for new buyers,NO_NODES_DETECTED,SIGN_UP,0.39187247
+Ohk thankuhh,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+how much biotin is required,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+what is the dosage of  hkbeginners immunity plus tablets per day?,NO_NODES_DETECTED,IMMUNITY,0.59146076
+Whether it is vegetarian,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Could you  please tell me expire date,EXPIRY_DATE,EXPIRY_DATE,0.6132477
+I cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.85617775
+Expire date,EXPIRY_DATE,EXPIRY_DATE,0.9
+4,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I didn't receive my order,DELAY_IN_PARCEL,ORDER_STATUS,0.84641075
+Aaron D'souza,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+what have you for gout,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.46819827
+Original supplement,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.746338
+Vatsu Vaksha kit,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need multivitamin,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,1.0
+Is this product is for women’s also,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.46029848
+email,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Extra 10%off when will  I get,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+50%off is available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.46114308
+Call 7021645199,NO_NODES_DETECTED,CALL_CENTER,0.6245473
+Is there any medicine for ghonorrhe,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.40407214
+Folodys 40 kg home gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6640342
+I want to weight loss than which product will be helpful for me kindly guide me about the product. How much it is beneficial...,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7632537
+Sir woman fat burner price,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.52569634
+"I want wrist cum palm support for general , knew support, use of amino acid, b protein for women, posture corrector",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.58371
+What's the benefits of pee nut butter,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Help me out in sharing my products all side images,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.57441187
+Strawberry flavour,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Chep Protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7104659
+Want to buy,RECOMMEND_PRODUCT,ORDER_TAKING,0.45238507
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+how to take pat burner capsules,NO_NODES_DETECTED,USER_GOAL_FORM,0.32662645
+Are you also sale product in lagoon,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.31007707
+Bhai sneaker sath aava ga,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+No,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can it help to gain weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.79327244
+क्या आप के पास शीशम रस मिलेगा,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi how to check its authenticity,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.76427126
+How can i order,NO_NODES_DETECTED,ORDER_TAKING,0.56271935
+How to check authenticity of ON product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.79999304
+I am athlete so which protein powder I intake,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6705
+Looking for ichpure but this much be the old stock,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Want to buy gluco card 01 sensor strips,RECOMMEND_PRODUCT,ORDER_TAKING,0.3300313
+1kg,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Mb product kesa h mem,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.65177906
+Abouy 5.2lbs citrech,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Endorance voster lab tak milega,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Dudle hone ki koi bacsinse hai,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to cancle my product,CANCEL_ORDER,CANCEL_ORDER,0.9
+Show products for Heart Care,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5875948
+Hiii,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is it deliverable to Paris ?,CHECK_PINCODE,CHECK_PINCODE,0.38192588
+I want to sell my product,FRANCHISE,ORIGINAL_PRODUCT,0.3891448
+I want to loose my weight as I am a working women.,RECOMMEND_PRODUCT,WORK_FROM_HOME,0.5270809
+I want to know about this item,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+how can i sell on curekart?,FRANCHISE,SIGN_UP,0.3618582
+i want to know about sambroda mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.66801214
+can't u do that,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How much ashwagandha extract 1 capsules have,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I not get 1 bar in my protien,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.4544939
+I did't get 1 bar in my protien,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Lund ke,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Janak puri new delhi store is open or shut,STORE_INFORMATION,STORE_INFORMATION,0.5834765
+Can medicine be purchase physically from your centre,STORE_INFORMATION,RECOMMEND_PRODUCT,0.76893616
+I have spend 4095 previous and today 1349 but still you are showing that I have spend 4095 why?,NO_NODES_DETECTED,DELAY_IN_PARCEL,0.34222952
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+what all strips I can use in this glucometer,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Where are you located,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I have query related to Payments & Bill,PAYMENT_AND_BILL,PAYMENT_AND_BILL,1.0
+Total weight in kg?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to find original product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.84523994
+Can this protein be consumed by Thyroid people?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Tr2100 tridemile ka motor kitna hp ka ha,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Loyalty,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+take my reassesment,USER_GOAL_FORM,USER_GOAL_FORM,0.9
+I want to know which product is best for weight loss for women,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.73980373
+Seller,FRANCHISE,FRANCHISE,0.8111128
+Does this nutri help,NO_NODES_DETECTED,REFER_EARN,0.512459
+Sexual medicine,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.3982449
+Hi I received one open product without packaging,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.4403932
+any coupon or offer for 1st time buyer,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Flavours in just herbs protein,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.596689
+Sportan Fitness Let Pull Square Home Gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.52564144
+How to use,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Do you have door delivery in Cochin ?,CHECK_PINCODE,RESUME_DELIVERY,0.66198707
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Mai 48 kg ka hu,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.39015865
+Multi vitamins are made from herbs and vegetables,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5894543
+I want chocolate flavour quoreez peanut butter,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.20732097
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Call me,CALL_CENTER,CALL_CENTER,0.7298426
+Can a man not use this product?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.36220297
+"Hi, what is the product expiry day",EXPIRY_DATE,EXPIRY_DATE,0.5888645
+❓❓❓,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How can i grow my body,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.64209634
+My pin code available,CHECK_PINCODE,CHECK_PINCODE,0.6159744
+How to take green tea extract,NO_NODES_DETECTED,USER_GOAL_FORM,0.30113474
+Pls tell price of peddlin cycle,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"HI, I want  know if Barofil is available  ",NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.4595758
+Are all the products genuine and have a hologram on the box??,ORIGINAL_PRODUCT,RECOMMEND_PRODUCT,0.59162754
+Need swiftlens prosthtic lens,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Can I take CureKart Calcium with Mag Zinc & Vit D3 everyday?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi i am,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Take Re-assessment,USER_GOAL_FORM,USER_GOAL_FORM,0.9
+i have a product to sell on any well eminent e-commerce platform. Is it this platform awailable for me,FRANCHISE,ORIGINAL_PRODUCT,0.35999566
+How can i believe it is original product?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.79432607
+i wan't cancel my 1st Order,CANCEL_ORDER,CANCEL_ORDER,0.79404163
+How much weight can be lost in  a month with this along with a proper diet plan,CONSULT_START,CONSULT_START,0.8448088
+This is also use 14age boys,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.32615197
+Is it give good result if i take the supplement after running,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Please Refund & Repayment my product,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.8318802
+Please cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.8323626
+Liwaz EMI card is ite buy in this site,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Show products for Weight Management,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6924152
+How to inditify product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.46154773
+Is quoreez pro kids available or not,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.3708923
+Help with product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.4121035
+If I didn't got a desire product then should I exchange that product with another one?,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.5710472
+How much this product is close to the expiry?,EXPIRY_DATE,EXPIRY_DATE,0.6413014
+Weight grain,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Hsmko chahiye,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want chocolate flavour peanut butter,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.20732097
+Koi site effect to nhi h,NO_NODES_DETECTED,SIDE_EFFECT,0.61990476
+100%,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What is your customer care number?,CALL_CENTER,CALL_CENTER,0.7871895
+Confused about size,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+My order is being delivered very late so I want to cancel it,CANCEL_ORDER,CANCEL_ORDER,0.6627222
+I want to sell on curekart,FRANCHISE,SIGN_UP,0.39058733
+This is good product for weight gain,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.77872455
+Return my order,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.8900368
+I want to buy this product.,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.44235197
+Why are you not delivering in my pincode,CHECK_PINCODE,CHECK_PINCODE,0.73230267
+How do i share images,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+It's a post paid order,NO_NODES_DETECTED,ORDER_TAKING,0.5677133
+I need omega 3 fatty acid. Which is the best?,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+how I scan my order QR code,NO_NODES_DETECTED,ORDER_TAKING,0.38147053
+𝓘 𝔀𝓪𝓷𝓽 𝓬𝓪𝓷𝓬𝓵𝓮 𝓸𝓻𝓭𝓮𝓻,CANCEL_ORDER,ORDER_TAKING,0.6423931
+When will I get my order?,DELAY_IN_PARCEL,ORDER_STATUS,0.69578856
+Which is best if working out at home Masx gainer or Whey Protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.70649546
+"I need a apple cider vinegar to reduce belly fat, which one is best",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6276818
+1st time user,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Order,NO_NODES_DETECTED,ORDER_TAKING,0.6859332
+How can i place a order,NO_NODES_DETECTED,ORDER_TAKING,0.6520758
+I want to order,ORDER_TAKING,ORDER_TAKING,0.63186324
+Authencity of product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.73601824
+I want weight loss inch capsules,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7611015
+In how many months we weight gain,CONSULT_START,RECOMMEND_PRODUCT,0.67328465
+I want talk,CHAT_WITH_AGENT,NO_NODES_DETECTED,0.0
+dint get the sms,NO_NODES_DETECTED,FRANCHISE,0.25544554
+I need a modiyos weights kit,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.45209217
+I mailed you the vedio,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to know about my refund or replacement,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,1.0
+which whey protein is best,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6771073
+what u recommend for best multivitamin,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6850059
+if the product is open then also u will take it back,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.41607842
+if ur product is fake will u take it back ?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.6410951
+Information please product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5007923
+I want this product in 1 kg,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.49897513
+Durozune baby digestive drops,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Get 1 by 1 free,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My pincode is 7021645199,CHECK_PINCODE,CHECK_PINCODE,0.64070594
+I want to buy home gym set,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6440656
+Tell me about omega-3 capsules,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I wanna confirm the expiry date of this product,EXPIRY_DATE,EXPIRY_DATE,0.7227364
+When can I get biotin?,RECOMMEND_PRODUCT,ORDER_STATUS,0.40047994
+Need a quick fat burner,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5019994
+CureKart not delivering product in my location,NO_NODES_DETECTED,RESUME_DELIVERY,0.72017914
+not setisfied with uor,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Kitne Whieght ka h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+90kg,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.4138943
+Good morning,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Weight loss protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.88054514
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Product Quality,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.6577489
+Ich sensation protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.596689
+3 kg ko chahie y,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.3619326
+Yes it's still sealed pack,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Protinus protein hoga,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.73131245
+No we can come or not,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Sakr,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need to return,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.91738164
+How is there a price parity from official website,NO_NODES_DETECTED,ORDER_TAKING,0.4083318
+What if the product i receive is a duplicate product,ORIGINAL_PRODUCT,ORDER_STATUS,0.6013948
+1 get 1 free,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hey i am 18 year old n im tryn to loose body weight so recammend  me gud supp which will help in fat loos,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.786068
+Can I get delivery of gym equipments,ORDER_TAKING,RESUME_DELIVERY,0.60926574
+no,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Burbell related query.,NO_NODES_DETECTED,ORDER_QUERY,0.7566535
+Went to purchase this product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8310942
+Multitab Silver,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.20739603
+Sperm count increase product,NO_NODES_DETECTED,IMMUNITY,0.4243526
+I was looking to buy a product but I am little confused,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Is hydroxy cut hardcore NextGen halal,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.37983292
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Want to return the product,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,1.0
+Hi ...is it safe to use mass gainers?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.6949831
+need to chat with a representative,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.33012813
+that means 50-50 probability?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is the products original?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7985883
+I have recieved a payment cancellation message but I have not ordered anything from HK,NO_NODES_DETECTED,CANCEL_ORDER,0.6394653
+What is Troycyl dose per tablet,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Mindcare intellecte is available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.39991164
+Reason ?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+When will forbeara first be in stock?,NO_NODES_DETECTED,ORDER_STATUS,0.35198066
+Give the moment change rate,NO_NODES_DETECTED,MODIFY_ADDRESS,0.49271408
+How to use this product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.41817573
+I am 65 and so is it safe,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+.....,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Please Replacement product. Product box not,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.80630887
+Bangladesh,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Sir I am so weak my age is 17 years how can I gain weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6535544
+I have sent an email,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i want to sell my product on curekart,FRANCHISE,ORIGINAL_PRODUCT,0.34918353
+EMi is available?,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.39991164
+Is ashvagandha gain my waight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.47083044
+"Gym equipment set shown on site when will be available, is it returnable if doesn't match the description ",NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Sit up bench,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Your choice but I will not accept because I am not at my home,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Animal pack,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Aaron D'souza,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"I need to cancel my order
+",CANCEL_ORDER,CANCEL_ORDER,0.8414849
+I would like to change my product,REFUNDS_RETURNS_REPLACEMENTS,MODIFY_ADDRESS,0.36732948
+Aap home dilivery kar denge,NO_NODES_DETECTED,RESUME_DELIVERY,0.60302347
+I was need gym stuff,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5021457
+I wanted clarification on a product on your site,NO_NODES_DETECTED,ORDER_TAKING,0.525611
+Wait this package,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Want to order glimzy roll,ORDER_QUERY,ORDER_TAKING,0.6182303
+What kg,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.36237952
+Is that Herbalife products in your app are authentic??,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.5561519
+6lbs available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.30568174
+I require Triocin 150mgtab 20 nos and lufsith ear drops 1,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Combo gym set,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5685713
+Any one can use calcium tablets,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.45334694
+I need dumbells of 2.5 kg,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6248251
+hello..i wanna open your store,NO_NODES_DETECTED,STORE_INFORMATION,0.6895139
+i want capsule for increase my size,RECOMMEND_PRODUCT,IMMUNITY,0.49685416
+Why are taking delivery charge,NO_NODES_DETECTED,RESUME_DELIVERY,0.49276915
+Do you have extreme sceince  brand...?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Different b/w dutch chocolate and chocolate supplements,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.45515847
+Can I use it without any prescription,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Vyaktitva ichgold protein price,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.71232265
+Sir I am active person age 25 sports active and doing gym also .so please suggest me the role of l arginine in my body ..suggest advantage and disadvantage,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.7562704
+Can I come visit?,STORE_INFORMATION,ORDER_STATUS,0.3522799
+Show me cheapest whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.62310684
+I want to purchase shavellete sensor Excell blades,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.73411363
+break,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My frnds recomand ichpure low carb and ich sensation 93 for waight loss,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I need this on shaker bottle,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+hepl me setting this up,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+how to sell on curekart,FRANCHISE,SIGN_UP,0.34984174
+Hi i want to enroll my self as a seller,FRANCHISE,FRANCHISE,1.0
+Hi... The product in my cart says can't be delivered in my pincode ?? Can you help me out.,CHECK_PINCODE,CHECK_PINCODE,0.5878292
+Wottle,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I required nepro hp,RECOMMEND_PRODUCT,ORDER_QUERY,0.5742719
+How do I know protein is authentic,ORIGINAL_PRODUCT,RECOMMEND_PRODUCT,0.5699362
+Herbalabs,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I posted a review on one product I purchased,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.49448356
+Hello sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What is best product for weight gain,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.80324596
+Next day she can't do this,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My product was supposed to be delivered yesterday...but i havent recieved it,DELAY_IN_PARCEL,CHECK_PINCODE,0.43500683
+I m taking protine one scoop,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.54950297
+Will creatinine monohydrate be appropriate for muscle repairs.,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.54075253
+Hi I would like would like to buy this product but before that is thr is any guarantees given that it will work or not?,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.3467206
+I just want a diet  chart. I have started gym 3 days before i want to gain mass,CONSULT_START,CONSULT_START,0.73076594
+Diet,CONSULT_START,CONSULT_START,1.0
+I am interested in smash pre workout is it availanle,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.39914742
+Sir am a bigner,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.35343748
+Instant energy with every Sip,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2669851
+How and where to place my order?,NO_NODES_DETECTED,ORDER_TAKING,0.6689085
+I am a trainer,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i am a beginner. and i have some gym products at home. i do exercise at home but not so hard.,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8306219
+U send to Singapore,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Hi, I am looking for home gym equipment ",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.51305765
+U r giving pathetic service it was prepaid order only,CHAT_WITH_AGENT,ORDER_TAKING,0.54818165
+I have made a mistake by ordering thing from ur site it'll never happen again in future,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.5816252
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Cofee,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Vytal supplements,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.52201456
+Can i get it today??,DELAY_IN_PARCEL,CALL_CENTER,0.31994936
+There is any supplement to protect hair loss without any side effect,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5505596
+??,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Mushulk 5 kg whey protein price,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6772168
+Liquid amnio available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.3233829
+HKD-7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+When will la pior fusse products be available,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.71980274
+When i will be able to get it,NO_NODES_DETECTED,RESUME_DELIVERY,0.53718984
+Where are located,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hiii,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Which is best glutathione,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Its good for what,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Ok how to buy,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Why I am not able to find curekart beginners multivitamin 90tablets  for men,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5766323
+Hii I want to loss weight can u gave me diet plan,CONSULT_START,CONSULT_START,0.8325563
+DIET PLANE FOR LOSING WEIGHT,CONSULT_START,CONSULT_START,0.7364521
+HiHiiiii,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Pin 7021645199 afjalpur bidhanu kanpur nagar near dayanand dinanath education centre,NO_NODES_DETECTED,CHECK_PINCODE,0.3933644
+I need a lean bulking diet,CONSULT_START,CONSULT_START,0.7583753
+How can i check my order it is original or not .. do you provide scan n check ?? Label on the product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.61974496
+Hlww,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi Cure Kart i have ordered a product but address is wrong,MODIFY_ADDRESS,MODIFY_ADDRESS,0.6231928
+Clear muscel product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.59927404
+This protein is genuine or not?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.35792378
+Contact,CHAT_WITH_AGENT,CALL_CENTER,0.47518626
+Weight gain ke liye btao,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.7926531
+Hello sir immunity plus purchases,RECOMMEND_PRODUCT,IMMUNITY,0.5987703
+Best supplement for teenage girl 1717age,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.48049572
+Today 1.2 kgs Or resisved but pending 1.2 kg please update the stats,NO_NODES_DETECTED,RESUME_DELIVERY,0.2912983
+Hoi sir pls send me Ur address,NO_NODES_DETECTED,MODIFY_ADDRESS,0.59406155
+My no is 7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How do i become a seller on curekart? Please guide,FRANCHISE,FRANCHISE,0.7447954
+Meal replacement,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.8166677
+Can I talk to your coustmer executive,CALL_CENTER,NO_NODES_DETECTED,0.0
+Hi sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+U guys don't deliver in time,DELAY_IN_PARCEL,RESUME_DELIVERY,0.78512836
+Need diff Flavour,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Pls send address Kolkata retail  store,NO_NODES_DETECTED,MODIFY_ADDRESS,0.6451173
+Any store in Kolkata?,STORE_INFORMATION,STORE_INFORMATION,0.6967563
+U all are useless,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.3853668
+Muscle Hulk raw whey protein how to authentic,ORIGINAL_PRODUCT,RECOMMEND_PRODUCT,0.70867395
+Can I delay my order,NO_NODES_DETECTED,DELAY_IN_PARCEL,0.8863991
+I want to place my order but couldn't,NO_NODES_DETECTED,ORDER_TAKING,0.66929704
+Do you have Amritanay Shareer Swasth,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi need one kit,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I wants to know detax Sinrar green tea is available in your shopping ??,NO_NODES_DETECTED,STORE_INFORMATION,0.5182174
+where should i enter my address and contact no?,NO_NODES_DETECTED,MODIFY_ADDRESS,0.597538
+Hloo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+If i. Cancel the order now then in how many days i will get the refund. I have dond payment through upi,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.55885684
+Can i change the flavour of my product now?,NO_NODES_DETECTED,MODIFY_ADDRESS,0.42278638
+any diabetic cure product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.4766461
+"Peanuts butter product not good. After open it taste n smell very bad n also in liquid foam ,not like other peanuts butter ",NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+You are talking bout BT product .. n i bought nitrotech my questionss was do you provide scan n check label on product,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Kya muscles repairs k liye creatinine monohydrate sahi rahega.khichaw hi gya hai muscles me,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.46940792
+How to used bt mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.55483216
+Plz order my product,NO_NODES_DETECTED,ORDER_TAKING,0.5266104
+Hii...plz recommend me best fat burner product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6270344
+Hi good morning,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+hlo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"I have a question, is this digestible",NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I'll tell everyone in my social site to not order on ur site,NO_NODES_DETECTED,ORDER_TAKING,0.5831705
+onn gold coffee,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.29753673
+HIi,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+If she doing exercises one day,NO_NODES_DETECTED,RESUME_DELIVERY,0.3566927
+Hi can I know the use of glutathione,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.33451143
+How to check aunthentic or without authentic,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.57217
+Whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6831604
+I want to place order for a product,NO_NODES_DETECTED,ORDER_TAKING,0.6348141
+Is there any authticity mark on products,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7191212
+I want to check authenticity of my product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.8090203
+Bhai 1000kg. Kitne ka h,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.4138943
+Where it is exactly reached,DELAY_IN_PARCEL,NO_NODES_DETECTED,0.0
+Please cacel my order,CANCEL_ORDER,CANCEL_ORDER,0.7491263
+I want gain weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.81026053
+My.fast porotin,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.48899093
+Want to.take a protein powder fr my weight loss,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8221009
+How to take,NO_NODES_DETECTED,USER_GOAL_FORM,0.38443694
+Or give me the number of the courier boy,NO_NODES_DETECTED,CALL_CENTER,0.630511
+Heloo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I give this to my daughter she is 8 year old,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Tell me about sleep product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5262446
+What is the benefit of tat product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.58485097
+Welcome sir,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2651417
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Notify when my product is available,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.49520785
+Hm sugar quantity in this product,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.3518774
+Is it stops pre mature grey hair,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Where should we buy,NO_NODES_DETECTED,ORDER_TAKING,0.417496
+Accuchek,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Ia there any coding system,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is there any gym kit for home,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6124726
+How quick can I get an order for Universal Animal pack?,NO_NODES_DETECTED,ORDER_STATUS,0.52090746
+Musclefit fish oil is it correct distributor?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5631358
+Which protein is best for the age of 18,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.65438384
+Vitamyzin multivitamin veg or nonvegitarian product?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.7160452
+waste product,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.6023338
+Sir i have 4 to 5 number of your company every phone they blocked me i have one short query only this product safe for me after using,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.34662104
+About,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Lasondale soap,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I Get My Order Tomorrow,NO_NODES_DETECTED,ORDER_STATUS,0.58109146
+Function of melatonin,NO_NODES_DETECTED,WORK_FROM_HOME,0.53257424
+Gmate strips,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Show products for Bulk,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.70019513
+How do I order Livercare by Health Matters?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+if i want to cut my fat and want to build muscle should i take creatine,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7247154
+Need gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5608353
+Where is the buy option,NO_NODES_DETECTED,ORDER_TAKING,0.41463962
+मैंने ऑनलाइन ऑर्डर किया था उसमें मेरा नंबर गलत हो गया है,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want a glutamine,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Multivitamin tablet,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7160519
+Best for men hair,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Need more information on the sporto kar pull down product,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5917364
+Product issue,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.32794368
+he,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hey can I know about cureveda glow,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.36598086
+How can i get connct with expert trainer,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hlo sir,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2651417
+When I get my order,DELAY_IN_PARCEL,ORDER_STATUS,0.53927475
+New mom maternity maxi paf,NO_NODES_DETECTED,SIGN_UP,0.39187247
+Hi i placed an order,NO_NODES_DETECTED,ORDER_TAKING,0.56742597
+Hi please order,NO_NODES_DETECTED,ORDER_TAKING,0.5711922
+Isse kya fayda h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need fish oil,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,1.0
+Required whey protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.70486045
+Is there any side effect,SIDE_EFFECT,SIDE_EFFECT,0.5958538
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My place is in containment zone will i still get the product on the predicted delivery date,DELAY_IN_PARCEL,RESUME_DELIVERY,0.7664009
+i would buy weight gain pills or supplyment for women,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.73730856
+I want to back my money,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.5639598
+:),NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Me kya use karu gainer ya protein,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.70931035
+Hi actually may I know is there any side effects of this protein,SIDE_EFFECT,SIDE_EFFECT,0.650638
++1 offer kya h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I take during creatine workout,RECOMMEND_PRODUCT,CONSULT_START,0.48703298
+Can i eat l arginine,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I would like to cancel my ordee,CANCEL_ORDER,CANCEL_ORDER,0.8379672
+Piz,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to place order for 30  tablets ? It is not allowing me to order on COD.,ORDER_TAKING,ORDER_TAKING,0.82269704
+Why curekart calcium is nonveg,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.387527
+Can u delivered to ramnagar uttarakhand,CHECK_PINCODE,ORDER_STATUS,0.56640476
+When should i take cla,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I can cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.82807183
+This whey protein can be consumed by sugar patients,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.61936074
+covid 19,NO_NODES_DETECTED,RESUME_DELIVERY,0.3835015
+Hi I need a home gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6300523
+order not received,DELAY_IN_PARCEL,REFUNDS_RETURNS_REPLACEMENTS,0.5218142
+Hello sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Product quantity,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.41596407
+It’s Tuesday 12:53,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I just cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.86825466
+I am happy with the capsules that I have & am interested in 2 more bottles.: what would be the cost please?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+how could I register as seller,FRANCHISE,FRANCHISE,0.6020661
+covid,NO_NODES_DETECTED,ORDER_STATUS,0.48130277
+I would like to buy Burkhland signature calcium citrate,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.46065995
+diet plan for weight gain,CONSULT_START,CONSULT_START,0.8611695
+Then,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Bro is your shop open tomorrow,STORE_INFORMATION,STORE_INFORMATION,0.7723408
+Can I come tomorrow because I stay near the shop only near d mart,STORE_INFORMATION,STORE_INFORMATION,0.632732
+What if i fount a product is not authenticate,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7309901
+"Hi , I am looking for home gym",RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.38871777
+Sir this is my first order on curekart.,NO_NODES_DETECTED,ORDER_TAKING,0.57202095
+This flavor is not gud,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+muzaffarpur hub contact number,CALL_CENTER,CALL_CENTER,0.682529
+This number is invalid,CHAT_WITH_AGENT,CALL_CENTER,0.58976483
+What's the update of my request,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I would like to know when Musclebuild Peanut Butter back in stock?,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.40277138
+hii,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to verify my product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.57980096
+All supreme Nutrition products have nutrition facts ...on my product nutrition information is written,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.47916755
+Hi...do you provide installation services,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"I have got the product from paradise nutrition who is not authorized distributor of Supreme Nutrition , will it be safe to take this protein",NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.479429
+I want to know everything about ichpure,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Dite plan,CONSULT_START,CONSULT_START,0.8308093
+There's no expiry date printed on BT fuel one 2.2lb chocolate,EXPIRY_DATE,EXPIRY_DATE,0.5781931
+CureKart store in kolkata,STORE_INFORMATION,STORE_INFORMATION,0.6736785
+Abhi tak powder nahi leya hai mene . Weight gain karna hai to kon sa loo,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.68954325
+Does product really reduce weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8267914
+Is it ok for sugar patients?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How do I place the order?,NO_NODES_DETECTED,ORDER_TAKING,0.6457369
+It shows that this product can not be delivered at 7021645199 right now.Plz let me inform when it will be possible. Thank u,DELAY_IN_PARCEL,ORDER_STATUS,0.43057802
+Newdint oxymeter availability’s checking,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.25444493
+Okay then what can I do now,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+which protein i have used my muscle clarity gained and fat loss all in one suggest me,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.9106457
+Cod is available,ORDER_TAKING,ORDER_TAKING,0.78657836
+On 7021645199 pin cod available,NO_NODES_DETECTED,ORDER_TAKING,0.69279
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Can u give me a diet chart, I am 47 years old, no medical problem want to loose fat",CONSULT_START,CONSULT_START,0.71485597
+I want to purchase a thermocut,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.79478335
+O oh,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Order cancel,CANCEL_ORDER,CANCEL_ORDER,0.82305014
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hoo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hey I just received my multivitamin curekart box but I have doubt whether it is real or fake product,ORIGINAL_PRODUCT,REFUNDS_RETURNS_REPLACEMENTS,0.38279492
+How to buy this product,NO_NODES_DETECTED,ORDER_TAKING,0.3837254
+Why my promocode not working,NO_NODES_DETECTED,PORTAL_ISSUE,0.37774885
+"Hi, do you deliver to Giddalur, Prakasam dist, AP",CHECK_PINCODE,RESUME_DELIVERY,0.8236085
+खाया पिया नहीं लगता क्या करें,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My weight is 64 I'm increase in 30 kg,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.36969683
+diet plan,CONSULT_START,CONSULT_START,0.92312145
+How to cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.8159759
+i want cancel my order,CANCEL_ORDER,CANCEL_ORDER,0.83898926
+Plz cancel my all order,CANCEL_ORDER,CANCEL_ORDER,0.774855
+Dont worry.it will be a prepaid percel,ORDER_TAKING,RESUME_DELIVERY,0.5335761
+Any side effects sir,SIDE_EFFECT,SIDE_EFFECT,0.7585306
+Where is cure kart in greater Noida?,STORE_INFORMATION,RESUME_DELIVERY,0.3376866
+Is it suitable for diabetics,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Hi , I am looking for home gym set",RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Weracin 120 tablat,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Women le sakti hai es dawa ko,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to know expiry date of my product,EXPIRY_DATE,EXPIRY_DATE,0.77805245
+"I have some of the Hirokeen capsules & would like to buy more : can you supply the Mega Power capsules to Australia? Thank you, Aaron D'souza",RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i wamt rod for gymming,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7044012
+I want to cancel my order now and reorder again,CANCEL_ORDER,CANCEL_ORDER,0.8111329
+Return my order,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.8900368
+Lockdown on my dissertation,NO_NODES_DETECTED,ORDER_TAKING,0.48034123
+How much in kg,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i want to buy a health drink,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Redith,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+What is a dosage of arjus 96,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Pure poduct h,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.42982212
+Can I come tomorrow because I stay near the shop only near k mart,STORE_INFORMATION,STORE_INFORMATION,0.632732
+How much time take to product deliver,DELAY_IN_PARCEL,RESUME_DELIVERY,0.64391005
+Cancel the delivery,CANCEL_ORDER,CANCEL_ORDER,0.705176
+konsa gainar sahi rahega,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Do you understand what I am trying to say,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5388014
+Do you understand what I am saying ?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi how can I use fish oil,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Chat agent,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.7082024
+Yg,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I have to know the expiry date before buying,EXPIRY_DATE,EXPIRY_DATE,0.6106932
+Musclefit fish oil is it correct distributor??,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5631358
+This product is useful for women,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.42643487
+I need DELITE MASS MUSCLE GAINER (DOUBLE RICH CHOCOLATE FLAVOR) 10.16 LBS,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.70128316
+This register number,NO_NODES_DETECTED,CALL_CENTER,0.53693724
+I am very thin what should I do,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My hb is 8.6gm/dl,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to buy a product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.46617302
+I want to set up my products on CureKart. How can I start with?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.49873102
+CureKart is a genuine product for sell,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.43178964
+What do you think this lockdown will get over ?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I have received only 1 pack out of 2,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Shipping in newzealand,CHECK_PINCODE,INTERNATIONAL_SHIPPING,0.5452501
+How to weight gain,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.73422
+Do you have GO casein protein ?,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+What if I got a fake product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7258
+Dear sir kya mujhe is company me job mil skti h,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+hlo i want to gain mass can u please help me out,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6736451
+My whight is 65 kg,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+I want 8712 Tamron bp monitor,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Please help me I need a best mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6649147
+Can I get Gonix as30,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Hiii sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+which product helps to gain muscle??,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.8478031
+Bekar,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Hi how much it takes time to deliver this product at Kanpur 7021645199 (Body Gainz PVC Dumbells Sets BM-Combo-20, Black, 20 kg)?",CHECK_PINCODE,RECOMMEND_PRODUCT,0.678841
+"How much time, days will it take to deliver Nature made super saw palmetto in central delhi",CHECK_PINCODE,RESUME_DELIVERY,0.6222157
+Humanogrowth sambroda capsule,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+So you guys have stores also???,STORE_INFORMATION,STORE_INFORMATION,0.6240918
+Are the products are genuine like your store ...??,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.5516974
+Ok we will report this issue,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"Now Pumpkin Seed Oil, capsule",NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.33490264
+want a medicine,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.44894043
+Hi I want to become bulk,RECOMMEND_PRODUCT,FRANCHISE,0.5225164
+Is this normal with ths product or should I chat with an expert,CHAT_WITH_AGENT,ORIGINAL_PRODUCT,0.33364335
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+whats the difference,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+hair loss,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+neuropathy,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I you will deliver it tomorrow,DELAY_IN_PARCEL,RESUME_DELIVERY,0.8625808
+Any discounts product,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.40478063
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+SITE100 code not applying,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My order cancel,CANCEL_ORDER,CANCEL_ORDER,0.82305014
+Any discount,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hello there🖐🏻,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hi I ordered an incorrect product,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.7036273
+Diet plan,CONSULT_START,CONSULT_START,0.92312145
+What is the cost of one pack,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i need product,RECOMMEND_PRODUCT,ORIGINAL_PRODUCT,0.43239066
+Emi,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Why we should not use Bt,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+But order was shipped the same day and now am stuck with waiting till the end of the month without supply,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.31396055
+Re-enter Details,NO_NODES_DETECTED,USER_GOAL_FORM,0.538081
+Bt mass gainer XXL I'm already 94 kg,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7502387
+I'm 94 kg but not a muscular body .. what you recommend for me..,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6823582
+whey,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.31955937
+I have had stroke for 12 years and I'm paralyzed on the right limbs.,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hello I just received nitrotech under this barcod 7021645199,NO_NODES_DETECTED,DELAY_IN_PARCEL,0.46374053
+Delivery at pincode 7021645199,CHECK_PINCODE,RESUME_DELIVERY,0.63379586
+weight gain,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7926531
+hi how to use bt protein,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.5662604
+product seal broke,NO_NODES_DETECTED,ORIGINAL_PRODUCT,0.47758013
+Tummy slim belt is available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.28805944
+It would be better if i cancel and buy offline,CANCEL_ORDER,CANCEL_ORDER,0.6514042
+I want a diet chart,CONSULT_START,CONSULT_START,0.8619684
+Hlw sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need Apple vinegar at my address,NO_NODES_DETECTED,MODIFY_ADDRESS,0.8164084
+Is ultimax softgel capsule available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.3233829
+Kab tak  aayga,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Site 100,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+"hey i want to list my product on your website,  could you help me with that",NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.508595
+Customer care,CALL_CENTER,CALL_CENTER,0.6555619
+It's about quality of the product .I ordered musclebuild prime 80% protein .It doesn't mixes well even with a blender . Feels light than 70% musclebuild performance which I ordered last time. Kindly elaborate nd take necessary action.,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.7331755
+hi I want to know t bomb,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hlo sir,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2651417
+how much time taken to deliver products,DELAY_IN_PARCEL,RESUME_DELIVERY,0.78818184
+Good evening,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can give this to 5yr kids?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How many days after fish oil capsules  expired,EXPIRY_DATE,EXPIRY_DATE,0.33781984
+:'),NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+U have pureol biotin 10000mcg,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+order selected,NO_NODES_DETECTED,ORDER_TAKING,0.53148216
+Nice nice,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My order ID is HKT-,NO_NODES_DETECTED,ORDER_STATUS,0.55896837
+Payapp,NO_NODES_DETECTED,MODES_OF_PAYMENTS,0.4354117
+Adar card,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Which protein is better for me,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7425403
+Body composition analysis,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5728624
+Do u have bp apparatus?,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Your service is  pathetic,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.64430207
+is it available my location,CHECK_PINCODE,NO_NODES_DETECTED,0.0
+Hiii sir,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+CAN I pay online for my COD order?,ORDER_TAKING,ORDER_TAKING,0.7615032
+I want to pay for my COD order.,ORDER_TAKING,ORDER_TAKING,0.7958847
+Which company's oximeter is best under 2000,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Weight gain kitne time me kr leta hai,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5444651
+क्या बोलता भाई,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I am not able to find tuffco hard resistance tube,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.3687623
+It can consume 50 above ladies and 60  above jents,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+yes i am new,SIGN_UP,NO_NODES_DETECTED,0.0
+What is the status of my loyalty program,NO_NODES_DETECTED,ORDER_STATUS,0.7043509
+Lownex,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need supper gummy  zinc and vitamins,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.31020167
+Hi which offer is buy one get one for apple cide,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Is this order buy one get one free?,NO_NODES_DETECTED,ORDER_STATUS,0.46742892
+Will this product help for building huge muscular body,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7828903
+I am a doctor from srilanka,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to scan UR code?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Please cancelled my order deyaled issue,CANCEL_ORDER,DELAY_IN_PARCEL,0.75188994
+I wnt to lose my weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.48794988
+It's not work,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Unaku evalo kolupu irukum na ketta onnumey solamatra,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+XxX mass gainer,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.64797664
+I want to buy the product,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.46709424
+Is it here trusted products,ORIGINAL_PRODUCT,RECOMMEND_PRODUCT,0.7755552
+Can kids of age 10 take this multivitamin tablets?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.57180846
+Whatis the weight bearing capacity of this 8 in 1 bench,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can you deliver to 7021645199,CHECK_PINCODE,RESUME_DELIVERY,0.7898121
+I need Tamron HEM which is out of stock with you.Notify me when available .my email id aarondeadly@gmail.com,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to return the product,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,1.0
+Wottle not mask,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+There is no reviews for proquest ...why is it like that,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Today is tuesday ....then why your agent is not available,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.6833392
+How to gain weight,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7511893
+I want to cancel an order.,CANCEL_ORDER,CANCEL_ORDER,0.8648444
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Cancel my product,CANCEL_ORDER,CANCEL_ORDER,0.82782483
+Cancel order,CANCEL_ORDER,CANCEL_ORDER,0.8501448
+I want to cancel may order,CANCEL_ORDER,CANCEL_ORDER,0.79225504
+Sir my order is cancelled,NO_NODES_DETECTED,ORDER_TAKING,0.48063645
+Do you have any delivery to srilanka,CHECK_PINCODE,RESUME_DELIVERY,0.6369018
+I am 82 years old... I want to buy melatonin 10mg..can you suggest a good producr,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Useless,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.5695625
+Hy l,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Suggest me diet on weight loss,CONSULT_START,CONSULT_START,0.7701469
+Invalid coupon,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199 Aaron,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Protin is god,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5370201
+How to buy it,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I have many complaints register but no rply,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want to get information about heavy mass,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.518255
+"I've ordered the protein through app , I want to know whether I can go to the nearest store and can I purchase ? The price would be same or different ? ",NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.5648018
+For increasing fat which products will good for me,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.72739595
+I want to return,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.89632154
+Capsule colure,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+hello.. do you have any affiliate programme?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My order is cancelled,NO_NODES_DETECTED,ORDER_TAKING,0.5697404
+Why ultimate whey is 4200 on your app but healthxp have same thing 3900?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How I use this s,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Cancel order,CANCEL_ORDER,CANCEL_ORDER,0.8501448
+Weights loss,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6861757
+Do you have app,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hair 4care %,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+Mail id,NO_NODES_DETECTED,ORDER_STATUS,0.250861
+How long should I take the collagen supplement itlf I start it today to see some good results?,NO_NODES_DETECTED,START_OVER,0.38311577
+What will be the final price,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+i got refund thankyou,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.6991791
+I need preworkout,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.42709324
+Ur email is not correct,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How to change address of placed order,MODIFY_ADDRESS,MODIFY_ADDRESS,0.75806534
+Sir,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.2651417
+Retun my order,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.80103314
+Waste of time,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.7636951
+How can I order product,NO_NODES_DETECTED,ORDER_TAKING,0.5332111
+Were s my order,ORDER_STATUS,ORDER_TAKING,0.5446426
+Buy one get one free,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.33534628
+Bhai cancel ka options nhi mil rha,NO_NODES_DETECTED,CANCEL_ORDER,0.65988475
+Shavellete Sensor Excel Blades is available?,NO_NODES_DETECTED,CHAT_WITH_AGENT,0.39991164
+any adverse side effects to using whey protein,SIDE_EFFECT,SIDE_EFFECT,0.5758169
+So that I can order the product,NO_NODES_DETECTED,ORDER_STATUS,0.5370298
+"Hi team,my order delivery was not succesful by the delivery partner can u please provide me with the delivery partner number ?",NO_NODES_DETECTED,RESUME_DELIVERY,0.604051
+When will the product be available,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.49857798
+Authenticity check,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7920166
+Finale spery for men,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Hyy,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+wrong address,MODIFY_ADDRESS,MODIFY_ADDRESS,0.8475666
+How can I place my order,NO_NODES_DETECTED,ORDER_TAKING,0.6520758
+Hlo,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I use for ringworm cure,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.31571227
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+My age is 25 year and wight 49kg so which is best supliment for me,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.53121
+Is it capsule or a tablet,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Supplement for 15 year old boy,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.45024526
+The plates are of pvc or rubber plates??,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Show products for Athletic,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6042465
+how to know that you aren't selling fake product ?,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.7100313
+I need optiquick powder,RECOMMEND_PRODUCT,ORDER_TAKING,0.27195868
+How can I check original product,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.8157033
+Consultant from doctor,NO_NODES_DETECTED,CONSULT_START,0.5377482
+How can I contact if I did not receive my order but got message that your order is delivered,DELAY_IN_PARCEL,ORDER_STATUS,0.7600522
+Can I return after using it for few days and found it fake,REFUNDS_RETURNS_REPLACEMENTS,REFUNDS_RETURNS_REPLACEMENTS,0.6985026
+4kg dumbbells are available?,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.7821541
+What is the expiry date of the product,EXPIRY_DATE,EXPIRY_DATE,0.7866169
+Worange,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Sir i order garcinia cambogia last week i have received i have one query regarding this but our services and employees not attend my call they blocked me and not any response and clarification of product,NO_NODES_DETECTED,EXPIRY_DATE,0.36289003
+Are gyms open ?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.62333286
+Regarding a product,RECOMMEND_PRODUCT,EXPIRY_DATE,0.5754611
+I want to know about my code,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+You delivered in kalyan sukha village bathinda,NO_NODES_DETECTED,ORDER_STATUS,0.58433694
+Provital H,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Delivered when,DELAY_IN_PARCEL,ORDER_STATUS,0.7162028
+Can I consume BT super gainer with out workout,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.4783565
+Ensure diabeti care is avilable,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Home gym,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.65120375
+Do you have any store in Amritsar,STORE_INFORMATION,STORE_INFORMATION,0.65097713
+Can i do COD ??,ORDER_TAKING,ORDER_TAKING,0.84565204
+No i want MUSCLEFIT product are they authentic?? On your platform??,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.6672298
+And are importer  are genuine ??,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.40258726
+This is protein powder,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.67787343
+Is your product natural,ORIGINAL_PRODUCT,ORIGINAL_PRODUCT,0.62807286
+will i get a discount?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I am a first time user,SIGN_UP,SIGN_UP,0.4883173
+Hey I didn’t receive the ordered product its incomplete,DELAY_IN_PARCEL,ORDER_STATUS,0.7574994
+ACTUALLY I ORDERED FOR FISH OIL CAPSULES,NO_NODES_DETECTED,REFUNDS_RETURNS_REPLACEMENTS,0.45358244
+Want vichy ideal white,RECOMMEND_PRODUCT,NO_NODES_DETECTED,0.0
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Any special offer nowadays?,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Dilivery free,NO_NODES_DETECTED,RESUME_DELIVERY,0.67609864
+How to scan qr,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+complaint,CHAT_WITH_AGENT,CHAT_WITH_AGENT,0.45076758
+great future with such employees,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Need a diet plan,CONSULT_START,CONSULT_START,0.91310555
+Tracking my order,ORDER_STATUS,ORDER_STATUS,0.89143205
+Please keep delivery service to the pin code 7021645199,CHECK_PINCODE,CHECK_PINCODE,0.5888557
+7021645199,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Any complications will be there,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Its 5:50,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+How many gram protin need in one day for fat loss?,NO_NODES_DETECTED,RECOMMEND_PRODUCT,0.69512135
+"Can I take ashwagandha, gluthaione and biotin all together in a day?",NO_NODES_DETECTED,USER_GOAL_FORM,0.32094556
+I want cod,ORDER_TAKING,ORDER_TAKING,1.0
+We want ur ph number,CALL_CENTER,CALL_CENTER,0.36683595
+MTP kit,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Day,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+Can I use,NO_NODES_DETECTED,NO_NODES_DETECTED,0.0
+I want home gym workout equipment,RECOMMEND_PRODUCT,RECOMMEND_PRODUCT,0.6521114
+Cancel my order please,CANCEL_ORDER,CANCEL_ORDER,0.8259473

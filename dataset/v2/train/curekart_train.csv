@@ -1,0 +1,600 @@
+sentence,label
+What time is your call centre operational during COVID?,CALL_CENTER
+is the call center still functioning during lockdown,CALL_CENTER
+what are the working hours of your call center during covid lockdown,CALL_CENTER
+does covid affext your call center time,CALL_CENTER
+is your call center working during covid?,CALL_CENTER
+when can i call the call center during coronvirus lockdown,CALL_CENTER
+what is the time when call center is working,CALL_CENTER
+Contact Call Center,CALL_CENTER
+what time are you guys open,CALL_CENTER
+I want to call your call centre,CALL_CENTER
+Toll Free Number,CALL_CENTER
+Customer care number,CALL_CENTER
+pls give me customer care no,CALL_CENTER
+want to contact your customer care number send me,CALL_CENTER
+Consumer care number,CALL_CENTER
+where do I call you,CALL_CENTER
+i want to get in touch,CALL_CENTER
+I want your number,CALL_CENTER
+i want your contact number where I can call you,CALL_CENTER
+your contact number,CALL_CENTER
+How do I Reach you guys,CALL_CENTER
+I'd like to cancel my pending order,CANCEL_ORDER
+How can I cancel my pending order?,CANCEL_ORDER
+Kindly cancel my order,CANCEL_ORDER
+I want to cancel my placed order,CANCEL_ORDER
+Cancellation,CANCEL_ORDER
+I want to place cancellation,CANCEL_ORDER
+How can i cancel my order?,CANCEL_ORDER
+cancel,CANCEL_ORDER
+Cancel my order,CANCEL_ORDER
+Cancelling,CANCEL_ORDER
+I want to cancel a product,CANCEL_ORDER
+I want to cancel my order,CANCEL_ORDER
+Chat with agent,CHAT_WITH_AGENT
+I need customer support,CHAT_WITH_AGENT
+I want to chat with an agent,CHAT_WITH_AGENT
+I need to talk to someone,CHAT_WITH_AGENT
+You guys are fraud,CHAT_WITH_AGENT
+I want to speak with a human,CHAT_WITH_AGENT
+I want to raise a complaint,CHAT_WITH_AGENT
+Your delivery service is always slow I am done with CureKart,CHAT_WITH_AGENT
+"hello, is ther anyone available to assist",CHAT_WITH_AGENT
+contact support,CHAT_WITH_AGENT
+Customer care number not available,CHAT_WITH_AGENT
+call center unavailable,CHAT_WITH_AGENT
+call center not reachable,CHAT_WITH_AGENT
+Call centre not picking up,CHAT_WITH_AGENT
+No one is answering,CHAT_WITH_AGENT
+pathetic service,CHAT_WITH_AGENT
+I want to complain,CHAT_WITH_AGENT
+How to complaint,CHAT_WITH_AGENT
+You are useless,CHAT_WITH_AGENT
+Poor service,CHAT_WITH_AGENT
+poor customer support,CHAT_WITH_AGENT
+Waste of my time,CHAT_WITH_AGENT
+Bad Service,CHAT_WITH_AGENT
+Can i talk to a human,CHAT_WITH_AGENT
+Could I chat with a human please,CHAT_WITH_AGENT
+Live agent,CHAT_WITH_AGENT
+live person to talk,CHAT_WITH_AGENT
+I want to speak with a live agent,CHAT_WITH_AGENT
+real person available,CHAT_WITH_AGENT
+human to answer,CHAT_WITH_AGENT
+connect me to supervisor,CHAT_WITH_AGENT
+Give immediate resolution,CHAT_WITH_AGENT
+I need urgent assistance,CHAT_WITH_AGENT
+need an immediate fix to my problem,CHAT_WITH_AGENT
+This is urgent,CHAT_WITH_AGENT
+This is extremely urgent,CHAT_WITH_AGENT
+This is an emergency,CHAT_WITH_AGENT
+Talk,CHAT_WITH_AGENT
+Talk to agent,CHAT_WITH_AGENT
+I want to talk to your executive,CHAT_WITH_AGENT
+Tell me weight gaining,CONSULT_START
+Consult Start,CONSULT_START
+suggest me beginner diet,CONSULT_START
+can you make my ideal diet plan ?,CONSULT_START
+Get Diet & Fitness Advice,CONSULT_START
+Diet plan for runner,CONSULT_START
+Advice a diet chart,CONSULT_START
+Recommend me workout schedule diet and protein,CONSULT_START
+Hi i am looking for diet chart,CONSULT_START
+Hii I am looking for lean muscle body advice me diet chart,CONSULT_START
+Can u provide fitness advice ?,CONSULT_START
+Diet,CONSULT_START
+Muscle diet,CONSULT_START
+Bodybuilding diet,CONSULT_START
+Weight Loss diet,CONSULT_START
+Workout plan,CONSULT_START
+Diet plan,CONSULT_START
+Diet and Fitness Advice for Bulk Muscle Gain,CONSULT_START
+Diet and Fitness Advice for Lean Muscle Gain,CONSULT_START
+Diet and Fitness Advice for Weight Gain,CONSULT_START
+Diet and Fitness Advice for Maintain Weight,CONSULT_START
+Diet and Fitness Advice for Weight Loss,CONSULT_START
+I want a diet chart prepared for me,CONSULT_START
+Can you tell me what diet is perfect for me,CONSULT_START
+Generate Diet Analysis,CONSULT_START
+Generate Advice,CONSULT_START
+Is there a delay in delivery becuase of the pandemic?,DELAY_IN_PARCEL
+How long is parcel delayed because of COVID?,DELAY_IN_PARCEL
+Why is my delivery late,DELAY_IN_PARCEL
+Why is my parcel delayed,DELAY_IN_PARCEL
+why is parcel taking so long,DELAY_IN_PARCEL
+My order is very late,DELAY_IN_PARCEL
+Delivery is showing very late,DELAY_IN_PARCEL
+My Order is Delayed,DELAY_IN_PARCEL
+Delay Order,DELAY_IN_PARCEL
+Why there is a delay,DELAY_IN_PARCEL
+Product delayed,DELAY_IN_PARCEL
+order delayed,DELAY_IN_PARCEL
+why my order is delayed,DELAY_IN_PARCEL
+Why my parcel is delay,DELAY_IN_PARCEL
+Why it's getting delayed,DELAY_IN_PARCEL
+I am not received my order yet,DELAY_IN_PARCEL
+Delay during Covid-19,DELAY_IN_PARCEL
+my order was delayed,DELAY_IN_PARCEL
+it's been delayed,DELAY_IN_PARCEL
+why my order keep getting delayed,DELAY_IN_PARCEL
+i have not received my order till today.,DELAY_IN_PARCEL
+I have still not received my order,DELAY_IN_PARCEL
+My order was supposed to arrive long ago. Can you please tell me when will it come?,DELAY_IN_PARCEL
+What if I receive expired product,EXPIRY_DATE
+I have received an Expired product,EXPIRY_DATE
+Expiry Date,EXPIRY_DATE
+Product Expiry,EXPIRY_DATE
+Where can we find expiry information regarding product,EXPIRY_DATE
+Where can i check the expiry information of the product?,EXPIRY_DATE
+How do i find out the expiry date of a product,EXPIRY_DATE
+How to find the expiry date of a product,EXPIRY_DATE
+Get Franchise,FRANCHISE
+would like to associated as seller,FRANCHISE
+i want to enroll my self as a seller,FRANCHISE
+I would like to get dealership,FRANCHISE
+i want to become the seller partner,FRANCHISE
+I wanted to be a seller,FRANCHISE
+Become a seller,FRANCHISE
+SELLER,FRANCHISE
+I want to became a seller,FRANCHISE
+How do i become a seller on curekart?,FRANCHISE
+i want to become a seller,FRANCHISE
+can i become a seller,FRANCHISE
+Track my order,ORDER_STATUS
+What is my shipment status,ORDER_STATUS
+What is the progress of my orders,ORDER_STATUS
+Can you tell me about my previous orders,ORDER_STATUS
+What is my current order status,ORDER_STATUS
+Can you tell me my current order status,ORDER_STATUS
+What is my order shipment progress?,ORDER_STATUS
+Where do you live,ORDER_STATUS
+"The delivery date  says 5 more days, are there any hopes i will receive my order before that",ORDER_STATUS
+"I want to track my order, when will it arrive?",ORDER_STATUS
+I have been eager to receive my order how long it will take to deliver?,ORDER_STATUS
+how will I come to know where my order has reached so far because it is so difficult to track the delivery agent,ORDER_STATUS
+My order status has not been updated on the website please tell where it is,ORDER_STATUS
+hi can you track my order,ORDER_STATUS
+Could you please help me tracking my order,ORDER_STATUS
+Where is my order?,ORDER_STATUS
+Where can I see order status? Whether it's shipped or not yet?,ORDER_STATUS
+please provide the status,ORDER_STATUS
+Status of my order,ORDER_STATUS
+I need my order status,ORDER_STATUS
+tracking details,ORDER_STATUS
+get order status,ORDER_STATUS
+order tracking,ORDER_STATUS
+check the order status,ORDER_STATUS
+Whats my order status,ORDER_STATUS
+can i get the tracking id,ORDER_STATUS
+Whats the tracking number,ORDER_STATUS
+I want to track my order,ORDER_STATUS
+Track Order,ORDER_STATUS
+When will my order will be delivered,ORDER_STATUS
+when will i recieve my order?,ORDER_STATUS
+When can I expect my delivery because of the pandemic?,ORDER_STATUS
+Will I receive my order after covid19 lockdown?,ORDER_STATUS
+how will covid lockdown affect my order,ORDER_STATUS
+It has not been delivered yet. So I want to know when it will be delivered,ORDER_STATUS
+How much more time do I have to wait for my parcel,ORDER_STATUS
+Is it possible to get my order early,ORDER_STATUS
+when can i expect my delivery,ORDER_STATUS
+In how many days I will get delivery,ORDER_STATUS
+my order has not reached,ORDER_STATUS
+when will my order be delivered?,ORDER_STATUS
+when will i receive this product?,ORDER_STATUS
+can my order be delivered early,ORDER_STATUS
+when i will get the product?,ORDER_STATUS
+When will it arrive,ORDER_STATUS
+I had ordered before the covid breakout how much more time it will take to deliver?,ORDER_STATUS
+my order is not delivered yet,ORDER_STATUS
+Delivery out of India,INTERNATIONAL_SHIPPING
+International Shipping,INTERNATIONAL_SHIPPING
+Out of India,INTERNATIONAL_SHIPPING
+Modes of payments,MODES_OF_PAYMENTS
+ways of paymets,MODES_OF_PAYMENTS
+Accepted modes of payments,MODES_OF_PAYMENTS
+What are the modes of payments you accept,MODES_OF_PAYMENTS
+Tell me the modes of payment,MODES_OF_PAYMENTS
+How can I pay Online,MODES_OF_PAYMENTS
+i can't make a prepaid payment,MODES_OF_PAYMENTS
+Change delivery address?,MODIFY_ADDRESS
+Delivery address is wrong it is to be changed,MODIFY_ADDRESS
+I want to change my delivery address,MODIFY_ADDRESS
+i have to change my address,MODIFY_ADDRESS
+i wanna change shipping address,MODIFY_ADDRESS
+Need to change shipping address,MODIFY_ADDRESS
+Edit shipping address,MODIFY_ADDRESS
+I want to change my shipping address,MODIFY_ADDRESS
+I want change my addresses,MODIFY_ADDRESS
+change of address,MODIFY_ADDRESS
+Regarding change of address of my order.,MODIFY_ADDRESS
+I need to change the address of my order,MODIFY_ADDRESS
+can i change the addres on the order,MODIFY_ADDRESS
+Can you please change the address?,MODIFY_ADDRESS
+Modify Address,MODIFY_ADDRESS
+Address Issue,MODIFY_ADDRESS
+I have a query related to my order,ORDER_QUERY
+Help required on order,ORDER_QUERY
+details  needed for my order,ORDER_QUERY
+Query for my order,ORDER_QUERY
+I have an order related query,ORDER_QUERY
+I want to know information related to my orders,ORDER_QUERY
+Order query,ORDER_QUERY
+Are you taking orders during COVID?,ORDER_TAKING
+i know its lockdown due to coronavirus but can i still place an order?,ORDER_TAKING
+"I wanted to order some things, can I place an order on the website?",ORDER_TAKING
+are you taking up orders during the lockdown?,ORDER_TAKING
+please tell me if I can still place an order on the website during the lockdown,ORDER_TAKING
+are you accepting prepaid orders during lockdown,ORDER_TAKING
+Can i place prepaid order,ORDER_TAKING
+Accept Orders Again,ORDER_TAKING
+Hi I want to order,ORDER_TAKING
+Can i buy during quarantine,ORDER_TAKING
+Can I order it ? While lockdown as well.,ORDER_TAKING
+Are you taking orders for delivery,ORDER_TAKING
+Are you guys still accepting order?,ORDER_TAKING
+"Hi, is your service operating during curfew",ORDER_TAKING
+Want COD option,ORDER_TAKING
+I want to order on products,ORDER_TAKING
+Can I order now ?,ORDER_TAKING
+Can i order online right now?,ORDER_TAKING
+can I pay cash later,ORDER_TAKING
+Is COD available,ORDER_TAKING
+is Cash on delivery possible,ORDER_TAKING
+Can I place Cash on delivery order,ORDER_TAKING
+Are you taking COD orders,ORDER_TAKING
+COD option is not available,ORDER_TAKING
+Cash on delivery option is not showing,ORDER_TAKING
+Why it is not showing COD option,ORDER_TAKING
+pay on delivery option on the portal,ORDER_TAKING
+COD is not available?,ORDER_TAKING
+I want to book shipment on cash on delivery,ORDER_TAKING
+There is no option for cash on delivery,ORDER_TAKING
+How come there is  no COD on curekart,ORDER_TAKING
+I want to pay COD,ORDER_TAKING
+COD,ORDER_TAKING
+Buy through Cash on delivery,ORDER_TAKING
+There's no option for Cash on Delivery,ORDER_TAKING
+Cash on Delivery,ORDER_TAKING
+Wants to buy a supplement through cash on delivery,ORDER_TAKING
+Are you still delivering during this time?,ORDER_TAKING
+Do i need to make payment in cash,ORDER_TAKING
+Original Products,ORIGINAL_PRODUCT
+do you have authentic products,ORIGINAL_PRODUCT
+Is your product original,ORIGINAL_PRODUCT
+are your products genuine,ORIGINAL_PRODUCT
+can i get original product,ORIGINAL_PRODUCT
+Show me your authenticity,ORIGINAL_PRODUCT
+Fake product,ORIGINAL_PRODUCT
+Authentication,ORIGINAL_PRODUCT
+Authenticate,ORIGINAL_PRODUCT
+Authentic,ORIGINAL_PRODUCT
+How I check product is original or fake,ORIGINAL_PRODUCT
+How to check products is original or not,ORIGINAL_PRODUCT
+how to verify its original or duplicate,ORIGINAL_PRODUCT
+My supplement is original or not,ORIGINAL_PRODUCT
+How to know if product is orignal,ORIGINAL_PRODUCT
+Authenticated,ORIGINAL_PRODUCT
+What if I find it fake after receiving,ORIGINAL_PRODUCT
+Product seems fake,ORIGINAL_PRODUCT
+Product is fake,ORIGINAL_PRODUCT
+I got fake product,ORIGINAL_PRODUCT
+I would like to know the originality of the product,ORIGINAL_PRODUCT
+how can i check the authenticity of the product,ORIGINAL_PRODUCT
+Are your products 100% original?,ORIGINAL_PRODUCT
+I want to know my refund status,REFUNDS_RETURNS_REPLACEMENTS
+I want to know about my replacements,REFUNDS_RETURNS_REPLACEMENTS
+I havent received my refund it has been many days since the return,REFUNDS_RETURNS_REPLACEMENTS
+I want my item replaced because the item I have received has tampered with already,REFUNDS_RETURNS_REPLACEMENTS
+Order Replacement for the products i received because I did not order what I have received,REFUNDS_RETURNS_REPLACEMENTS
+Where is my refund?,REFUNDS_RETURNS_REPLACEMENTS
+Refund not received,REFUNDS_RETURNS_REPLACEMENTS
+Check Refund Status,REFUNDS_RETURNS_REPLACEMENTS
+query related to refunds,REFUNDS_RETURNS_REPLACEMENTS
+query related to replacements,REFUNDS_RETURNS_REPLACEMENTS
+I have sent my order for refund how much time will it take?,REFUNDS_RETURNS_REPLACEMENTS
+How can I get a refund for the order I placed?,REFUNDS_RETURNS_REPLACEMENTS
+"I want my payment for refund back, when I will get it?",REFUNDS_RETURNS_REPLACEMENTS
+"The product I received was of bad quality, how do I replace it?",REFUNDS_RETURNS_REPLACEMENTS
+I need to replace the product I recieved,REFUNDS_RETURNS_REPLACEMENTS
+I would just like to return my product since you have delivered something completely different from what I had initially ordered,REFUNDS_RETURNS_REPLACEMENTS
+I want my money back,REFUNDS_RETURNS_REPLACEMENTS
+some of the items I have ordered are missing how do I get a replacement?,REFUNDS_RETURNS_REPLACEMENTS
+I want refund as soon as in my account,REFUNDS_RETURNS_REPLACEMENTS
+What's you refund policy,REFUNDS_RETURNS_REPLACEMENTS
+please refund my amount,REFUNDS_RETURNS_REPLACEMENTS
+Refund money,REFUNDS_RETURNS_REPLACEMENTS
+Refund,REFUNDS_RETURNS_REPLACEMENTS
+Return the product,REFUNDS_RETURNS_REPLACEMENTS
+Any return poliCy,REFUNDS_RETURNS_REPLACEMENTS
+order returned,REFUNDS_RETURNS_REPLACEMENTS
+My replacement order,REFUNDS_RETURNS_REPLACEMENTS
+My Refund,REFUNDS_RETURNS_REPLACEMENTS
+i want to refund my product,REFUNDS_RETURNS_REPLACEMENTS
+i want to replace my bad quality product,REFUNDS_RETURNS_REPLACEMENTS
+as it is only showing return policy but nowhere option to return my order,REFUNDS_RETURNS_REPLACEMENTS
+I would like to return a part of my latest order,REFUNDS_RETURNS_REPLACEMENTS
+It’s shows that u returned multiple order,REFUNDS_RETURNS_REPLACEMENTS
+I need to initiate return,REFUNDS_RETURNS_REPLACEMENTS
+Replacement,REFUNDS_RETURNS_REPLACEMENTS
+I want replace my order,REFUNDS_RETURNS_REPLACEMENTS
+Replacement order,REFUNDS_RETURNS_REPLACEMENTS
+i want replacement,REFUNDS_RETURNS_REPLACEMENTS
+Not received my replacement order,REFUNDS_RETURNS_REPLACEMENTS
+Return product,REFUNDS_RETURNS_REPLACEMENTS
+Return Policy,REFUNDS_RETURNS_REPLACEMENTS
+Return,REFUNDS_RETURNS_REPLACEMENTS
+When will my parcel return?,REFUNDS_RETURNS_REPLACEMENTS
+Information for return,REFUNDS_RETURNS_REPLACEMENTS
+i want to return one product,REFUNDS_RETURNS_REPLACEMENTS
+I ordered by mistake,REFUNDS_RETURNS_REPLACEMENTS
+refund wrong item received,REFUNDS_RETURNS_REPLACEMENTS
+Wrong  items shipped,REFUNDS_RETURNS_REPLACEMENTS
+ordered wrong item,REFUNDS_RETURNS_REPLACEMENTS
+I want to return my last order,REFUNDS_RETURNS_REPLACEMENTS
+I want exchange the product,REFUNDS_RETURNS_REPLACEMENTS
+i want to return my order,REFUNDS_RETURNS_REPLACEMENTS
+I want to know about my refund or replacement,REFUNDS_RETURNS_REPLACEMENTS
+Refund & Replacement,REFUNDS_RETURNS_REPLACEMENTS
+I want to know about my payments,PAYMENT_AND_BILL
+Payments and Bills,PAYMENT_AND_BILL
+I have Payment & Bill Related Queries,PAYMENT_AND_BILL
+I want my invoice for my previous orders,PAYMENT_AND_BILL
+"My money got deducted but my order did not get placed, can you help me?",PAYMENT_AND_BILL
+"I have an issue with my bill, can I get a duplicate copy?",PAYMENT_AND_BILL
+my account got debited but my order did not get placed please give me a solution,PAYMENT_AND_BILL
+"I see a transaction on my bank app, the money for the order has been deducted but there is no order visible on my profile",PAYMENT_AND_BILL
+I will require a duplicate bill for my previous orders since I have to show it as a proof,PAYMENT_AND_BILL
+My order did not get placed but my money got deducted form my account.,PAYMENT_AND_BILL
+Can you send me a duplicate bill for my order?,PAYMENT_AND_BILL
+"I want a duplicate bill for my order, where can I find it?",PAYMENT_AND_BILL
+"I have not received my bill, give me my bill",PAYMENT_AND_BILL
+"my bill has been not publised yet on the website, i want a bill for my order",PAYMENT_AND_BILL
+you have not provided me my bill yet,PAYMENT_AND_BILL
+give me my duplicate bill,PAYMENT_AND_BILL
+show me my duplicate bill for my latest order,PAYMENT_AND_BILL
+Give me a copy of my bill please,PAYMENT_AND_BILL
+i want invoice,PAYMENT_AND_BILL
+I want invoice of my product,PAYMENT_AND_BILL
+Money deducted but order not placed,PAYMENT_AND_BILL
+my money has been deducted but it's not been place order,PAYMENT_AND_BILL
+"i have placed a order recently,money deducted but order not placed",PAYMENT_AND_BILL
+My Money is deducted but the order is not placed,PAYMENT_AND_BILL
+I have query related to payments and bill,PAYMENT_AND_BILL
+Payments & bill,PAYMENT_AND_BILL
+Portal not working,PORTAL_ISSUE
+Option is not visible,PORTAL_ISSUE
+Unable to see product in my cart,PORTAL_ISSUE
+My Cart Is empty,PORTAL_ISSUE
+Product Service,CHECK_PINCODE
+pincode serviceable,CHECK_PINCODE
+I wanted to know whether you are delivering in,CHECK_PINCODE
+Are you shipping to my pincode,CHECK_PINCODE
+Is it deliverable to my pin code,CHECK_PINCODE
+Will you deliver to my pincode,CHECK_PINCODE
+Are you delivering products at my pincode,CHECK_PINCODE
+Can my product be delivered to my pincode,CHECK_PINCODE
+Can you check my pincode delivery,CHECK_PINCODE
+Can you check if my pincode is serviceable,CHECK_PINCODE
+Is delivery available at my pincode,CHECK_PINCODE
+How many days will take to deliver,CHECK_PINCODE
+Do you deliver at my pincode,CHECK_PINCODE
+Get Product Service,CHECK_PINCODE
+Recommend a product,RECOMMEND_PRODUCT
+What are all the products you have?,RECOMMEND_PRODUCT
+I am confused about what to buy since there are too many options I and I really don't know what I should focus on right now,RECOMMEND_PRODUCT
+I'm here to browse some products because my friend said heathkart has some superb varieties,RECOMMEND_PRODUCT
+give me all kinds of products you have,RECOMMEND_PRODUCT
+give me some other products regarding building a good health and body,RECOMMEND_PRODUCT
+Select another goal,RECOMMEND_PRODUCT
+Can you help me with building an athletic body so that I participate in sports competition,RECOMMEND_PRODUCT
+Which products can you help me?,RECOMMEND_PRODUCT
+"I am aiming to get a lean body, can you help me?",RECOMMEND_PRODUCT
+"I want help to reach my weight goal, can you suggest some products?",RECOMMEND_PRODUCT
+what products would you suggest to lose weight?,RECOMMEND_PRODUCT
+I am trying to cut down on my weight,RECOMMEND_PRODUCT
+I need some hair care products since I have been experiencing a lot for problems lately,RECOMMEND_PRODUCT
+I want to transform my lifestyle to be more healthy,RECOMMEND_PRODUCT
+"I have been trying to maintain a healthy lifestyle as a new year goal, which products whould you recommend to me",RECOMMEND_PRODUCT
+Can you suggest me some products?,RECOMMEND_PRODUCT
+I need some product suggestion depending on my health goal,RECOMMEND_PRODUCT
+i'm beginner in gym,RECOMMEND_PRODUCT
+Best mass gainer??,RECOMMEND_PRODUCT
+I want get muscle mass and lean mass,RECOMMEND_PRODUCT
+Lose weight and gain lean muscles,RECOMMEND_PRODUCT
+i mean i want protein supplement,RECOMMEND_PRODUCT
+i want to gain musclemass,RECOMMEND_PRODUCT
+Sir I want to fast gain weight.,RECOMMEND_PRODUCT
+which is the best one to use for body gainer,RECOMMEND_PRODUCT
+Please suggest me what is the best medicine of immunity boosting,RECOMMEND_PRODUCT
+I want a muscular body,RECOMMEND_PRODUCT
+give products for protein,RECOMMEND_PRODUCT
+What is the best pre workout protein to boost heavy duty workout,RECOMMEND_PRODUCT
+Wanted to get Protein powder,RECOMMEND_PRODUCT
+give me all the products required for bodybuilding,RECOMMEND_PRODUCT
+Protein shakes for weight loss,RECOMMEND_PRODUCT
+plz suggest me a best mass mass gainer...,RECOMMEND_PRODUCT
+I want to lose 10 kg in 1 month,RECOMMEND_PRODUCT
+I want to gain more muscles,RECOMMEND_PRODUCT
+I want to buy best mass gainer but I am confused,RECOMMEND_PRODUCT
+i want to a product for weight gain,RECOMMEND_PRODUCT
+i need supplements,RECOMMEND_PRODUCT
+i i want weight loss,RECOMMEND_PRODUCT
+For biceps and tricep muscle growth supplements,RECOMMEND_PRODUCT
+energy boost in body,RECOMMEND_PRODUCT
+Can you please suggest me some products specified to help me gain weight,RECOMMEND_PRODUCT
+Best whey protein,RECOMMEND_PRODUCT
+Best whey for lean body,RECOMMEND_PRODUCT
+best supplement for biceps and triceps growth,RECOMMEND_PRODUCT
+Best protein for lein body,RECOMMEND_PRODUCT
+Best pre workout supplement,RECOMMEND_PRODUCT
+Best multivitamins for bulking,RECOMMEND_PRODUCT
+I want to purchase,RECOMMEND_PRODUCT
+Height increasing nutrition,RECOMMEND_PRODUCT
+I want to gain my weight,RECOMMEND_PRODUCT
+I want to reduce my fat,RECOMMEND_PRODUCT
+Need to buy,RECOMMEND_PRODUCT
+I want new product,RECOMMEND_PRODUCT
+Weight gainer,RECOMMEND_PRODUCT
+I want home gym product,RECOMMEND_PRODUCT
+I want to grow my height,RECOMMEND_PRODUCT
+I need dumbbells,RECOMMEND_PRODUCT
+I want dumbells set,RECOMMEND_PRODUCT
+Skin brightness,RECOMMEND_PRODUCT
+Body fat loss,RECOMMEND_PRODUCT
+Multivitamin,RECOMMEND_PRODUCT
+Hairfall,RECOMMEND_PRODUCT
+Calcium,RECOMMEND_PRODUCT
+Fish oil,RECOMMEND_PRODUCT
+Fat Loss,RECOMMEND_PRODUCT
+Fat burner,RECOMMEND_PRODUCT
+Dumbbell,RECOMMEND_PRODUCT
+Creatine,RECOMMEND_PRODUCT
+Bulk gainer,RECOMMEND_PRODUCT
+brain memory,RECOMMEND_PRODUCT
+body detox,RECOMMEND_PRODUCT
+Biotin,RECOMMEND_PRODUCT
+Glutathione,RECOMMEND_PRODUCT
+Gainer,RECOMMEND_PRODUCT
+Gym Equipment,RECOMMEND_PRODUCT
+isopure,RECOMMEND_PRODUCT
+Height,RECOMMEND_PRODUCT
+Hair Fall,RECOMMEND_PRODUCT
+L arginine,RECOMMEND_PRODUCT
+Multi vitamin,RECOMMEND_PRODUCT
+Omega 3,RECOMMEND_PRODUCT
+Resistance band,RECOMMEND_PRODUCT
+Slim tea,RECOMMEND_PRODUCT
+Testosterone,RECOMMEND_PRODUCT
+True Basic,RECOMMEND_PRODUCT
+Vitamin,RECOMMEND_PRODUCT
+I want to get the product,RECOMMEND_PRODUCT
+I want to buy,RECOMMEND_PRODUCT
+I wanna Buy,RECOMMEND_PRODUCT
+MB Gold Protein,RECOMMEND_PRODUCT
+Syntha 6,RECOMMEND_PRODUCT
+BCAA,RECOMMEND_PRODUCT
+MB Supergainer,RECOMMEND_PRODUCT
+Reedem referral,REFER_EARN
+My friend refer me to CureKart,REFER_EARN
+Refer Amount,REFER_EARN
+Friend referral,REFER_EARN
+Refer & Earn,REFER_EARN
+Want to know about refer & Earn,REFER_EARN
+Refral code,REFER_EARN
+My Referral code,REFER_EARN
+Need help with refferal,REFER_EARN
+Referral,REFER_EARN
+I have referral promo code,REFER_EARN
+How to refer my referal code,REFER_EARN
+How cani refer a friend for this app?,REFER_EARN
+When will you resume delivery due to COVID?,RESUME_DELIVERY
+are you going to start delivery during this lockdown period as well?,RESUME_DELIVERY
+other websites like lagoon are delivering when will curekart start again to deliver?,RESUME_DELIVERY
+"I have not received my parcel yet, when will to start the delivery again",RESUME_DELIVERY
+I am not getting any update on my parcel because of corona,RESUME_DELIVERY
+Resume to Deliver,RESUME_DELIVERY
+If I order now do I get delivery,RESUME_DELIVERY
+Can you deliver it to my address,RESUME_DELIVERY
+Hi are you delivering now,RESUME_DELIVERY
+Since there is a lockdown and only essestial services are working will cureKart deliver me the items,RESUME_DELIVERY
+"as there is a lockdown everywhere, is CureKart still working?",RESUME_DELIVERY
+how is CureKart handling covid orders,RESUME_DELIVERY
+I am not sure if covid is affecting your delivery,RESUME_DELIVERY
+how is covid impacting your delivery,RESUME_DELIVERY
+Impact on Delivery,RESUME_DELIVERY
+When can I get my product if I order today,RESUME_DELIVERY
+When I'll be receiving the product?,RESUME_DELIVERY
+Are you delivering in lock down?,RESUME_DELIVERY
+If I order today when I will get it,RESUME_DELIVERY
+"If I order today, when will I get the delivery?",RESUME_DELIVERY
+Hello are you currently delivering?,RESUME_DELIVERY
+Hi do you deliver in this situation?,RESUME_DELIVERY
+"If i place my order today, when will it be delivered?",RESUME_DELIVERY
+I want to order but are you delivering,RESUME_DELIVERY
+If i order today in how many days it will be delivered,RESUME_DELIVERY
+Is deliveries happening now?,RESUME_DELIVERY
+If i i order today .how much time it will be delivered?,RESUME_DELIVERY
+Can u deliver product during shut down?,RESUME_DELIVERY
+If I will order one product today them when it will be reach,RESUME_DELIVERY
+can you let me know exact delivery time,RESUME_DELIVERY
+i need information related to delivery times,RESUME_DELIVERY
+Delivery time duration,RESUME_DELIVERY
+what will be the delivery date,RESUME_DELIVERY
+I want to know when i will get my order if i place my order today,RESUME_DELIVERY
+Are you people delivering products?,RESUME_DELIVERY
+If I place order today how soon can I get order delivered?,RESUME_DELIVERY
+After prepaid when will it arrive?,RESUME_DELIVERY
+You can deliver order now in curfew,RESUME_DELIVERY
+Wts delivery time if i order today,RESUME_DELIVERY
+is Cure Kart providing delivery during lockdown?,RESUME_DELIVERY
+Is delivery available,RESUME_DELIVERY
+Is delivery affected by covid 19,RESUME_DELIVERY
+If I order right now how long will it take to deliver,RESUME_DELIVERY
+I want to order whey protein...can you please tell me expacted time of delivery,RESUME_DELIVERY
+how to long will it take for delivery of producs,RESUME_DELIVERY
+How much time for prepaid parcels,RESUME_DELIVERY
+Delivery period and date is not mentioned,RESUME_DELIVERY
+Delivery is available but it will take 15-18 days u mean to say,RESUME_DELIVERY
+Can I get the product these days if I prepay you,RESUME_DELIVERY
+Are you guys delivering the products if i order?,RESUME_DELIVERY
+are u providing delivery,RESUME_DELIVERY
+It has any side effects or not,SIDE_EFFECT
+Does it have side effects?,SIDE_EFFECT
+is there any side effects,SIDE_EFFECT
+Side Effect,SIDE_EFFECT
+New to CureKart?,SIGN_UP
+Where can I sign up,SIGN_UP
+I am a new user,SIGN_UP
+I am new to curekart,SIGN_UP
+I am not a registered user of curekart,SIGN_UP
+I don't have the registered phone number,SIGN_UP
+Not a registered user,SIGN_UP
+Show me the main menu,START_OVER
+Start again,START_OVER
+Start over,START_OVER
+Restart the flow,START_OVER
+Start over the flow,START_OVER
+Can I visit your store,STORE_INFORMATION
+Àre your shops operational,STORE_INFORMATION
+Are stores still opening?,STORE_INFORMATION
+Are your stores open,STORE_INFORMATION
+Can i go to your shop,STORE_INFORMATION
+Is your store open,STORE_INFORMATION
+CureKart stores are open?,STORE_INFORMATION
+Can I purchase from shop,STORE_INFORMATION
+Can I purchase directly from store,STORE_INFORMATION
+Can i collect it from a store,STORE_INFORMATION
+Are curekart store open,STORE_INFORMATION
+Stores near me,STORE_INFORMATION
+Store information,STORE_INFORMATION
+Are your offline stores open?,STORE_INFORMATION
+Re-assess my profile,USER_GOAL_FORM
+I would want to take re-assessment,USER_GOAL_FORM
+Fill my goal,USER_GOAL_FORM
+Show me the form to add goal details,USER_GOAL_FORM
+How can I add my goals,USER_GOAL_FORM
+I want to add my goals,USER_GOAL_FORM
+Take reassessment,USER_GOAL_FORM
+Re-assessment,USER_GOAL_FORM
+Take Re-assessment,USER_GOAL_FORM
+Fill my body measures & Goal,USER_GOAL_FORM
+I want to take Re-assessment,USER_GOAL_FORM
+Let's do Re-assessment,USER_GOAL_FORM
+Is your head office working during lockdown?,WORK_FROM_HOME
+is curekart office open during the lockdown?,WORK_FROM_HOME
+I wanted to talk to contact your head office for some work but is it open?,WORK_FROM_HOME
+I hope you are also working from home during this time,WORK_FROM_HOME
+are you as well working from home like I am?,WORK_FROM_HOME
+is your banglore office working right now?,WORK_FROM_HOME
+how are you functioning,WORK_FROM_HOME
+does the government lockdown affect curekart?,WORK_FROM_HOME
+Office Information,WORK_FROM_HOME
+are you working during covid,WORK_FROM_HOME
+How can I increase my immunity,IMMUNITY
+I want to increase my immunity power,IMMUNITY
+Increase immunity power,IMMUNITY
+Increase Immunity,IMMUNITY
+Help me in increasing immunity,IMMUNITY
+Double Up Immunity Power,IMMUNITY

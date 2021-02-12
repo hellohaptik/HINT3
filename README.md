@@ -7,6 +7,13 @@ This repository contains datasets and code for the paper
   
 Preprint for the paper is available [here](https://arxiv.org/abs/2009.13833)
 
+**Update Feb 2021: We noticed in our analysis of the results that
+ there are few ground truth labels which are incorrect. Hence, we're releasing 
+ a new version, v2 of the dataset, present inside dataset/v2 folder. All the
+  results in the paper were obtained on the earlier version of the dataset 
+  present inside dataset/v1, which should be used to exactly reproduce
+   the results presented in the paper.**
+
 
 ### Dataset
 

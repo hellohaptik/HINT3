@@ -5,7 +5,7 @@ This repository contains datasets and code for the paper
  accepted at EMNLP-2020's
   [Insights workshop](https://insights-workshop.github.io/)
   
-Preprint for the paper is available [here](https://arxiv.org/abs/2009.13833)
+Published paper is available [here](https://www.aclweb.org/anthology/2020.insights-1.16/)
 
 **Update Feb 2021: We noticed in our analysis of the results that
  there are few ground truth labels which are incorrect. Hence, we're releasing 
@@ -154,3 +154,29 @@ The scripts to generate training data and predicting intents
 
 - The folder also contains config for each of the models
  trained on Full and Subset variations of datasets
+ 
+ 
+ ### Citation
+ 
+ If you use this in your research, please consider citing:
+ 
+ ```latex
+ @inproceedings{arora-etal-2020-hint3,
+    title = "{HINT}3: Raising the bar for Intent Detection in the Wild",
+    author = "Arora, Gaurav  and
+      Jain, Chirag  and
+      Chaturvedi, Manas  and
+      Modi, Krupal",
+    booktitle = "Proceedings of the First Workshop on Insights from Negative Results in NLP",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.insights-1.16",
+    doi = "10.18653/v1/2020.insights-1.16",
+    pages = "100--105",
+    abstract = "Intent Detection systems in the real world are exposed to complexities of imbalanced datasets containing varying perception of intent, unintended correlations and domain-specific aberrations. To facilitate benchmarking which can reflect near real-world scenarios, we introduce 3 new datasets created from live chatbots in diverse domains. Unlike most existing datasets that are crowdsourced, our datasets contain real user queries received by the chatbots and facilitates penalising unwanted correlations grasped during the training process. We evaluate 4 NLU platforms and a BERT based classifier and find that performance saturates at inadequate levels on test sets because all systems latch on to unintended patterns in training data.",
+}
+ ```
+ 
+ 
